@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Explore Ireland (Placeholder Counties)</title>
+  <title>Explore Islands (Ireland + UK)</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
   <link rel="stylesheet" href="/static/css/map.css">
@@ -10,18 +10,25 @@
 <body>
   <div id="app-shell">
     <div id="ui-bar">
-      <div id="ui-title">Explore Ireland</div>
+      <div id="ui-title">Explore Islands</div>
       <div class="control-group">
-        <span class="control-label">Provinces</span>
-        <button class="chip-btn" data-province="ulster">Ulster</button>
-        <button class="chip-btn" data-province="connacht">Connacht</button>
-        <button class="chip-btn" data-province="leinster">Leinster</button>
-        <button class="chip-btn" data-province="munster">Munster</button>
+        <span class="control-label">Ireland</span>
+        <button class="chip-btn" data-region="ulster">Ulster</button>
+        <button class="chip-btn" data-region="connacht">Connacht</button>
+        <button class="chip-btn" data-region="leinster">Leinster</button>
+        <button class="chip-btn" data-region="munster">Munster</button>
+      </div>
+      <div class="control-group">
+        <span class="control-label">UK Nations</span>
+        <button class="chip-btn" data-region="england">England</button>
+        <button class="chip-btn" data-region="scotland">Scotland</button>
+        <button class="chip-btn" data-region="wales">Wales</button>
+        <button class="chip-btn" data-region="northernireland">N. Ireland</button>
       </div>
       <div class="control-group">
         <span class="control-label">Map style</span>
         <button class="chip-btn active" data-mode="outline">Outlines</button>
-        <button class="chip-btn" data-mode="colours">County colours</button>
+        <button class="chip-btn" data-mode="colours">Region colours</button>
       </div>
       <div class="control-group">
         <span class="control-label">Overlay</span>

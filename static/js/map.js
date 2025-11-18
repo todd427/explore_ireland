@@ -1,17 +1,19 @@
 const map = L.map("map", {
   zoomControl: true,
   attributionControl: false
-}).setView([53.4, -8.0], 7);
+}).setView([54.0, -4.0], 6);
+
+map.zoomControl.setPosition("bottomright");
 
 L.tileLayer(
   "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
-  { maxZoom: 18 }
+  { maxZoom: 12 }
 ).addTo(map);
 
 let countiesMeta = {};
 let countyLayer = null;
-let currentMode = "outline";
-let overlayMode = "political";
+let currentMode = "outline";   // outline | colours
+let overlayMode = "political"; // political | cultural | geographic
 
 function applyBaseStyleForLayer(layer) {
   const slug = layer.feature.properties.slug;
@@ -23,14 +25,14 @@ function applyBaseStyleForLayer(layer) {
   if (currentMode === "colours") {
     layer.setStyle({
       color: county.primary_colour || "#ffffff",
-      weight: 1.8,
+      weight: 1.6,
       fillColor: county.primary_colour || "#ffffff",
       fillOpacity: 0.18
     });
   } else {
     layer.setStyle({
       color: "#ffffff",
-      weight: 1.5,
+      weight: 1.4,
       fillColor: "transparent",
       fillOpacity: 0.0
     });
@@ -63,20 +65,19 @@ function setOverlay(mode) {
   updateOverlayButtons();
 }
 
-function focusProvince(provinceSlug) {
+function focusRegion(regionSlug) {
   if (!countyLayer) return;
-  const target = provinceSlug.toLowerCase();
+  const target = regionSlug.toLowerCase();
   let combinedBounds = null;
   countyLayer.eachLayer(layer => {
     const slug = layer.feature.properties.slug;
     const county = countiesMeta[slug];
-    if (county && county.province && county.province.toLowerCase() === target) {
+    if (!county || !county.region) return;
+    const rSlug = county.region.toLowerCase().replace(/\s+/g,"");
+    if (rSlug === target) {
       const b = layer.getBounds();
-      if (!combinedBounds) {
-        combinedBounds = b;
-      } else {
-        combinedBounds.extend(b);
-      }
+      if (!combinedBounds) combinedBounds = b;
+      else combinedBounds.extend(b);
     }
   });
   if (combinedBounds) {
@@ -98,10 +99,10 @@ function setupUI() {
   culturalBtn.addEventListener("click", () => setOverlay("cultural"));
   geographicBtn.addEventListener("click", () => setOverlay("geographic"));
 
-  document.querySelectorAll("[data-province]").forEach(btn => {
+  document.querySelectorAll("[data-region]").forEach(btn => {
     btn.addEventListener("click", () => {
-      const prov = btn.getAttribute("data-province");
-      focusProvince(prov);
+      const region = btn.getAttribute("data-region");
+      focusRegion(region);
     });
   });
 
@@ -124,22 +125,20 @@ function updateOverlayButtons() {
 }
 
 async function loadEverything() {
-  const [metaRes, geoRes, meRes] = await Promise.all([
+  const [metaRes, geoRes] = await Promise.all([
     fetch("/api/counties/"),
-    fetch("/static/data/ireland_counties.geojson"),
-    fetch("/api/geo/me")
+    fetch("/static/data/all_regions.geojson"),
   ]);
 
   const metaList = await metaRes.json();
   const geoData = await geoRes.json();
-  const me = await meRes.json();
 
   metaList.forEach(c => { countiesMeta[c.slug] = c; });
 
   countyLayer = L.geoJSON(geoData, {
-    style: () => ({
+    style: (feature) => ({
       color: "#ffffff",
-      weight: 1.5,
+      weight: 1.4,
       fillOpacity: 0.0,
       fillColor: "transparent",
       className: "county-shape"
@@ -158,7 +157,7 @@ async function loadEverything() {
           fillOpacity: 0.3
         });
         layer.bindTooltip(
-          `<b>${county.name}</b><br>${(county.colours || []).join(" / ")}`,
+          `<b>${county.name}</b><br>${(county.region || "")}`,
           { className: "county-tooltip", sticky: true }
         ).openTooltip();
       });
@@ -182,15 +181,6 @@ async function loadEverything() {
   }).addTo(map);
 
   applyBaseStyle();
-
-  const guessed = me.guessed_county;
-  if (guessed && countyLayer) {
-    countyLayer.eachLayer(layer => {
-      if (layer.feature.properties.slug === guessed) {
-        map.fitBounds(layer.getBounds(), { padding: [30, 30] });
-      }
-    });
-  }
 }
 
 document.addEventListener("DOMContentLoaded", () => {

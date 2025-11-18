@@ -2,13 +2,17 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>{{ county.name }}</title>
+  <title>{{ county.name if county else "Region not found" }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <h1>{{ county.name }}</h1>
-  <p><strong>Motto:</strong> {{ county.motto }}</p>
-  <p><strong>Colours:</strong> {{ county.colours }}</p>
-  <p><strong>Province:</strong> {{ county.province }}</p>
+  {% if county %}
+    <h1>{{ county.name }}</h1>
+    <p><strong>Region:</strong> {{ county.region or "Unknown" }}</p>
+    <p><strong>Country group:</strong> {{ county.country_group or "Unknown" }}</p>
+    <p><strong>Colours:</strong> {{ county.colours }}</p>
+  {% else %}
+    <h1>Region not found</h1>
+  {% endif %}
 </body>
 </html>

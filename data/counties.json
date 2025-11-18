@@ -1,48 +1,9 @@
 [
   {
-    "slug": "antrim",
-    "name": "County Antrim",
-    "province": "Ulster",
-    "motto": "",
-    "colours": [
-      "#ffcc00",
-      "#cc0000"
-    ],
-    "primary_colour": "#ffcc00",
-    "secondary_colour": "#cc0000",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
-    "geo_id": "",
-    "centroid": {
-      "lat": 54.9875,
-      "lng": -10.1875
-    }
-  },
-  {
-    "slug": "armagh",
-    "name": "County Armagh",
-    "province": "Ulster",
-    "motto": "",
-    "colours": [
-      "#ffcc00",
-      "#cc0000"
-    ],
-    "primary_colour": "#ffcc00",
-    "secondary_colour": "#cc0000",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
-    "geo_id": "",
-    "centroid": {
-      "lat": 54.9875,
-      "lng": -9.5625
-    }
-  },
-  {
     "slug": "carlow",
-    "name": "County Carlow",
-    "province": "Leinster",
+    "name": "Carlow",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -53,16 +14,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 54.9875,
-      "lng": -8.9375
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "cavan",
-    "name": "County Cavan",
-    "province": "Ulster",
+    "name": "Cavan",
+    "region": "Ulster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#ffcc00",
@@ -73,16 +34,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 54.9875,
-      "lng": -8.3125
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "clare",
-    "name": "County Clare",
-    "province": "Munster",
+    "name": "Clare",
+    "region": "Munster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#990000",
@@ -93,16 +54,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 54.9875,
-      "lng": -7.6875
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "cork",
-    "name": "County Cork",
-    "province": "Munster",
+    "name": "Cork",
+    "region": "Munster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#990000",
@@ -113,36 +74,36 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 54.9875,
-      "lng": -7.0625
+      "lat": 0,
+      "lng": 0
     }
   },
   {
-    "slug": "derry",
-    "name": "County Derry",
-    "province": "Ulster",
+    "slug": "corkcity",
+    "name": "CorkCity",
+    "region": "Ireland",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
-      "#ffcc00",
-      "#cc0000"
+      "#339966",
+      "#ffffff"
     ],
-    "primary_colour": "#ffcc00",
-    "secondary_colour": "#cc0000",
+    "primary_colour": "#339966",
+    "secondary_colour": "#ffffff",
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 54.9875,
-      "lng": -6.4375
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "donegal",
-    "name": "County Donegal",
-    "province": "Ulster",
+    "name": "Donegal",
+    "region": "Ulster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#ffcc00",
@@ -153,36 +114,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 54.9875,
-      "lng": -5.8125
-    }
-  },
-  {
-    "slug": "down",
-    "name": "County Down",
-    "province": "Ulster",
-    "motto": "",
-    "colours": [
-      "#ffcc00",
-      "#cc0000"
-    ],
-    "primary_colour": "#ffcc00",
-    "secondary_colour": "#cc0000",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
-    "geo_id": "",
-    "centroid": {
-      "lat": 53.962500000000006,
-      "lng": -10.1875
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "dublin",
-    "name": "County Dublin",
-    "province": "Leinster",
+    "name": "Dublin",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -193,36 +134,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 53.962500000000006,
-      "lng": -9.5625
-    }
-  },
-  {
-    "slug": "fermanagh",
-    "name": "County Fermanagh",
-    "province": "Ulster",
-    "motto": "",
-    "colours": [
-      "#ffcc00",
-      "#cc0000"
-    ],
-    "primary_colour": "#ffcc00",
-    "secondary_colour": "#cc0000",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
-    "geo_id": "",
-    "centroid": {
-      "lat": 53.962500000000006,
-      "lng": -8.9375
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "galway",
-    "name": "County Galway",
-    "province": "Connacht",
+    "name": "Galway",
+    "region": "Connacht",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#003399",
@@ -233,16 +154,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 53.962500000000006,
-      "lng": -8.3125
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "kerry",
-    "name": "County Kerry",
-    "province": "Munster",
+    "name": "Kerry",
+    "region": "Munster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#990000",
@@ -253,16 +174,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 53.962500000000006,
-      "lng": -7.6875
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "kildare",
-    "name": "County Kildare",
-    "province": "Leinster",
+    "name": "Kildare",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -273,16 +194,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 53.962500000000006,
-      "lng": -7.0625
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "kilkenny",
-    "name": "County Kilkenny",
-    "province": "Leinster",
+    "name": "Kilkenny",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -293,16 +214,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 53.962500000000006,
-      "lng": -6.4375
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "laois",
-    "name": "County Laois",
-    "province": "Leinster",
+    "name": "Laois",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -313,16 +234,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 53.962500000000006,
-      "lng": -5.8125
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "leitrim",
-    "name": "County Leitrim",
-    "province": "Connacht",
+    "name": "Leitrim",
+    "region": "Connacht",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#003399",
@@ -333,16 +254,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 52.9375,
-      "lng": -10.1875
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "limerick",
-    "name": "County Limerick",
-    "province": "Munster",
+    "name": "Limerick",
+    "region": "Munster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#990000",
@@ -353,16 +274,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 52.9375,
-      "lng": -9.5625
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "longford",
-    "name": "County Longford",
-    "province": "Leinster",
+    "name": "Longford",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -373,16 +294,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 52.9375,
-      "lng": -8.9375
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "louth",
-    "name": "County Louth",
-    "province": "Leinster",
+    "name": "Louth",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -393,16 +314,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 52.9375,
-      "lng": -8.3125
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "mayo",
-    "name": "County Mayo",
-    "province": "Connacht",
+    "name": "Mayo",
+    "region": "Connacht",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#003399",
@@ -413,16 +334,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 52.9375,
-      "lng": -7.6875
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "meath",
-    "name": "County Meath",
-    "province": "Leinster",
+    "name": "Meath",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -433,16 +354,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 52.9375,
-      "lng": -7.0625
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "monaghan",
-    "name": "County Monaghan",
-    "province": "Ulster",
+    "name": "Monaghan",
+    "region": "Ulster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#ffcc00",
@@ -453,16 +374,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 52.9375,
-      "lng": -6.4375
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "offaly",
-    "name": "County Offaly",
-    "province": "Leinster",
+    "name": "Offaly",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -473,16 +394,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 52.9375,
-      "lng": -5.8125
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "roscommon",
-    "name": "County Roscommon",
-    "province": "Connacht",
+    "name": "Roscommon",
+    "region": "Connacht",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#003399",
@@ -493,16 +414,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 51.912499999999994,
-      "lng": -10.1875
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "sligo",
-    "name": "County Sligo",
-    "province": "Connacht",
+    "name": "Sligo",
+    "region": "Connacht",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#003399",
@@ -513,16 +434,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 51.912499999999994,
-      "lng": -9.5625
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "tipperary",
-    "name": "County Tipperary",
-    "province": "Munster",
+    "name": "Tipperary",
+    "region": "Munster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#990000",
@@ -533,36 +454,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 51.912499999999994,
-      "lng": -8.9375
-    }
-  },
-  {
-    "slug": "tyrone",
-    "name": "County Tyrone",
-    "province": "Ulster",
-    "motto": "",
-    "colours": [
-      "#ffcc00",
-      "#cc0000"
-    ],
-    "primary_colour": "#ffcc00",
-    "secondary_colour": "#cc0000",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
-    "geo_id": "",
-    "centroid": {
-      "lat": 51.912499999999994,
-      "lng": -8.3125
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "waterford",
-    "name": "County Waterford",
-    "province": "Munster",
+    "name": "Waterford",
+    "region": "Munster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#990000",
@@ -573,16 +474,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 51.912499999999994,
-      "lng": -7.6875
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "westmeath",
-    "name": "County Westmeath",
-    "province": "Leinster",
+    "name": "Westmeath",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -593,16 +494,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 51.912499999999994,
-      "lng": -7.0625
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "wexford",
-    "name": "County Wexford",
-    "province": "Leinster",
+    "name": "Wexford",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -613,16 +514,16 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 51.912499999999994,
-      "lng": -6.4375
+      "lat": 0,
+      "lng": 0
     }
   },
   {
     "slug": "wicklow",
-    "name": "County Wicklow",
-    "province": "Leinster",
+    "name": "Wicklow",
+    "region": "Leinster",
+    "country_group": "Ireland",
     "motto": "",
     "colours": [
       "#006633",
@@ -633,10 +534,2029 @@
     "key_places": [],
     "key_industries": [],
     "key_history": [],
-    "geo_id": "",
     "centroid": {
-      "lat": 51.912499999999994,
-      "lng": -5.8125
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "bathandnortheastsomerset",
+    "name": "Bathand North East Somerset",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "bedford",
+    "name": "Bedford",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "blackburnwithdarwen",
+    "name": "Blackburnwith Darwen",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "blackpool",
+    "name": "Blackpool",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "bournemouthchristchurchandpo",
+    "name": "Bournemouth, Christchurchand Po",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "bournemouthchristchurchandpo",
+    "name": "Bournemouth, Christchurchand Po",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "bracknellforest",
+    "name": "Bracknell Forest",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "bradford",
+    "name": "Bradford",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "brightonandhove",
+    "name": "Brightonand Hove",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "calderdale",
+    "name": "Calderdale",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "durham",
+    "name": "County Durham",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "cumbria",
+    "name": "Cumbria",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "darlington",
+    "name": "Darlington",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "derby",
+    "name": "Derby",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "gateshead",
+    "name": "Gateshead",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "halton",
+    "name": "Halton",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "hartlepool",
+    "name": "Hartlepool",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "herefordshireof",
+    "name": "Herefordshire, Countyof",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "isleofwight",
+    "name": "Isleof Wight",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "islesofscilly",
+    "name": "Islesof Scilly",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "kent",
+    "name": "Kent",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "kingstonuponhullcityof",
+    "name": "Kingstonupon Hull, Cityof",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "kirklees",
+    "name": "Kirklees",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "leeds",
+    "name": "Leeds",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "luton",
+    "name": "Luton",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "medway",
+    "name": "Medway",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "miltonkeynes",
+    "name": "Milton Keynes",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "northyorkshire",
+    "name": "North Yorkshire",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "oldham",
+    "name": "Oldham",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "peterborough",
+    "name": "Peterborough",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "plymouth",
+    "name": "Plymouth",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "sheffield",
+    "name": "Sheffield",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "somerset",
+    "name": "Somerset",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "southgloucestershire",
+    "name": "South Gloucestershire",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "southendonsea",
+    "name": "Southend-on-Sea",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "sthelens",
+    "name": "St.Helens",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "stocktonontees",
+    "name": "Stockton-on-Tees",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "suffolk",
+    "name": "Suffolk",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "surrey",
+    "name": "Surrey",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "swindon",
+    "name": "Swindon",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "telfordandwrekin",
+    "name": "Telfordand Wrekin",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "thurrock",
+    "name": "Thurrock",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "torbay",
+    "name": "Torbay",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "wakefield",
+    "name": "Wakefield",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "westberkshire",
+    "name": "West Berkshire",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "westsussex",
+    "name": "West Sussex",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "wirral",
+    "name": "Wirral",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "wolverhampton",
+    "name": "Wolverhampton",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "york",
+    "name": "York",
+    "region": "England",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ff4d4d",
+      "#ffffff"
+    ],
+    "primary_colour": "#ff4d4d",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "antrimandnewtownabbey",
+    "name": "Antrimand Newtownabbey",
+    "region": "Northern Ireland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ffcc66",
+      "#ffffff"
+    ],
+    "primary_colour": "#ffcc66",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "ardsandnorthdown",
+    "name": "Ardsand North Down",
+    "region": "Northern Ireland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ffcc66",
+      "#ffffff"
+    ],
+    "primary_colour": "#ffcc66",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "armaghcitybanbridgeandcraig",
+    "name": "Armagh City, Banbridgeand Craig",
+    "region": "Northern Ireland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ffcc66",
+      "#ffffff"
+    ],
+    "primary_colour": "#ffcc66",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "belfast",
+    "name": "Belfast",
+    "region": "Northern Ireland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ffcc66",
+      "#ffffff"
+    ],
+    "primary_colour": "#ffcc66",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "derrycityandstrabane",
+    "name": "Derry Cityand Strabane",
+    "region": "Northern Ireland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ffcc66",
+      "#ffffff"
+    ],
+    "primary_colour": "#ffcc66",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "fermanaghandomagh",
+    "name": "Fermanaghand Omagh",
+    "region": "Northern Ireland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ffcc66",
+      "#ffffff"
+    ],
+    "primary_colour": "#ffcc66",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "midandeastantrim",
+    "name": "Midand East Antrim",
+    "region": "Northern Ireland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ffcc66",
+      "#ffffff"
+    ],
+    "primary_colour": "#ffcc66",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "midulster",
+    "name": "Mid Ulster",
+    "region": "Northern Ireland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ffcc66",
+      "#ffffff"
+    ],
+    "primary_colour": "#ffcc66",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "newrymourneanddown",
+    "name": "Newry, Mourneand Down",
+    "region": "Northern Ireland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#ffcc66",
+      "#ffffff"
+    ],
+    "primary_colour": "#ffcc66",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "aberdeencity",
+    "name": "Aberdeen City",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "aberdeenshire",
+    "name": "Aberdeenshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "angus",
+    "name": "Angus",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "argyllandbute",
+    "name": "Argylland Bute",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "cityofedinburgh",
+    "name": "Cityof Edinburgh",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "clackmannanshire",
+    "name": "Clackmannanshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "dumfriesandgalloway",
+    "name": "Dumfriesand Galloway",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "dundeecity",
+    "name": "Dundee City",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "eastayrshire",
+    "name": "East Ayrshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "eastdunbartonshire",
+    "name": "East Dunbartonshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "eastlothian",
+    "name": "East Lothian",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "eastrenfrewshire",
+    "name": "East Renfrewshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "falkirk",
+    "name": "Falkirk",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "fife",
+    "name": "Fife",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "glasgowcity",
+    "name": "Glasgow City",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "highland",
+    "name": "Highland",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "inverclyde",
+    "name": "Inverclyde",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "midlothian",
+    "name": "Midlothian",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "moray",
+    "name": "Moray",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "naheileanansiar",
+    "name": "Nah-Eileanan Siar",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "northlanarkshire",
+    "name": "North Lanarkshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "orkneyislands",
+    "name": "Orkney Islands",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "perthandkinross",
+    "name": "Perthand Kinross",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "renfrewshire",
+    "name": "Renfrewshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "scottishborders",
+    "name": "Scottish Borders",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "shetlandislands",
+    "name": "Shetland Islands",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "southayrshire",
+    "name": "South Ayrshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "southlanarkshire",
+    "name": "South Lanarkshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "stirling",
+    "name": "Stirling",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "westdunbartonshire",
+    "name": "West Dunbartonshire",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "westlothian",
+    "name": "West Lothian",
+    "region": "Scotland",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66a3ff",
+      "#ffffff"
+    ],
+    "primary_colour": "#66a3ff",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "caerphilly",
+    "name": "Caerphilly",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "cardiff",
+    "name": "Cardiff",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "carmarthenshire",
+    "name": "Carmarthenshire",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "ceredigion",
+    "name": "Ceredigion",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "conwy",
+    "name": "Conwy",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "flintshire",
+    "name": "Flintshire",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "isleofanglesey",
+    "name": "Isleof Anglesey",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "monmouthshire",
+    "name": "Monmouthshire",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "newport",
+    "name": "Newport",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "pembrokeshire",
+    "name": "Pembrokeshire",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "powys",
+    "name": "Powys",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
+    }
+  },
+  {
+    "slug": "rhonddacynontaf",
+    "name": "Rhondda Cynon Taf",
+    "region": "Wales",
+    "country_group": "UK",
+    "motto": "",
+    "colours": [
+      "#66ff99",
+      "#ffffff"
+    ],
+    "primary_colour": "#66ff99",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "centroid": {
+      "lat": 0,
+      "lng": 0
     }
   }
 ]

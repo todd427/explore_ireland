@@ -1,13 +1,17 @@
-# Explore Ireland – Placeholder 32 Counties
+# Explore Islands – Ireland + UK
 
-This build uses a synthetic grid of 32 rectangular polygons over Ireland's bounding box.
-Each rectangle is mapped to one of the traditional 32 counties, with placeholder colours
-(by province). This is intended purely for UI and interaction testing:
+This project combines:
+- Real counties of the Republic of Ireland (from GADM IRL level 2, dissolved)
+- All UK level-2 regions (from GADM GBR level 2): districts / council areas / principal areas
 
-- Hover highlight in county colours
-- Click-through to simple county detail pages
-- Province quick-zoom buttons
-- Map style and overlay toggles
+Grouped as:
+- Irish provinces: Ulster / Connacht / Leinster / Munster
+- UK nations: England / Scotland / Wales / Northern Ireland
 
-Later, replace `static/data/ireland_counties.geojson` and `data/ireland_counties.geojson`
-with real boundary data and enrich `data/counties.json` with proper content.
+Features:
+- Dark-mode Leaflet map
+- Outlines & neon-colour modes
+- Hover highlight with tooltips
+- Click-through region detail pages
+- Quick zoom buttons by province / nation
+- Zoom controls positioned bottom-right
