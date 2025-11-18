@@ -1,3 +1,32 @@
 <!DOCTYPE html>
-<html><head><meta charset="utf-8"><title>{{county.name}}</title></head>
-<body><h1>{{county.name}}</h1><p>Motto: {{county.motto}}</p><p>Colours: {{county.colours}}</p></body></html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ county.name }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <h1>{{ county.name }}</h1>
+  <p><strong>Motto:</strong> {{ county.motto }}</p>
+  <p><strong>Colours:</strong> {{ county.colours }}</p>
+  <p><strong>Province:</strong> {{ county.province }}</p>
+  <h2>Key places</h2>
+  <ul>
+    {% for place in county.key_places %}
+      <li>{{ place }}</li>
+    {% endfor %}
+  </ul>
+  <h2>Key industries</h2>
+  <ul>
+    {% for ind in county.key_industries %}
+      <li>{{ ind }}</li>
+    {% endfor %}
+  </ul>
+  <h2>Key history</h2>
+  <ul>
+    {% for item in county.key_history %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
