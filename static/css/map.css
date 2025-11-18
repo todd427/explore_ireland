@@ -80,8 +80,6 @@ body{
   pointer-events:auto;
   transition:fill-opacity 0.2s ease, stroke-width 0.2s ease, stroke 0.2s ease;
 }
-
-/* Mobile tweaks */
 @media (max-width:600px){
   #ui-bar{
     flex-direction:column;

@@ -10,14 +10,13 @@ L.tileLayer(
 
 let countiesMeta = {};
 let countyLayer = null;
-let currentMode = "outline";   // outline | colours
-let overlayMode = "political"; // political | cultural | geographic
+let currentMode = "outline";
+let overlayMode = "political";
 
 function applyBaseStyleForLayer(layer) {
   const slug = layer.feature.properties.slug;
   const county = countiesMeta[slug] || {};
   if (overlayMode === "geographic") {
-    // should be hidden; but guard anyway
     layer.setStyle({opacity:0, fillOpacity:0});
     return;
   }
@@ -29,7 +28,6 @@ function applyBaseStyleForLayer(layer) {
       fillOpacity: 0.18
     });
   } else {
-    // outline mode
     layer.setStyle({
       color: "#ffffff",
       weight: 1.5,
@@ -171,7 +169,6 @@ async function loadEverything() {
       });
 
       layer.on("click", (e) => {
-        // On touch devices, first tap highlights, second tap navigates
         if (e.originalEvent && e.originalEvent.pointerType === "touch") {
           if (!layer._touchedOnce) {
             layer._touchedOnce = true;

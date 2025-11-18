@@ -1,37 +1,642 @@
 [
   {
+    "slug": "antrim",
+    "name": "County Antrim",
+    "province": "Ulster",
+    "motto": "",
+    "colours": [
+      "#ffcc00",
+      "#cc0000"
+    ],
+    "primary_colour": "#ffcc00",
+    "secondary_colour": "#cc0000",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 54.9875,
+      "lng": -10.1875
+    }
+  },
+  {
+    "slug": "armagh",
+    "name": "County Armagh",
+    "province": "Ulster",
+    "motto": "",
+    "colours": [
+      "#ffcc00",
+      "#cc0000"
+    ],
+    "primary_colour": "#ffcc00",
+    "secondary_colour": "#cc0000",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 54.9875,
+      "lng": -9.5625
+    }
+  },
+  {
+    "slug": "carlow",
+    "name": "County Carlow",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 54.9875,
+      "lng": -8.9375
+    }
+  },
+  {
+    "slug": "cavan",
+    "name": "County Cavan",
+    "province": "Ulster",
+    "motto": "",
+    "colours": [
+      "#ffcc00",
+      "#cc0000"
+    ],
+    "primary_colour": "#ffcc00",
+    "secondary_colour": "#cc0000",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 54.9875,
+      "lng": -8.3125
+    }
+  },
+  {
+    "slug": "clare",
+    "name": "County Clare",
+    "province": "Munster",
+    "motto": "",
+    "colours": [
+      "#990000",
+      "#ffffff"
+    ],
+    "primary_colour": "#990000",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 54.9875,
+      "lng": -7.6875
+    }
+  },
+  {
+    "slug": "cork",
+    "name": "County Cork",
+    "province": "Munster",
+    "motto": "",
+    "colours": [
+      "#990000",
+      "#ffffff"
+    ],
+    "primary_colour": "#990000",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 54.9875,
+      "lng": -7.0625
+    }
+  },
+  {
+    "slug": "derry",
+    "name": "County Derry",
+    "province": "Ulster",
+    "motto": "",
+    "colours": [
+      "#ffcc00",
+      "#cc0000"
+    ],
+    "primary_colour": "#ffcc00",
+    "secondary_colour": "#cc0000",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 54.9875,
+      "lng": -6.4375
+    }
+  },
+  {
     "slug": "donegal",
     "name": "County Donegal",
     "province": "Ulster",
-    "motto": "Up D\u00fan na nGall",
+    "motto": "",
     "colours": [
-      "green",
-      "gold"
+      "#ffcc00",
+      "#cc0000"
     ],
-    "primary_colour": "#007a33",
-    "secondary_colour": "#ffcc00",
-    "key_places": [
-      "Letterkenny",
-      "Buncrana",
-      "Donegal Town",
-      "Gweedore",
-      "Fanad Head Lighthouse"
-    ],
-    "key_industries": [
-      "Tourism",
-      "Fishing",
-      "Agriculture",
-      "Outdoor sports"
-    ],
-    "key_history": [
-      "Stronghold of the O'Donnell dynasty.",
-      "One of the last Gaelic regions to resist English rule.",
-      "Known for traditional music, landscape, and weaving."
-    ],
-    "geo_id": "IE.DL",
+    "primary_colour": "#ffcc00",
+    "secondary_colour": "#cc0000",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
     "centroid": {
-      "lat": 54.95,
-      "lng": -7.73
+      "lat": 54.9875,
+      "lng": -5.8125
+    }
+  },
+  {
+    "slug": "down",
+    "name": "County Down",
+    "province": "Ulster",
+    "motto": "",
+    "colours": [
+      "#ffcc00",
+      "#cc0000"
+    ],
+    "primary_colour": "#ffcc00",
+    "secondary_colour": "#cc0000",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 53.962500000000006,
+      "lng": -10.1875
+    }
+  },
+  {
+    "slug": "dublin",
+    "name": "County Dublin",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 53.962500000000006,
+      "lng": -9.5625
+    }
+  },
+  {
+    "slug": "fermanagh",
+    "name": "County Fermanagh",
+    "province": "Ulster",
+    "motto": "",
+    "colours": [
+      "#ffcc00",
+      "#cc0000"
+    ],
+    "primary_colour": "#ffcc00",
+    "secondary_colour": "#cc0000",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 53.962500000000006,
+      "lng": -8.9375
+    }
+  },
+  {
+    "slug": "galway",
+    "name": "County Galway",
+    "province": "Connacht",
+    "motto": "",
+    "colours": [
+      "#003399",
+      "#ffffff"
+    ],
+    "primary_colour": "#003399",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 53.962500000000006,
+      "lng": -8.3125
+    }
+  },
+  {
+    "slug": "kerry",
+    "name": "County Kerry",
+    "province": "Munster",
+    "motto": "",
+    "colours": [
+      "#990000",
+      "#ffffff"
+    ],
+    "primary_colour": "#990000",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 53.962500000000006,
+      "lng": -7.6875
+    }
+  },
+  {
+    "slug": "kildare",
+    "name": "County Kildare",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 53.962500000000006,
+      "lng": -7.0625
+    }
+  },
+  {
+    "slug": "kilkenny",
+    "name": "County Kilkenny",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 53.962500000000006,
+      "lng": -6.4375
+    }
+  },
+  {
+    "slug": "laois",
+    "name": "County Laois",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 53.962500000000006,
+      "lng": -5.8125
+    }
+  },
+  {
+    "slug": "leitrim",
+    "name": "County Leitrim",
+    "province": "Connacht",
+    "motto": "",
+    "colours": [
+      "#003399",
+      "#ffffff"
+    ],
+    "primary_colour": "#003399",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 52.9375,
+      "lng": -10.1875
+    }
+  },
+  {
+    "slug": "limerick",
+    "name": "County Limerick",
+    "province": "Munster",
+    "motto": "",
+    "colours": [
+      "#990000",
+      "#ffffff"
+    ],
+    "primary_colour": "#990000",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 52.9375,
+      "lng": -9.5625
+    }
+  },
+  {
+    "slug": "longford",
+    "name": "County Longford",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 52.9375,
+      "lng": -8.9375
+    }
+  },
+  {
+    "slug": "louth",
+    "name": "County Louth",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 52.9375,
+      "lng": -8.3125
+    }
+  },
+  {
+    "slug": "mayo",
+    "name": "County Mayo",
+    "province": "Connacht",
+    "motto": "",
+    "colours": [
+      "#003399",
+      "#ffffff"
+    ],
+    "primary_colour": "#003399",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 52.9375,
+      "lng": -7.6875
+    }
+  },
+  {
+    "slug": "meath",
+    "name": "County Meath",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 52.9375,
+      "lng": -7.0625
+    }
+  },
+  {
+    "slug": "monaghan",
+    "name": "County Monaghan",
+    "province": "Ulster",
+    "motto": "",
+    "colours": [
+      "#ffcc00",
+      "#cc0000"
+    ],
+    "primary_colour": "#ffcc00",
+    "secondary_colour": "#cc0000",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 52.9375,
+      "lng": -6.4375
+    }
+  },
+  {
+    "slug": "offaly",
+    "name": "County Offaly",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 52.9375,
+      "lng": -5.8125
+    }
+  },
+  {
+    "slug": "roscommon",
+    "name": "County Roscommon",
+    "province": "Connacht",
+    "motto": "",
+    "colours": [
+      "#003399",
+      "#ffffff"
+    ],
+    "primary_colour": "#003399",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 51.912499999999994,
+      "lng": -10.1875
+    }
+  },
+  {
+    "slug": "sligo",
+    "name": "County Sligo",
+    "province": "Connacht",
+    "motto": "",
+    "colours": [
+      "#003399",
+      "#ffffff"
+    ],
+    "primary_colour": "#003399",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 51.912499999999994,
+      "lng": -9.5625
+    }
+  },
+  {
+    "slug": "tipperary",
+    "name": "County Tipperary",
+    "province": "Munster",
+    "motto": "",
+    "colours": [
+      "#990000",
+      "#ffffff"
+    ],
+    "primary_colour": "#990000",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 51.912499999999994,
+      "lng": -8.9375
+    }
+  },
+  {
+    "slug": "tyrone",
+    "name": "County Tyrone",
+    "province": "Ulster",
+    "motto": "",
+    "colours": [
+      "#ffcc00",
+      "#cc0000"
+    ],
+    "primary_colour": "#ffcc00",
+    "secondary_colour": "#cc0000",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 51.912499999999994,
+      "lng": -8.3125
+    }
+  },
+  {
+    "slug": "waterford",
+    "name": "County Waterford",
+    "province": "Munster",
+    "motto": "",
+    "colours": [
+      "#990000",
+      "#ffffff"
+    ],
+    "primary_colour": "#990000",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 51.912499999999994,
+      "lng": -7.6875
+    }
+  },
+  {
+    "slug": "westmeath",
+    "name": "County Westmeath",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 51.912499999999994,
+      "lng": -7.0625
+    }
+  },
+  {
+    "slug": "wexford",
+    "name": "County Wexford",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 51.912499999999994,
+      "lng": -6.4375
+    }
+  },
+  {
+    "slug": "wicklow",
+    "name": "County Wicklow",
+    "province": "Leinster",
+    "motto": "",
+    "colours": [
+      "#006633",
+      "#ffffff"
+    ],
+    "primary_colour": "#006633",
+    "secondary_colour": "#ffffff",
+    "key_places": [],
+    "key_industries": [],
+    "key_history": [],
+    "geo_id": "",
+    "centroid": {
+      "lat": 51.912499999999994,
+      "lng": -5.8125
     }
   }
 ]
