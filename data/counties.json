@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "donegal",
+    "name": "County Donegal",
+    "province": "Ulster",
+    "motto": "Up D\u00fan na nGall",
+    "colours": [
+      "green",
+      "gold"
+    ],
+    "primary_colour": "#007a33",
+    "secondary_colour": "#ffcc00",
+    "key_places": [
+      "Letterkenny",
+      "Buncrana",
+      "Donegal Town",
+      "Gweedore",
+      "Fanad Head Lighthouse"
+    ],
+    "key_industries": [
+      "Tourism",
+      "Fishing",
+      "Agriculture",
+      "Outdoor sports"
+    ],
+    "key_history": [
+      "Stronghold of the O'Donnell dynasty.",
+      "One of the last Gaelic regions to resist English rule.",
+      "Known for traditional music, landscape, and weaving."
+    ],
+    "geo_id": "IE.DL",
+    "centroid": {
+      "lat": 54.95,
+      "lng": -7.73
+    }
+  }
+]

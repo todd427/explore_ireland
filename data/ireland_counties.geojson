@@ -1,0 +1,4 @@
+{
+"type":"FeatureCollection",
+"features":[{"type":"Feature","properties":{"slug":"donegal","name":"County Donegal"},"geometry":{"type":"Polygon","coordinates":[[[-8.3,55.2],[-7.0,55.2],[-7.0,54.7],[-8.3,54.7],[-8.3,55.2]]]}}]
+}
