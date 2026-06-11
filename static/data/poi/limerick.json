@@ -1,0 +1,498 @@
+{
+  "slug": "limerick",
+  "name": "Limerick",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "The Oak Room",
+        "kind": "Restaurant",
+        "lat": 52.563783,
+        "lon": -8.777861,
+        "cuisine": null,
+        "website": "https://www.adaremanor.com"
+      },
+      {
+        "name": "1826 Adare",
+        "kind": "Restaurant",
+        "lat": 52.564593,
+        "lon": -8.788164,
+        "cuisine": null,
+        "website": "https://1826adare.ie"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 52.664081,
+        "lon": -8.628199,
+        "cuisine": "pizza",
+        "website": "https://apache.ie/stores/order-pizza-limerick"
+      },
+      {
+        "name": "Aunty Lena’s Bar",
+        "kind": "Pub",
+        "lat": 52.564187,
+        "lon": -8.790898,
+        "cuisine": null,
+        "website": "https://auntylenas.com/"
+      },
+      {
+        "name": "Bill Chawke",
+        "kind": "Pub",
+        "lat": 52.56329,
+        "lon": -8.79256,
+        "cuisine": null,
+        "website": "https://billchawke.com/"
+      },
+      {
+        "name": "Bulgaden Castle",
+        "kind": "Restaurant",
+        "lat": 52.418325,
+        "lon": -8.532964,
+        "cuisine": null,
+        "website": "http://www.bulgadencastle.com"
+      },
+      {
+        "name": "Bun Bros",
+        "kind": "Fast food",
+        "lat": 52.653146,
+        "lon": -8.647735,
+        "cuisine": "burger, pizza",
+        "website": "https://bunbros.ie/"
+      },
+      {
+        "name": "Chasers Bar & Bistro",
+        "kind": "Bar",
+        "lat": 52.448911,
+        "lon": -9.0512,
+        "cuisine": null,
+        "website": "https://www.longcourthousehotel.ie/chasers-bar-bistro.html"
+      },
+      {
+        "name": "Cornstore",
+        "kind": "Restaurant",
+        "lat": 52.662529,
+        "lon": -8.625206,
+        "cuisine": null,
+        "website": "http://www.cornstorelimerick.com/"
+      },
+      {
+        "name": "Crew Brewing Taproom",
+        "kind": "Pub",
+        "lat": 52.661933,
+        "lon": -8.623675,
+        "cuisine": null,
+        "website": "https://www.crewbrewing.ie/taproom"
+      },
+      {
+        "name": "Cronin's Bar",
+        "kind": "Pub",
+        "lat": 52.451024,
+        "lon": -9.060321,
+        "cuisine": null,
+        "website": "https://www.dancroninsbar.com/"
+      },
+      {
+        "name": "DOH. Proper Pizza",
+        "kind": "Restaurant",
+        "lat": 52.662168,
+        "lon": -8.628244,
+        "cuisine": "pizza",
+        "website": "https://dohpizzas.ie/"
+      },
+      {
+        "name": "Da Vincenzo’s",
+        "kind": "Restaurant",
+        "lat": 52.662604,
+        "lon": -8.629043,
+        "cuisine": "italian",
+        "website": "https://davincenzo.ie"
+      },
+      {
+        "name": "Dolan’s",
+        "kind": "Pub",
+        "lat": 52.658832,
+        "lon": -8.638209,
+        "cuisine": null,
+        "website": "https://www.dolans.ie"
+      },
+      {
+        "name": "Duo",
+        "kind": "Café",
+        "lat": 52.663916,
+        "lon": -8.627313,
+        "cuisine": null,
+        "website": "https://duoireland.com"
+      },
+      {
+        "name": "Eskimo Pizza",
+        "kind": "Fast food",
+        "lat": 52.660516,
+        "lon": -8.624619,
+        "cuisine": "pizza",
+        "website": "https://eskimo.ie"
+      },
+      {
+        "name": "Four Seasons",
+        "kind": "Fast food",
+        "lat": 52.66388,
+        "lon": -8.578646,
+        "cuisine": "pizza",
+        "website": "https://fourseasonspizzeria.ie/"
+      },
+      {
+        "name": "Freddy's Bistro",
+        "kind": "Restaurant",
+        "lat": 52.660896,
+        "lon": -8.630689,
+        "cuisine": null,
+        "website": "http://www.freddysbistro.com/"
+      },
+      {
+        "name": "Green Yard Café",
+        "kind": "Café",
+        "lat": 52.650392,
+        "lon": -8.637016,
+        "cuisine": null,
+        "website": "https://greenyardcafe.ie"
+      },
+      {
+        "name": "Grill Bar & Restaurant",
+        "kind": "Bar",
+        "lat": 52.660449,
+        "lon": -8.637038,
+        "cuisine": null,
+        "website": "https://www.claytonhotels.com/limerick/dining/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Adare Manor Hotel",
+        "kind": "Hotel",
+        "lat": 52.564254,
+        "lon": -8.777913,
+        "cuisine": null,
+        "website": "https://www.adaremanor.com"
+      },
+      {
+        "name": "Absolute Hotel",
+        "kind": "Hotel",
+        "lat": 52.667145,
+        "lon": -8.619547,
+        "cuisine": null,
+        "website": "http://www.absolutehotel.com/en/"
+      },
+      {
+        "name": "Fitzgeralds Woodlands House Hotel",
+        "kind": "Hotel",
+        "lat": 52.563083,
+        "lon": -8.76644,
+        "cuisine": null,
+        "website": "https://www.woodlands-hotel.ie/"
+      },
+      {
+        "name": "Longcourt House Hotel",
+        "kind": "Hotel",
+        "lat": 52.44876,
+        "lon": -9.0506,
+        "cuisine": null,
+        "website": "https://www.longcourthousehotel.ie/"
+      },
+      {
+        "name": "Maldron Hotel Limerick",
+        "kind": "Hotel",
+        "lat": 52.647279,
+        "lon": -8.618853,
+        "cuisine": null,
+        "website": "https://www.maldronhotellimerick.com/"
+      },
+      {
+        "name": "The George Boutique Hotel",
+        "kind": "Hotel",
+        "lat": 52.662531,
+        "lon": -8.62888,
+        "cuisine": null,
+        "website": "https://www.thesavoycollection.com/the-george/"
+      },
+      {
+        "name": "The Savoy Hotel",
+        "kind": "Hotel",
+        "lat": 52.663241,
+        "lon": -8.62904,
+        "cuisine": null,
+        "website": "https://www.thesavoycollection.com/the-savoy/"
+      },
+      {
+        "name": "South Court Hotel",
+        "kind": "Hotel",
+        "lat": 52.628135,
+        "lon": -8.663483,
+        "cuisine": null,
+        "website": "https://www.southcourthotel.com"
+      },
+      {
+        "name": "The Devon Inn",
+        "kind": "Hotel",
+        "lat": 52.397163,
+        "lon": -9.17409,
+        "cuisine": null,
+        "website": "https://www.devoninnhotel.ie/"
+      },
+      {
+        "name": "The Old Quarter",
+        "kind": "Hotel",
+        "lat": 52.6643,
+        "lon": -8.624427,
+        "cuisine": null,
+        "website": "https://theoldquarter.ie/"
+      },
+      {
+        "name": "The Pier Hotel",
+        "kind": "Hotel",
+        "lat": 52.664565,
+        "lon": -8.629035,
+        "cuisine": null,
+        "website": "https://www.thepierhotellimerick.com/"
+      },
+      {
+        "name": "The Strand Hotel",
+        "kind": "Hotel",
+        "lat": 52.666226,
+        "lon": -8.632085,
+        "cuisine": null,
+        "website": "http://www.strandhotellimerick.ie/"
+      },
+      {
+        "name": "Travelodge Limerick Castletroy",
+        "kind": "Hotel",
+        "lat": 52.664552,
+        "lon": -8.585137,
+        "cuisine": null,
+        "website": "https://www.travelodge.co.uk/hotels/406/Limerick-Castletroy-hotel"
+      },
+      {
+        "name": "Castle Oaks House Hotel",
+        "kind": "Hotel",
+        "lat": 52.709339,
+        "lon": -8.508358,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "No.1 Pery Square",
+        "kind": "Hotel",
+        "lat": 52.658161,
+        "lon": -8.630016,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Avondoyle Bed and Breakfast",
+        "kind": "Guesthouse",
+        "lat": 52.621591,
+        "lon": -8.637239,
+        "cuisine": null,
+        "website": "https://www.avondoyle.com/"
+      },
+      {
+        "name": "Abbey Villa B&B",
+        "kind": "Guesthouse",
+        "lat": 52.565986,
+        "lon": -8.792128,
+        "cuisine": null,
+        "website": "https://www.abbeyvilla.net/"
+      },
+      {
+        "name": "Adare House B&B",
+        "kind": "Guesthouse",
+        "lat": 52.566173,
+        "lon": -8.792333,
+        "cuisine": null,
+        "website": "http://www.adarehouse.net"
+      },
+      {
+        "name": "Almeda B&B",
+        "kind": "Guesthouse",
+        "lat": 52.646971,
+        "lon": -8.639415,
+        "cuisine": null,
+        "website": "http://www.almedabandb.com/"
+      },
+      {
+        "name": "Carlton Castletroy Park Hotel",
+        "kind": "Hotel",
+        "lat": 52.666792,
+        "lon": -8.576809,
+        "cuisine": null,
+        "website": "www.castletroy-park.ie"
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Hunt Museum",
+        "kind": "Museum",
+        "lat": 52.666274,
+        "lon": -8.624395,
+        "cuisine": null,
+        "website": "https://www.huntmuseum.com/"
+      },
+      {
+        "name": "Clonkeen Church",
+        "kind": "Ruins",
+        "lat": 52.643895,
+        "lon": -8.459732,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Glin Castle",
+        "kind": "Castle",
+        "lat": 52.569763,
+        "lon": -9.294991,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Purt Castle",
+        "kind": "Castle",
+        "lat": 52.399459,
+        "lon": -9.319836,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Askeaton Castle",
+        "kind": "Attraction",
+        "lat": 52.600097,
+        "lon": -8.974065,
+        "cuisine": null,
+        "website": "https://heritageireland.ie/places-to-visit/askeaton-castle/"
+      },
+      {
+        "name": "Foynes Flying Boat & Maritime Museum",
+        "kind": "Museum",
+        "lat": 52.611385,
+        "lon": -9.109905,
+        "cuisine": null,
+        "website": "https://www.flyingboatmuseum.com/"
+      },
+      {
+        "name": "Limerick Museum",
+        "kind": "Museum",
+        "lat": 52.664138,
+        "lon": -8.628878,
+        "cuisine": null,
+        "website": "https://www.limerick.ie/limerick-museum"
+      },
+      {
+        "name": "Saint Mary's Cathedral",
+        "kind": "Attraction",
+        "lat": 52.668264,
+        "lon": -8.623509,
+        "cuisine": null,
+        "website": "http://www.cathedral.limerick.anglican.org/index.htm"
+      },
+      {
+        "name": "Castle Oliver",
+        "kind": "Castle",
+        "lat": 52.326683,
+        "lon": -8.48424,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Curraghchase House",
+        "kind": "Ruins",
+        "lat": 52.58981,
+        "lon": -8.87094,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Desmond Castle",
+        "kind": "Attraction",
+        "lat": 52.569539,
+        "lon": -8.782289,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ella the Buttermaker",
+        "kind": "Memorial",
+        "lat": 52.451254,
+        "lon": -9.060741,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Goold Monument",
+        "kind": "Memorial",
+        "lat": 52.460132,
+        "lon": -9.299038,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Grange Stone Circle",
+        "kind": "Archaeological site",
+        "lat": 52.514242,
+        "lon": -8.541915,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Limerick War Memorial",
+        "kind": "Memorial",
+        "lat": 52.659127,
+        "lon": -8.628573,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lough Gur Standing Stone",
+        "kind": "Archaeological site",
+        "lat": 52.517102,
+        "lon": -8.539612,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Sarsfield",
+        "kind": "Monument",
+        "lat": 52.662082,
+        "lon": -8.618138,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Seán Wall Memorial",
+        "kind": "Memorial",
+        "lat": 52.477741,
+        "lon": -8.548122,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Spring Rice Monument",
+        "kind": "Monument",
+        "lat": 52.613388,
+        "lon": -9.114327,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Treaty Stone",
+        "kind": "Memorial",
+        "lat": 52.66964,
+        "lon": -8.628091,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

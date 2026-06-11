@@ -1,0 +1,498 @@
+{
+  "slug": "cork",
+  "name": "Cork",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Diamond Bar",
+        "kind": "Pub",
+        "lat": 51.821658,
+        "lon": -8.855638,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Albert Lynch's",
+        "kind": "Pub",
+        "lat": 52.137801,
+        "lon": -8.642127,
+        "cuisine": null,
+        "website": "http://www.albertlynchs.com/"
+      },
+      {
+        "name": "Barry’s of Douglas",
+        "kind": "Bar",
+        "lat": 51.877184,
+        "lon": -8.436162,
+        "cuisine": null,
+        "website": "https://www.barrysofdouglas.com/"
+      },
+      {
+        "name": "Bia",
+        "kind": "Restaurant",
+        "lat": 51.705471,
+        "lon": -8.523445,
+        "cuisine": null,
+        "website": "https://biakinsale.com/"
+      },
+      {
+        "name": "Bierhaus",
+        "kind": "Pub",
+        "lat": 51.901552,
+        "lon": -8.476619,
+        "cuisine": null,
+        "website": "https://www.thebierhauscork.com"
+      },
+      {
+        "name": "Bite size",
+        "kind": "Café",
+        "lat": 51.914437,
+        "lon": -8.172711,
+        "cuisine": "patisserie",
+        "website": "https://www.bitesize.ie"
+      },
+      {
+        "name": "Brú Bar & Hostel",
+        "kind": "Bar",
+        "lat": 51.90143,
+        "lon": -8.466034,
+        "cuisine": null,
+        "website": "https://www.bruhostel.com/"
+      },
+      {
+        "name": "Bushe’s",
+        "kind": "Pub",
+        "lat": 51.483235,
+        "lon": -9.372971,
+        "cuisine": null,
+        "website": "https://www.bushesbar.com"
+      },
+      {
+        "name": "Butlers Chocolate Café",
+        "kind": "Café",
+        "lat": 51.897892,
+        "lon": -8.470719,
+        "cuisine": "coffee shop",
+        "website": "https://butlerschocolates.com/pages/butlers-chocolate-cafe-cork"
+      },
+      {
+        "name": "Cafe Mexicana",
+        "kind": "Restaurant",
+        "lat": 51.898761,
+        "lon": -8.473664,
+        "cuisine": "mexican",
+        "website": "http://cafemexicana.ie/"
+      },
+      {
+        "name": "Café Paradiso",
+        "kind": "Restaurant",
+        "lat": 51.897114,
+        "lon": -8.482903,
+        "cuisine": null,
+        "website": "https://paradiso.restaurant"
+      },
+      {
+        "name": "Cobra Tandoori",
+        "kind": "Restaurant",
+        "lat": 51.70549,
+        "lon": -8.523802,
+        "cuisine": "indian, pakistani",
+        "website": "http://cobratandooritakeaway.com"
+      },
+      {
+        "name": "Coconut Asian Street Food",
+        "kind": "Restaurant",
+        "lat": 51.928712,
+        "lon": -8.389313,
+        "cuisine": "asian, chinese, thai",
+        "website": "https://www.coconut.ie/"
+      },
+      {
+        "name": "Coqbull",
+        "kind": "Restaurant",
+        "lat": 51.89904,
+        "lon": -8.473558,
+        "cuisine": null,
+        "website": "https://coqbullcork.ie"
+      },
+      {
+        "name": "Coriander",
+        "kind": "Restaurant",
+        "lat": 51.876877,
+        "lon": -8.435575,
+        "cuisine": "indian, nepalese",
+        "website": "https://www.coriander.ie"
+      },
+      {
+        "name": "Cork Coffee Roasters",
+        "kind": "Café",
+        "lat": 51.904742,
+        "lon": -8.457529,
+        "cuisine": "coffee shop",
+        "website": "https://corkcoffeeroasters.ie/"
+      },
+      {
+        "name": "Cork Grill",
+        "kind": "Fast food",
+        "lat": 51.901766,
+        "lon": -8.470484,
+        "cuisine": null,
+        "website": "https://corkgrill.com/"
+      },
+      {
+        "name": "Costa",
+        "kind": "Café",
+        "lat": 51.899739,
+        "lon": -8.472551,
+        "cuisine": "coffee shop",
+        "website": "https://www.costaireland.ie/"
+      },
+      {
+        "name": "Costigan’s",
+        "kind": "Pub",
+        "lat": 51.897368,
+        "lon": -8.480204,
+        "cuisine": null,
+        "website": "http://costiganspub.ie"
+      },
+      {
+        "name": "Crane Lane Theatre",
+        "kind": "Pub",
+        "lat": 51.897759,
+        "lon": -8.469666,
+        "cuisine": null,
+        "website": "https://www.cranelanetheatre.ie/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Barnabrow House",
+        "kind": "Hotel",
+        "lat": 51.86937,
+        "lon": -8.088461,
+        "cuisine": null,
+        "website": "https://www.barnabrowhouse.ie/"
+      },
+      {
+        "name": "Belvedere Lodge",
+        "kind": "Guesthouse",
+        "lat": 51.9034,
+        "lon": -8.426331,
+        "cuisine": null,
+        "website": "http://www.belvederelodge.com"
+      },
+      {
+        "name": "Blue Haven",
+        "kind": "Hotel",
+        "lat": 51.70631,
+        "lon": -8.522849,
+        "cuisine": null,
+        "website": "https://www.bluehavenkinsale.com/"
+      },
+      {
+        "name": "Emmet Hotel",
+        "kind": "Hotel",
+        "lat": 51.622097,
+        "lon": -8.8912,
+        "cuisine": null,
+        "website": "https://emmethotel.com"
+      },
+      {
+        "name": "Issac's",
+        "kind": "Hotel",
+        "lat": 51.901585,
+        "lon": -8.468146,
+        "cuisine": null,
+        "website": "https://hotelisaacscork.com"
+      },
+      {
+        "name": "O'Donovan's Hotel",
+        "kind": "Hotel",
+        "lat": 51.623045,
+        "lon": -8.889839,
+        "cuisine": null,
+        "website": "https://www.odonovanshotel.com"
+      },
+      {
+        "name": "The Maritime Hotel",
+        "kind": "Hotel",
+        "lat": 51.680082,
+        "lon": -9.45724,
+        "cuisine": null,
+        "website": "https://www.themaritime.ie"
+      },
+      {
+        "name": "The Munster Arms Hotel",
+        "kind": "Hotel",
+        "lat": 51.745211,
+        "lon": -8.734035,
+        "cuisine": null,
+        "website": "https://munsterarmshotel.ie/"
+      },
+      {
+        "name": "Hibernian",
+        "kind": "Hotel",
+        "lat": 52.13751,
+        "lon": -8.645933,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Waterfront Guesthouse",
+        "kind": "Guesthouse",
+        "lat": 51.482973,
+        "lon": -9.373062,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Waters Edge",
+        "kind": "Hotel",
+        "lat": 51.849002,
+        "lon": -8.298074,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Fota Island Resort",
+        "kind": "Hotel",
+        "lat": 51.900332,
+        "lon": -8.292168,
+        "cuisine": null,
+        "website": "https://www.fotaisland.ie"
+      },
+      {
+        "name": "Ahearn's Townhouse & Restaurant",
+        "kind": "Hotel",
+        "lat": 51.95684,
+        "lon": -7.8516,
+        "cuisine": null,
+        "website": "https://www.ahearns.com/"
+      },
+      {
+        "name": "Ashley Hotel",
+        "kind": "Hotel",
+        "lat": 51.901925,
+        "lon": -8.471033,
+        "cuisine": null,
+        "website": "https://www.ashleyhotel.com/"
+      },
+      {
+        "name": "Auburn B&B",
+        "kind": "Guesthouse",
+        "lat": 51.902211,
+        "lon": -8.466197,
+        "cuisine": null,
+        "website": "http://www.auburnguesthouse.com/"
+      },
+      {
+        "name": "Beacon Shore Guesthouse",
+        "kind": "Guesthouse",
+        "lat": 51.483305,
+        "lon": -9.37298,
+        "cuisine": null,
+        "website": "http://www.beaconshore.ie"
+      },
+      {
+        "name": "Blackmore Court",
+        "kind": "Hostel",
+        "lat": 51.895311,
+        "lon": -8.474717,
+        "cuisine": null,
+        "website": "http://www.blackmorecourt.com/"
+      },
+      {
+        "name": "Cape Clear Cottages",
+        "kind": "Chalet",
+        "lat": 51.436841,
+        "lon": -9.504928,
+        "cuisine": null,
+        "website": "http://www.capeclearcottages.com"
+      },
+      {
+        "name": "Carole Ville",
+        "kind": "Guesthouse",
+        "lat": 51.8938,
+        "lon": -8.430255,
+        "cuisine": null,
+        "website": "https://caroleville.com/"
+      },
+      {
+        "name": "Casey's Hotel",
+        "kind": "Hotel",
+        "lat": 51.750029,
+        "lon": -9.550853,
+        "cuisine": null,
+        "website": "https://www.caseyshotelglengarriff.ie/"
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Allihies Copper Mine Museum",
+        "kind": "Museum",
+        "lat": 51.638992,
+        "lon": -10.045504,
+        "cuisine": null,
+        "website": "https://www.acmm.ie/"
+      },
+      {
+        "name": "Garnish Island",
+        "kind": "Attraction",
+        "lat": 51.736102,
+        "lon": -9.543027,
+        "cuisine": null,
+        "website": "https://www.heritageireland.ie/en/South-West/Ilnacullin-GarinishIsland/"
+      },
+      {
+        "name": "Ballycrovane Ogham Stone",
+        "kind": "Attraction",
+        "lat": 51.712955,
+        "lon": -9.944175,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bowen's Court",
+        "kind": "Ruins",
+        "lat": 52.245374,
+        "lon": -8.461093,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dunboy Castle",
+        "kind": "Castle",
+        "lat": 51.633271,
+        "lon": -9.924655,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dunboy Castle",
+        "kind": "Ruins",
+        "lat": 51.633239,
+        "lon": -9.924662,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Father Matthew",
+        "kind": "Artwork",
+        "lat": 51.900015,
+        "lon": -8.470583,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Glantane East",
+        "kind": "Archaeological site",
+        "lat": 52.004411,
+        "lon": -9.044831,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Gunpowder Mills",
+        "kind": "Ruins",
+        "lat": 51.89403,
+        "lon": -8.592219,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Heritage Centre",
+        "kind": "Museum",
+        "lat": 51.848883,
+        "lon": -8.299067,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Jameson Distillery Midleton",
+        "kind": "Attraction",
+        "lat": 51.913819,
+        "lon": -8.168309,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Labbacallee Wedge Tomb",
+        "kind": "Archaeological site",
+        "lat": 52.174182,
+        "lon": -8.334542,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mizen Head",
+        "kind": "Viewpoint",
+        "lat": 51.450097,
+        "lon": -9.819755,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Barley Cove",
+        "kind": "Attraction",
+        "lat": 51.469515,
+        "lon": -9.779529,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Corrin Cross",
+        "kind": "Monument",
+        "lat": 52.115005,
+        "lon": -8.282467,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cromwell's Bridge",
+        "kind": "Ruins",
+        "lat": 51.749009,
+        "lon": -9.552184,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Derreenataggart Stone Circle",
+        "kind": "Archaeological site",
+        "lat": 51.653848,
+        "lon": -9.928961,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Hag of Beara",
+        "kind": "Monument",
+        "lat": 51.715488,
+        "lon": -9.963319,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "John Mandeville",
+        "kind": "Memorial",
+        "lat": 52.266133,
+        "lon": -8.270144,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Michael Collins Memorial",
+        "kind": "Memorial",
+        "lat": 51.813544,
+        "lon": -8.856512,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

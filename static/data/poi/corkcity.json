@@ -1,0 +1,498 @@
+{
+  "slug": "corkcity",
+  "name": "CorkCity",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Ichigo Ichie",
+        "kind": "Restaurant",
+        "lat": 51.898092,
+        "lon": -8.479834,
+        "cuisine": "japanese",
+        "website": "https://ichigoichie.ie"
+      },
+      {
+        "name": "115 Cafe & Wine Bar",
+        "kind": "Restaurant",
+        "lat": 51.898158,
+        "lon": -8.469881,
+        "cuisine": "coffee shop, fish and chips, pasta, pizza, sandwich",
+        "website": "https://115cafe.com/"
+      },
+      {
+        "name": "12 Tables",
+        "kind": "Restaurant",
+        "lat": 51.876356,
+        "lon": -8.433615,
+        "cuisine": null,
+        "website": "https://www.12tables.ie/"
+      },
+      {
+        "name": "An Sibín",
+        "kind": "Pub",
+        "lat": 51.896719,
+        "lon": -8.472857,
+        "cuisine": null,
+        "website": "https://ansibincork.ie"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 51.916957,
+        "lon": -8.445958,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/stores/order-pizza-ballyvolane"
+      },
+      {
+        "name": "Arty’s Bar",
+        "kind": "Pub",
+        "lat": 51.888208,
+        "lon": -8.588464,
+        "cuisine": null,
+        "website": "https://corkheritagepubs.com/pub/artys-bar"
+      },
+      {
+        "name": "Bagel Factory",
+        "kind": "Restaurant",
+        "lat": 51.915152,
+        "lon": -8.471358,
+        "cuisine": "bagel",
+        "website": "https://www.bagelfactory.ie"
+      },
+      {
+        "name": "Balance Cafe",
+        "kind": "Café",
+        "lat": 51.906261,
+        "lon": -8.422069,
+        "cuisine": "coffee shop",
+        "website": "https://www.instagram.com/balanceatdistrict"
+      },
+      {
+        "name": "BarBarossa",
+        "kind": "Pub",
+        "lat": 51.89725,
+        "lon": -8.474361,
+        "cuisine": "regional",
+        "website": "https://barbarossa.ie/"
+      },
+      {
+        "name": "Barcadia",
+        "kind": "Bar",
+        "lat": 51.898146,
+        "lon": -8.481217,
+        "cuisine": null,
+        "website": "https://mardyke.com/barcadia/"
+      },
+      {
+        "name": "Barry’s of Douglas",
+        "kind": "Bar",
+        "lat": 51.877184,
+        "lon": -8.436162,
+        "cuisine": null,
+        "website": "https://www.barrysofdouglas.com/"
+      },
+      {
+        "name": "Bella Napoli",
+        "kind": "Restaurant",
+        "lat": 51.899115,
+        "lon": -8.473618,
+        "cuisine": "italian",
+        "website": "https://www.pizzabellanapoli.com"
+      },
+      {
+        "name": "Bierhaus",
+        "kind": "Pub",
+        "lat": 51.901552,
+        "lon": -8.476619,
+        "cuisine": null,
+        "website": "https://www.thebierhauscork.com"
+      },
+      {
+        "name": "Black Dog Saloon & Mezcalaria",
+        "kind": "Bar",
+        "lat": 51.898757,
+        "lon": -8.477419,
+        "cuisine": null,
+        "website": "http://www.theblackdog.ie"
+      },
+      {
+        "name": "Bocelli",
+        "kind": "Restaurant",
+        "lat": 51.898728,
+        "lon": -8.467806,
+        "cuisine": "italian",
+        "website": "https://bocellicork.com/"
+      },
+      {
+        "name": "Bombay Palace Indian Restaurant",
+        "kind": "Restaurant",
+        "lat": 51.897345,
+        "lon": -8.471576,
+        "cuisine": "indian",
+        "website": "https://www.bombaypalace.ie"
+      },
+      {
+        "name": "Boojum",
+        "kind": "Fast food",
+        "lat": 51.898421,
+        "lon": -8.470677,
+        "cuisine": "mexican",
+        "website": "https://www.boojummex.com/cork/"
+      },
+      {
+        "name": "Brendan's Burritos",
+        "kind": "Fast food",
+        "lat": 51.896079,
+        "lon": -8.443723,
+        "cuisine": "mexican",
+        "website": "https://www.brendansburritos.ie/"
+      },
+      {
+        "name": "Brú Bar & Hostel",
+        "kind": "Bar",
+        "lat": 51.90143,
+        "lon": -8.466034,
+        "cuisine": null,
+        "website": "https://www.bruhostel.com/"
+      },
+      {
+        "name": "Bunsen",
+        "kind": "Restaurant",
+        "lat": 51.899091,
+        "lon": -8.473607,
+        "cuisine": "beer",
+        "website": "https://www.bunsen.ie/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Clayton Hotel Silversprings",
+        "kind": "Hotel",
+        "lat": 51.904145,
+        "lon": -8.423248,
+        "cuisine": null,
+        "website": "https://www.claytonhotelsilversprings.com/"
+      },
+      {
+        "name": "Imperial Hotel",
+        "kind": "Hotel",
+        "lat": 51.897405,
+        "lon": -8.470382,
+        "cuisine": null,
+        "website": "https://www.imperialhotelcork.com"
+      },
+      {
+        "name": "The Kingsley",
+        "kind": "Hotel",
+        "lat": 51.893524,
+        "lon": -8.508339,
+        "cuisine": null,
+        "website": "https://www.thekingsley.ie/"
+      },
+      {
+        "name": "The Montenotte Hotel",
+        "kind": "Hotel",
+        "lat": 51.904374,
+        "lon": -8.451636,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Belvedere Lodge",
+        "kind": "Guesthouse",
+        "lat": 51.9034,
+        "lon": -8.426331,
+        "cuisine": null,
+        "website": "http://www.belvederelodge.com"
+      },
+      {
+        "name": "Cork International Hotel",
+        "kind": "Hotel",
+        "lat": 51.852095,
+        "lon": -8.48708,
+        "cuisine": null,
+        "website": "https://www.corkinternationalairporthotel.com/"
+      },
+      {
+        "name": "Issac's",
+        "kind": "Hotel",
+        "lat": 51.901585,
+        "lon": -8.468146,
+        "cuisine": null,
+        "website": "https://hotelisaacscork.com"
+      },
+      {
+        "name": "The Address",
+        "kind": "Hotel",
+        "lat": 51.905264,
+        "lon": -8.459311,
+        "cuisine": null,
+        "website": "https://www.theaddresscork.com/"
+      },
+      {
+        "name": "The Metropole Hotel",
+        "kind": "Hotel",
+        "lat": 51.901114,
+        "lon": -8.467794,
+        "cuisine": null,
+        "website": "http://www.metropolecorkhotel.com/"
+      },
+      {
+        "name": "Maryborough Hotel & Spa",
+        "kind": "Hotel",
+        "lat": 51.873627,
+        "lon": -8.420638,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Talbot Hotel Cork",
+        "kind": "Hotel",
+        "lat": 51.888161,
+        "lon": -8.601186,
+        "cuisine": null,
+        "website": "https://www.talbothotelcork.ie/"
+      },
+      {
+        "name": "Clayton Hotel",
+        "kind": "Hotel",
+        "lat": 51.898758,
+        "lon": -8.465121,
+        "cuisine": null,
+        "website": "https://www.claytonhotelcorkcity.com"
+      },
+      {
+        "name": "Hayfield Manor",
+        "kind": "Hotel",
+        "lat": 51.89098,
+        "lon": -8.489988,
+        "cuisine": null,
+        "website": "https://www.hayfieldmanor.ie"
+      },
+      {
+        "name": "Maldron Hotel Shandon Cork City",
+        "kind": "Hotel",
+        "lat": 51.902754,
+        "lon": -8.474738,
+        "cuisine": null,
+        "website": "https://www.maldronhotelshandoncorkcity.com"
+      },
+      {
+        "name": "Maldron Hotel South Mall Cork City",
+        "kind": "Hotel",
+        "lat": 51.897999,
+        "lon": -8.467707,
+        "cuisine": null,
+        "website": "https://www.maldronhotelsouthmall.com/"
+      },
+      {
+        "name": "Ardara House",
+        "kind": "Guesthouse",
+        "lat": 51.902814,
+        "lon": -8.462159,
+        "cuisine": null,
+        "website": "http://ardarahouse.com"
+      },
+      {
+        "name": "Ashley Hotel",
+        "kind": "Hotel",
+        "lat": 51.901925,
+        "lon": -8.471033,
+        "cuisine": null,
+        "website": "https://www.ashleyhotel.com/"
+      },
+      {
+        "name": "Auburn B&B",
+        "kind": "Guesthouse",
+        "lat": 51.902211,
+        "lon": -8.466197,
+        "cuisine": null,
+        "website": "http://www.auburnguesthouse.com/"
+      },
+      {
+        "name": "Blackmore Court",
+        "kind": "Hostel",
+        "lat": 51.895311,
+        "lon": -8.474717,
+        "cuisine": null,
+        "website": "http://www.blackmorecourt.com/"
+      },
+      {
+        "name": "Blarney Vale House B&B",
+        "kind": "Guesthouse",
+        "lat": 51.932872,
+        "lon": -8.557484,
+        "cuisine": null,
+        "website": "https://www.blarneyvale.com"
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Blackrock Castle",
+        "kind": "Attraction",
+        "lat": 51.900106,
+        "lon": -8.402485,
+        "cuisine": null,
+        "website": "https://www.bco.ie/"
+      },
+      {
+        "name": "Cork City Gaol",
+        "kind": "Museum",
+        "lat": 51.899483,
+        "lon": -8.498998,
+        "cuisine": null,
+        "website": "http://www.corkcitygoal.com/"
+      },
+      {
+        "name": "Elizabeth Fort",
+        "kind": "Attraction",
+        "lat": 51.89454,
+        "lon": -8.478019,
+        "cuisine": null,
+        "website": "http://www.elizabethfort.ie/"
+      },
+      {
+        "name": "Glucksman Gallery",
+        "kind": "Museum",
+        "lat": 51.89472,
+        "lon": -8.490274,
+        "cuisine": null,
+        "website": "https://www.glucksman.org"
+      },
+      {
+        "name": "Saint Fin Barre's Cathedral",
+        "kind": "Attraction",
+        "lat": 51.894361,
+        "lon": -8.480495,
+        "cuisine": null,
+        "website": "https://corkcathedral.webs.com/"
+      },
+      {
+        "name": "The Butter Museum",
+        "kind": "Museum",
+        "lat": 51.902756,
+        "lon": -8.476934,
+        "cuisine": null,
+        "website": "https://thebuttermuseum.com/"
+      },
+      {
+        "name": "Ballincollig Castle",
+        "kind": "Castle",
+        "lat": 51.8793,
+        "lon": -8.599873,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Blarney Castle",
+        "kind": "Attraction",
+        "lat": 51.929058,
+        "lon": -8.57082,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cork Public Museum",
+        "kind": "Museum",
+        "lat": 51.896293,
+        "lon": -8.494475,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Crawford Art Gallery",
+        "kind": "Gallery",
+        "lat": 51.899846,
+        "lon": -8.473274,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Father Matthew",
+        "kind": "Artwork",
+        "lat": 51.900017,
+        "lon": -8.470578,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Gunpowder Mills",
+        "kind": "Ruins",
+        "lat": 51.89403,
+        "lon": -8.592219,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Huguenot Graveyard",
+        "kind": "Attraction",
+        "lat": 51.898749,
+        "lon": -8.473681,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Thomas Kent Station",
+        "kind": "Memorial",
+        "lat": 51.901657,
+        "lon": -8.458354,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Blarney House",
+        "kind": "Castle",
+        "lat": 51.926882,
+        "lon": -8.571842,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carrigrohane Castle",
+        "kind": "Castle",
+        "lat": 51.896444,
+        "lon": -8.559893,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Delaney Brothers Monument",
+        "kind": "Memorial",
+        "lat": 51.923327,
+        "lon": -8.466314,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "George Boole",
+        "kind": "Memorial",
+        "lat": 51.893123,
+        "lon": -8.491759,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "National Monument",
+        "kind": "Memorial",
+        "lat": 51.896094,
+        "lon": -8.474579,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Stone of Eloquence",
+        "kind": "Attraction",
+        "lat": 51.928962,
+        "lon": -8.570854,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "slug": "sligo",
+  "name": "Sligo",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Dock84",
+        "kind": "Café",
+        "lat": 54.273939,
+        "lon": -8.481282,
+        "cuisine": null,
+        "website": "https://dock84sligo.wi-q.com"
+      },
+      {
+        "name": "Eala Bhán",
+        "kind": "Restaurant",
+        "lat": 54.271252,
+        "lon": -8.472894,
+        "cuisine": "regional",
+        "website": "https://www.ealabhan.ie/"
+      },
+      {
+        "name": "Funké - Afro Caribbean Restaurant",
+        "kind": "Restaurant",
+        "lat": 54.270568,
+        "lon": -8.473889,
+        "cuisine": null,
+        "website": "https://www.zeebahsfoods.ie/"
+      },
+      {
+        "name": "Gracie's Bar Sligo",
+        "kind": "Pub",
+        "lat": 54.270492,
+        "lon": -8.474544,
+        "cuisine": null,
+        "website": "https://graciesbars.com"
+      },
+      {
+        "name": "Harrison's bar and restaurant",
+        "kind": "Restaurant",
+        "lat": 54.431323,
+        "lon": -8.451238,
+        "cuisine": null,
+        "website": "http://www.harrisonscliffoney.com/"
+      },
+      {
+        "name": "Honestly Kitchen",
+        "kind": "Restaurant",
+        "lat": 54.270567,
+        "lon": -8.607615,
+        "cuisine": null,
+        "website": "https://honestlykitchen.ie/"
+      },
+      {
+        "name": "Hooked",
+        "kind": "Restaurant",
+        "lat": 54.27143,
+        "lon": -8.474296,
+        "cuisine": "irish, burger, chicken, mexican",
+        "website": "https://www.hookedsligo.ie/"
+      },
+      {
+        "name": "Langs Bar & Restaurant",
+        "kind": "Pub",
+        "lat": 54.393222,
+        "lon": -8.523255,
+        "cuisine": null,
+        "website": "https://www.langs.ie/"
+      },
+      {
+        "name": "Lillie’s Bar",
+        "kind": "Bar",
+        "lat": 54.272556,
+        "lon": -8.471648,
+        "cuisine": null,
+        "website": "https://www.lilliescocktailbarsligo.ie/"
+      },
+      {
+        "name": "Muddy Burns",
+        "kind": "Restaurant",
+        "lat": 54.162516,
+        "lon": -9.075147,
+        "cuisine": null,
+        "website": "https://www.muddyburns.com/"
+      },
+      {
+        "name": "O'Donnells pub",
+        "kind": "Pub",
+        "lat": 54.430459,
+        "lon": -8.453987,
+        "cuisine": null,
+        "website": "https://www.odonnellsofcliffoney.com/"
+      },
+      {
+        "name": "Otto pizzeria and wine bar",
+        "kind": "Restaurant",
+        "lat": 54.271683,
+        "lon": -8.475281,
+        "cuisine": null,
+        "website": "https://www.ottopizza.ie"
+      },
+      {
+        "name": "Poppadom",
+        "kind": "Restaurant",
+        "lat": 54.27155,
+        "lon": -8.475281,
+        "cuisine": "indian",
+        "website": "https://www.poppadom.ie/"
+      },
+      {
+        "name": "Rugantino",
+        "kind": "Restaurant",
+        "lat": 54.271256,
+        "lon": -8.473054,
+        "cuisine": "italian",
+        "website": "https://rugantino.ie/"
+      },
+      {
+        "name": "The Bagel Bar Coffee House",
+        "kind": "Fast food",
+        "lat": 54.273015,
+        "lon": -8.478555,
+        "cuisine": "bagel, panini, salad",
+        "website": "https://thebagelbars.com/store/quay-side-sligo/"
+      },
+      {
+        "name": "The Swagman",
+        "kind": "Pub",
+        "lat": 54.272198,
+        "lon": -8.476853,
+        "cuisine": "pizza, pasta",
+        "website": "http://www.swagman.ie"
+      },
+      {
+        "name": "Walker 1781",
+        "kind": "Bar",
+        "lat": 54.271168,
+        "lon": -8.475397,
+        "cuisine": null,
+        "website": "https://www.walker1781.com"
+      },
+      {
+        "name": "Yu's Cuisine",
+        "kind": "Fast food",
+        "lat": 54.274318,
+        "lon": -8.473625,
+        "cuisine": "chinese",
+        "website": "https://www.yuscuisinesligo.ie/"
+      },
+      {
+        "name": "5th on Teeling",
+        "kind": "Bar",
+        "lat": 54.270119,
+        "lon": -8.471443,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ait Eile",
+        "kind": "Restaurant",
+        "lat": 54.213045,
+        "lon": -9.093542,
+        "cuisine": "regional",
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Castle Dargan Hotel",
+        "kind": "Hotel",
+        "lat": 54.197809,
+        "lon": -8.436685,
+        "cuisine": null,
+        "website": "https://www.castledargan.com/"
+      },
+      {
+        "name": "Yeats Country Hotel",
+        "kind": "Hotel",
+        "lat": 54.306103,
+        "lon": -8.564966,
+        "cuisine": null,
+        "website": "https://www.yeatscountryhotel.com/"
+      },
+      {
+        "name": "Clayton Hotel",
+        "kind": "Hotel",
+        "lat": 54.281886,
+        "lon": -8.4613,
+        "cuisine": null,
+        "website": "https://www.claytonhotelsligo.com/"
+      },
+      {
+        "name": "Riverside Hotel",
+        "kind": "Hotel",
+        "lat": 54.271447,
+        "lon": -8.467277,
+        "cuisine": null,
+        "website": "https://www.riversidesligo.ie/"
+      },
+      {
+        "name": "The Benwiskin Centre",
+        "kind": "Hostel",
+        "lat": 54.412851,
+        "lon": -8.390426,
+        "cuisine": null,
+        "website": "http://benwiskincentre.com/"
+      },
+      {
+        "name": "Church View",
+        "kind": "Guesthouse",
+        "lat": 53.993942,
+        "lon": -8.517203,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Markree Castle",
+        "kind": "Hotel",
+        "lat": 54.174167,
+        "lon": -8.461372,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Strandhill Lodge and Suites",
+        "kind": "Hotel",
+        "lat": 54.267195,
+        "lon": -8.596081,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cois Re Holiday Apartments",
+        "kind": "Guesthouse",
+        "lat": 54.26669,
+        "lon": -8.596339,
+        "cuisine": null,
+        "website": "http://www.coisreapartments.com/"
+      },
+      {
+        "name": "Schoolhouse at Annaghmore",
+        "kind": "Guesthouse",
+        "lat": 54.151834,
+        "lon": -8.547447,
+        "cuisine": null,
+        "website": "https://www.irishlandmark.com/property/schoolhouse-at-annaghmore/"
+      },
+      {
+        "name": "Sligo Park Hotel",
+        "kind": "Hotel",
+        "lat": 54.254112,
+        "lon": -8.470029,
+        "cuisine": null,
+        "website": "https://www.sligoparkhotel.com/"
+      },
+      {
+        "name": "An Cruiscin Lan B&B",
+        "kind": "Guesthouse",
+        "lat": 54.267964,
+        "lon": -8.472594,
+        "cuisine": null,
+        "website": "http://www.bandbsligo.ie"
+      },
+      {
+        "name": "Ardtarmon House",
+        "kind": "Hotel",
+        "lat": 54.33928,
+        "lon": -8.622253,
+        "cuisine": null,
+        "website": "https://www.ardtarmon.com/"
+      },
+      {
+        "name": "Arrowrock Lodge",
+        "kind": "Hostel",
+        "lat": 54.061512,
+        "lon": -8.298967,
+        "cuisine": null,
+        "website": "http://www.arrowrocklodge.com/"
+      },
+      {
+        "name": "Glach a Mara",
+        "kind": "Guesthouse",
+        "lat": 54.408801,
+        "lon": -8.496333,
+        "cuisine": null,
+        "website": "http://www.glachamara.com"
+      },
+      {
+        "name": "Hill Hotel",
+        "kind": "Hotel",
+        "lat": 53.995031,
+        "lon": -8.523775,
+        "cuisine": null,
+        "website": "https://www.thehillhotel.ie/"
+      },
+      {
+        "name": "Pearse Lodge B&B",
+        "kind": "Guesthouse",
+        "lat": 54.263441,
+        "lon": -8.467793,
+        "cuisine": null,
+        "website": "https://www.pearselodge.com/"
+      },
+      {
+        "name": "Radisson Blu",
+        "kind": "Hotel",
+        "lat": 54.299326,
+        "lon": -8.499808,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Slievebawn Bed and Breakfast",
+        "kind": "Guesthouse",
+        "lat": 54.43111,
+        "lon": -8.452545,
+        "cuisine": null,
+        "website": "http://slievebawnsligo.com"
+      },
+      {
+        "name": "Sligo City Hotel",
+        "kind": "Hotel",
+        "lat": 54.273226,
+        "lon": -8.476127,
+        "cuisine": null,
+        "website": "http://sligocityhotel.com/"
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Ballinafad Castle",
+        "kind": "Castle",
+        "lat": 54.026007,
+        "lon": -8.335731,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carrowkeel neolithic site",
+        "kind": "Archaeological site",
+        "lat": 54.057071,
+        "lon": -8.379276,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carrowmore 51",
+        "kind": "Archaeological site",
+        "lat": 54.248848,
+        "lon": -8.518583,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cashelore",
+        "kind": "Archaeological site",
+        "lat": 54.209973,
+        "lon": -8.377685,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Creevykeel burial mound",
+        "kind": "Archaeological site",
+        "lat": 54.43867,
+        "lon": -8.433485,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Giant's Grave",
+        "kind": "Archaeological site",
+        "lat": 54.279228,
+        "lon": -8.381303,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Maeve's Cairn",
+        "kind": "Archaeological site",
+        "lat": 54.258741,
+        "lon": -8.574562,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Model Niland Gallery",
+        "kind": "Attraction",
+        "lat": 54.273042,
+        "lon": -8.468421,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Moygara Castle",
+        "kind": "Castle",
+        "lat": 53.97162,
+        "lon": -8.474746,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cairn",
+        "kind": "Archaeological site",
+        "lat": 54.06209,
+        "lon": -8.439308,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Classiebawn Castle",
+        "kind": "Castle",
+        "lat": 54.455164,
+        "lon": -8.469264,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cloghagadaide",
+        "kind": "Archaeological site",
+        "lat": 54.207368,
+        "lon": -8.459165,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Drumcliff Graveyard",
+        "kind": "Attraction",
+        "lat": 54.326096,
+        "lon": -8.495116,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Drumcliff Round Tower",
+        "kind": "Attraction",
+        "lat": 54.326283,
+        "lon": -8.495919,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Giant's Grave",
+        "kind": "Archaeological site",
+        "lat": 54.09045,
+        "lon": -8.312791,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Giants Grave",
+        "kind": "Archaeological site",
+        "lat": 54.192237,
+        "lon": -8.412974,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Knocknarea",
+        "kind": "Attraction",
+        "lat": 54.258946,
+        "lon": -8.574501,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Teeling Monument",
+        "kind": "Memorial",
+        "lat": 54.191426,
+        "lon": -8.493212,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Caltragh",
+        "kind": "Archaeological site",
+        "lat": 54.253104,
+        "lon": -8.508018,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carrowmore 1",
+        "kind": "Archaeological site",
+        "lat": 54.251094,
+        "lon": -8.51998,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

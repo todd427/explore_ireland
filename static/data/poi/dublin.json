@@ -1,0 +1,498 @@
+{
+  "slug": "dublin",
+  "name": "Dublin",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Bon Appétit",
+        "kind": "Restaurant",
+        "lat": 53.451613,
+        "lon": -6.151819,
+        "cuisine": "international",
+        "website": "https://www.bonappetit.ie/"
+      },
+      {
+        "name": "BBs Coffee & Muffins",
+        "kind": "Café",
+        "lat": 53.252025,
+        "lon": -6.184978,
+        "cuisine": null,
+        "website": "http://bbscoffeeandmuffins.com/"
+      },
+      {
+        "name": "Baan Thai",
+        "kind": "Restaurant",
+        "lat": 53.328988,
+        "lon": -6.230181,
+        "cuisine": "thai",
+        "website": "https://www.baanthai.ie/ballsbridge-about/"
+      },
+      {
+        "name": "Base Wood Fired Pizza",
+        "kind": "Fast food",
+        "lat": 53.348396,
+        "lon": -6.45258,
+        "cuisine": "pizza",
+        "website": "https://www.basewfp.com"
+      },
+      {
+        "name": "Bear Market",
+        "kind": "Café",
+        "lat": 53.288955,
+        "lon": -6.205959,
+        "cuisine": "coffee shop",
+        "website": "https://www.bearmarket.ie/"
+      },
+      {
+        "name": "Bijou Rathgar",
+        "kind": "Restaurant",
+        "lat": 53.311879,
+        "lon": -6.274214,
+        "cuisine": null,
+        "website": "https://www.bijoudeli.ie/"
+      },
+      {
+        "name": "Blackbanks Bar & Grill",
+        "kind": "Pub",
+        "lat": 53.385975,
+        "lon": -6.155508,
+        "cuisine": null,
+        "website": "https://blackbanks.ie/"
+      },
+      {
+        "name": "Bombay Pantry",
+        "kind": "Fast food",
+        "lat": 53.279474,
+        "lon": -6.134608,
+        "cuisine": "indian",
+        "website": "https://bombaypantry.com"
+      },
+      {
+        "name": "Bombay Pantry",
+        "kind": "Fast food",
+        "lat": 53.376032,
+        "lon": -6.333034,
+        "cuisine": "indian",
+        "website": "https://bombaypantry.com/"
+      },
+      {
+        "name": "Box 55 Restaurant",
+        "kind": "Restaurant",
+        "lat": 53.387461,
+        "lon": -6.20091,
+        "cuisine": "brazilian, pizza, sushi",
+        "website": "https://www.box55.ie/contact"
+      },
+      {
+        "name": "Brambles",
+        "kind": "Restaurant",
+        "lat": 53.311174,
+        "lon": -6.283302,
+        "cuisine": null,
+        "website": "https://brambles.ie/"
+      },
+      {
+        "name": "Bubbas Fish Market",
+        "kind": "Restaurant",
+        "lat": 53.278406,
+        "lon": -6.107334,
+        "cuisine": "fish",
+        "website": "https://bubbas.ie/"
+      },
+      {
+        "name": "Bugler's Pub",
+        "kind": "Pub",
+        "lat": 53.284079,
+        "lon": -6.295416,
+        "cuisine": null,
+        "website": "http://www.buglerspub.com/"
+      },
+      {
+        "name": "Burger King",
+        "kind": "Fast food",
+        "lat": 53.291814,
+        "lon": -6.135217,
+        "cuisine": "burger",
+        "website": "https://www.whopper.ie/"
+      },
+      {
+        "name": "Central",
+        "kind": "Fast food",
+        "lat": 53.300964,
+        "lon": -6.17689,
+        "cuisine": "fish and chips",
+        "website": "https://www.sisicentral.ie/"
+      },
+      {
+        "name": "Chutni",
+        "kind": "Fast food",
+        "lat": 53.278495,
+        "lon": -6.316955,
+        "cuisine": "indian",
+        "website": "http://chutni.ie"
+      },
+      {
+        "name": "Coman's",
+        "kind": "Pub",
+        "lat": 53.312007,
+        "lon": -6.274806,
+        "cuisine": null,
+        "website": "https://comans.ie/"
+      },
+      {
+        "name": "Costa",
+        "kind": "Café",
+        "lat": 53.403607,
+        "lon": -6.25946,
+        "cuisine": "coffee shop",
+        "website": "https://www.costaireland.ie/"
+      },
+      {
+        "name": "Costa",
+        "kind": "Café",
+        "lat": 53.39094,
+        "lon": -6.38599,
+        "cuisine": "coffee shop",
+        "website": "https://www.costa.co.uk/"
+      },
+      {
+        "name": "Crowe’s",
+        "kind": "Pub",
+        "lat": 53.329108,
+        "lon": -6.230561,
+        "cuisine": null,
+        "website": "http://crowespub.ie/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Crowne Plaza",
+        "kind": "Hotel",
+        "lat": 53.395784,
+        "lon": -6.390294,
+        "cuisine": null,
+        "website": "https://www.cpireland.crowneplaza.com/crowne-plaza-dublin-blanchardstown/"
+      },
+      {
+        "name": "Hampton Hotel",
+        "kind": "Hotel",
+        "lat": 53.325807,
+        "lon": -6.242869,
+        "cuisine": null,
+        "website": "https://www.hamptonhotel.ie/"
+      },
+      {
+        "name": "Maldron Hotel Tallaght",
+        "kind": "Hotel",
+        "lat": 53.284036,
+        "lon": -6.375817,
+        "cuisine": null,
+        "website": "https://www.maldronhoteltallaght.com/"
+      },
+      {
+        "name": "ABC House B&B",
+        "kind": "Guesthouse",
+        "lat": 53.37411,
+        "lon": -6.252071,
+        "cuisine": null,
+        "website": "http://www.abchousedublin.com/"
+      },
+      {
+        "name": "Abbeyleigh House",
+        "kind": "Guesthouse",
+        "lat": 53.329543,
+        "lon": -6.250807,
+        "cuisine": null,
+        "website": "http://abbeyleigh.net/"
+      },
+      {
+        "name": "Almara Bed & Breakfast",
+        "kind": "Guesthouse",
+        "lat": 53.378993,
+        "lon": -6.231738,
+        "cuisine": null,
+        "website": "https://www.almarabb.com/"
+      },
+      {
+        "name": "Azalea Lodge B&B",
+        "kind": "Guesthouse",
+        "lat": 53.374396,
+        "lon": -6.251922,
+        "cuisine": null,
+        "website": "http://www.ashlinghouse.ie/home/Azalea-Lodge-BB---Our-Sister-Property-/"
+      },
+      {
+        "name": "Charleville Lodge",
+        "kind": "Hotel",
+        "lat": 53.359178,
+        "lon": -6.279855,
+        "cuisine": null,
+        "website": "https://charlevillelodge.ie/"
+      },
+      {
+        "name": "Marina House",
+        "kind": "Hostel",
+        "lat": 53.294942,
+        "lon": -6.148578,
+        "cuisine": null,
+        "website": "https://www.marinahostel.com/"
+      },
+      {
+        "name": "Morehampton Townhouse",
+        "kind": "Hotel",
+        "lat": 53.325249,
+        "lon": -6.240514,
+        "cuisine": null,
+        "website": "https://www.morehamptontownhouse.com/"
+      },
+      {
+        "name": "Portobello Hotel",
+        "kind": "Hotel",
+        "lat": 53.330329,
+        "lon": -6.263813,
+        "cuisine": null,
+        "website": "http://www.portobellohotel.ie/"
+      },
+      {
+        "name": "Santa Cruz Bed & Breakfast",
+        "kind": "Guesthouse",
+        "lat": 53.284862,
+        "lon": -6.145797,
+        "cuisine": null,
+        "website": "http://santacruzbbdunlaoghaire.com/"
+      },
+      {
+        "name": "Travelodge Rathmines",
+        "kind": "Hotel",
+        "lat": 53.325064,
+        "lon": -6.264847,
+        "cuisine": null,
+        "website": "https://www.travelodge.ie/hotels/286/Dublin-City-Centre-Rathmines-hotel"
+      },
+      {
+        "name": "West County Hotel",
+        "kind": "Hotel",
+        "lat": 53.351464,
+        "lon": -6.355915,
+        "cuisine": null,
+        "website": "https://www.westcountyhotel.ie/"
+      },
+      {
+        "name": "Anne's Grove B&B",
+        "kind": "Guesthouse",
+        "lat": 53.288731,
+        "lon": -6.128966,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clayton Hotel",
+        "kind": "Hotel",
+        "lat": 53.325658,
+        "lon": -6.224909,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Darthogue Guest House",
+        "kind": "Guesthouse",
+        "lat": 53.286609,
+        "lon": -6.132256,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Donnybrook Guests",
+        "kind": "Guesthouse",
+        "lat": 53.321677,
+        "lon": -6.23503,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ivy Bungalow",
+        "kind": "Guesthouse",
+        "lat": 53.539267,
+        "lon": -6.192445,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "King Sitric",
+        "kind": "Hotel",
+        "lat": 53.388147,
+        "lon": -6.063442,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Irish Jewish Museum",
+        "kind": "Museum",
+        "lat": 53.330728,
+        "lon": -6.269372,
+        "cuisine": null,
+        "website": "http://www.jewishireland.org/museum.html"
+      },
+      {
+        "name": "Kiltiernan Portal Tomb",
+        "kind": "Archaeological site",
+        "lat": 53.238822,
+        "lon": -6.207145,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballybrack Dolmen",
+        "kind": "Archaeological site",
+        "lat": 53.245112,
+        "lon": -6.122325,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cross",
+        "kind": "Monument",
+        "lat": 53.247469,
+        "lon": -6.153444,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kilmashogue Wedge Tomb",
+        "kind": "Archaeological site",
+        "lat": 53.257699,
+        "lon": -6.275574,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Seán Russell Memorial Statue",
+        "kind": "Artwork",
+        "lat": 53.361658,
+        "lon": -6.237266,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Stella Maris - Star of the Sea",
+        "kind": "Artwork",
+        "lat": 53.350937,
+        "lon": -6.162235,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Gaelic Athletic Association Museum",
+        "kind": "Museum",
+        "lat": 53.359997,
+        "lon": -6.250133,
+        "cuisine": null,
+        "website": "https://crokepark.ie/gaamuseum"
+      },
+      {
+        "name": "Kellogg's Skyline Tour",
+        "kind": "Attraction",
+        "lat": 53.361159,
+        "lon": -6.25217,
+        "cuisine": null,
+        "website": "https://crokepark.ie/skyline"
+      },
+      {
+        "name": "Noah’s Egg",
+        "kind": "Artwork",
+        "lat": 53.308862,
+        "lon": -6.222944,
+        "cuisine": null,
+        "website": "https://www.ucd.ie/news/jun04/sculpture.htm"
+      },
+      {
+        "name": "The O'Connell Tower",
+        "kind": "Attraction",
+        "lat": 53.370188,
+        "lon": -6.277144,
+        "cuisine": null,
+        "website": "https://www.dctrust.ie/experience-glasnevin/tours-and-highlights/oconnell-tower.html"
+      },
+      {
+        "name": "William Rowan Hamilton Plaque",
+        "kind": "Memorial",
+        "lat": 53.373011,
+        "lon": -6.299956,
+        "cuisine": null,
+        "website": "https://www.maths.tcd.ie/pub/HistMath/People/Hamilton/Letters/BroomeBridge.html"
+      },
+      {
+        "name": "1916 Memorial",
+        "kind": "Memorial",
+        "lat": 53.366934,
+        "lon": -6.278117,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "1916 volunteers meeting point",
+        "kind": "Monument",
+        "lat": 53.457376,
+        "lon": -6.267006,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Aideen's Dolmen",
+        "kind": "Attraction",
+        "lat": 53.379554,
+        "lon": -6.082231,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ammonite",
+        "kind": "Artwork",
+        "lat": 53.45252,
+        "lon": -6.153496,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Arthur Guinness the Second",
+        "kind": "Memorial",
+        "lat": 53.323753,
+        "lon": -6.284232,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballymount castle",
+        "kind": "Ruins",
+        "lat": 53.312992,
+        "lon": -6.364982,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bandstand",
+        "kind": "Attraction",
+        "lat": 53.289903,
+        "lon": -6.128525,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Beacon Hill",
+        "kind": "Monument",
+        "lat": 53.272875,
+        "lon": -6.096185,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

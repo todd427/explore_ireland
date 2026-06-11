@@ -1,0 +1,498 @@
+{
+  "slug": "waterford",
+  "name": "Waterford",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "360 Cookhouse",
+        "kind": "Restaurant",
+        "lat": 52.089025,
+        "lon": -7.617252,
+        "cuisine": "fish, tapas, grill",
+        "website": "https://www.360cookhouse.ie"
+      },
+      {
+        "name": "Abrakebabra",
+        "kind": "Fast food",
+        "lat": 52.260249,
+        "lon": -7.109948,
+        "cuisine": "kebab",
+        "website": "https://www.abrakebabra.com/"
+      },
+      {
+        "name": "Alkebabish",
+        "kind": "Fast food",
+        "lat": 52.257861,
+        "lon": -7.110627,
+        "cuisine": null,
+        "website": "https://www.al-kebabish.ie/"
+      },
+      {
+        "name": "An Geata Arundel",
+        "kind": "Pub",
+        "lat": 52.260453,
+        "lon": -7.1112,
+        "cuisine": null,
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/republic-of-ireland/county-waterford/an-geata-arundel"
+      },
+      {
+        "name": "Andy's Take Away",
+        "kind": "Fast food",
+        "lat": 52.261223,
+        "lon": -7.11979,
+        "cuisine": null,
+        "website": "https://www.andystakeawaywaterford.ie/"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 52.257682,
+        "lon": -7.111575,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/pizza-apache-waterford"
+      },
+      {
+        "name": "Arch Coffee",
+        "kind": "Café",
+        "lat": 52.260184,
+        "lon": -7.111333,
+        "cuisine": "coffee shop",
+        "website": "https://archcoffee.ie/"
+      },
+      {
+        "name": "Arch Coffee",
+        "kind": "Café",
+        "lat": 52.261541,
+        "lon": -7.112721,
+        "cuisine": null,
+        "website": "https://archcoffee.ie/"
+      },
+      {
+        "name": "Ballybricken Take Away",
+        "kind": "Fast food",
+        "lat": 52.260289,
+        "lon": -7.116957,
+        "cuisine": "fish and chips",
+        "website": "https://ballybrickentakeaway.com/"
+      },
+      {
+        "name": "Banyan",
+        "kind": "Restaurant",
+        "lat": 52.160109,
+        "lon": -7.15067,
+        "cuisine": "thai",
+        "website": "https://thebanyanthai.ie/"
+      },
+      {
+        "name": "Bell Pepper",
+        "kind": "Restaurant",
+        "lat": 52.261805,
+        "lon": -7.113412,
+        "cuisine": "asian",
+        "website": "https://www.bellpepper.ie/"
+      },
+      {
+        "name": "Bishop's Palace Cafe",
+        "kind": "Café",
+        "lat": 52.259618,
+        "lon": -7.107407,
+        "cuisine": null,
+        "website": "https://www.waterfordtreasures.com/landing-bishops-palace-cafe/"
+      },
+      {
+        "name": "Bodéga Restaurant & Wine Bar",
+        "kind": "Restaurant",
+        "lat": 52.257818,
+        "lon": -7.111606,
+        "cuisine": null,
+        "website": "https://www.bodegawaterford.com/"
+      },
+      {
+        "name": "Brennans Fast Food Favourites",
+        "kind": "Fast food",
+        "lat": 52.25168,
+        "lon": -7.116774,
+        "cuisine": "burger, fish and chips",
+        "website": "https://www.brennansfastfood.ie/"
+      },
+      {
+        "name": "Burzza",
+        "kind": "Restaurant",
+        "lat": 52.257763,
+        "lon": -7.111596,
+        "cuisine": "burger, pizza",
+        "website": "https://burzza.com/"
+      },
+      {
+        "name": "Cafe Goa",
+        "kind": "Restaurant",
+        "lat": 52.262854,
+        "lon": -7.115446,
+        "cuisine": "indian",
+        "website": "https://www.cafegoa.ie/"
+      },
+      {
+        "name": "Caffè Nero",
+        "kind": "Café",
+        "lat": 52.260216,
+        "lon": -7.111133,
+        "cuisine": "coffee shop",
+        "website": "https://www.caffenero.com/ie/"
+      },
+      {
+        "name": "Carter's Chocolate Café",
+        "kind": "Café",
+        "lat": 52.261646,
+        "lon": -7.111705,
+        "cuisine": "chocolate",
+        "website": "https://thestableyard.ie/carters/"
+      },
+      {
+        "name": "Causeway Coffee",
+        "kind": "Café",
+        "lat": 52.091357,
+        "lon": -7.62035,
+        "cuisine": "coffee shop",
+        "website": "https://causewaycoffee.com/"
+      },
+      {
+        "name": "Coach House Coffee",
+        "kind": "Café",
+        "lat": 52.201656,
+        "lon": -7.406216,
+        "cuisine": null,
+        "website": "https://www.coachhousecoffee.ie"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Waterford Castle",
+        "kind": "Hotel",
+        "lat": 52.253363,
+        "lon": -7.059358,
+        "cuisine": null,
+        "website": "https://www.waterfordcastleresort.com/"
+      },
+      {
+        "name": "Lismore House Hotel",
+        "kind": "Hotel",
+        "lat": 52.137473,
+        "lon": -7.932508,
+        "cuisine": null,
+        "website": "http://www.lismorehousehotel.com"
+      },
+      {
+        "name": "Cliff House Hotel",
+        "kind": "Hotel",
+        "lat": 51.948628,
+        "lon": -7.714713,
+        "cuisine": null,
+        "website": "https://cliffhousehotel.ie"
+      },
+      {
+        "name": "Majestic Hotel",
+        "kind": "Hotel",
+        "lat": 52.16323,
+        "lon": -7.148332,
+        "cuisine": null,
+        "website": "https://www.majestic-hotel.ie/"
+      },
+      {
+        "name": "Marina Hotel",
+        "kind": "Hotel",
+        "lat": 52.258368,
+        "lon": -7.10171,
+        "cuisine": null,
+        "website": "https://www.waterfordmarinahotel.com"
+      },
+      {
+        "name": "Faithlegg House",
+        "kind": "Hotel",
+        "lat": 52.257779,
+        "lon": -7.024375,
+        "cuisine": null,
+        "website": "https://www.faithlegg.com/"
+      },
+      {
+        "name": "O'Shea's Hotel",
+        "kind": "Hotel",
+        "lat": 52.159818,
+        "lon": -7.150388,
+        "cuisine": null,
+        "website": "https://www.osheas-hotel.com"
+      },
+      {
+        "name": "Portree House",
+        "kind": "Guesthouse",
+        "lat": 52.263887,
+        "lon": -7.121052,
+        "cuisine": null,
+        "website": "http://www.portreehostel.ie/"
+      },
+      {
+        "name": "The Anchorage",
+        "kind": "Guesthouse",
+        "lat": 52.263553,
+        "lon": -7.117848,
+        "cuisine": null,
+        "website": "http://www.anchorage.ie/"
+      },
+      {
+        "name": "The Round Tower Hotel",
+        "kind": "Hotel",
+        "lat": 51.950473,
+        "lon": -7.727086,
+        "cuisine": null,
+        "website": "https://www.roundtowerhotel.ie/"
+      },
+      {
+        "name": "Travelodge",
+        "kind": "Hotel",
+        "lat": 52.248437,
+        "lon": -7.121491,
+        "cuisine": null,
+        "website": "https://www.travelodge.ie/hotels/230/Waterford-hotel"
+      },
+      {
+        "name": "Rathgormack Hostel",
+        "kind": "Hostel",
+        "lat": 52.306724,
+        "lon": -7.499615,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Tannery Townhouse",
+        "kind": "Guesthouse",
+        "lat": 52.088578,
+        "lon": -7.617455,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Haven Hotel",
+        "kind": "Hotel",
+        "lat": 52.152349,
+        "lon": -6.996016,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Strand",
+        "kind": "Guesthouse",
+        "lat": 52.153392,
+        "lon": -6.995091,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Viking Hotel Waterford",
+        "kind": "Hotel",
+        "lat": 52.242222,
+        "lon": -7.164665,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dooley's Hotel",
+        "kind": "Hotel",
+        "lat": 52.262917,
+        "lon": -7.115739,
+        "cuisine": null,
+        "website": "https://www.dooleys-hotel.ie/"
+      },
+      {
+        "name": "Granville Hotel",
+        "kind": "Hotel",
+        "lat": 52.262116,
+        "lon": -7.112183,
+        "cuisine": null,
+        "website": "https://www.granvillehotel.ie"
+      },
+      {
+        "name": "Woodlands Hotel",
+        "kind": "Hotel",
+        "lat": 52.239502,
+        "lon": -7.063717,
+        "cuisine": null,
+        "website": "https://www.woodlandshotel.ie/"
+      },
+      {
+        "name": "Granny's B&B",
+        "kind": "Guesthouse",
+        "lat": 52.200224,
+        "lon": -7.1687,
+        "cuisine": null,
+        "website": "https://www.grannysbnb.com/"
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Ballinageeragh Dolmen",
+        "kind": "Archaeological site",
+        "lat": 52.177689,
+        "lon": -7.276888,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballysaggartmore Towers",
+        "kind": "Attraction",
+        "lat": 52.152504,
+        "lon": -7.969729,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Beach Tower",
+        "kind": "Castle",
+        "lat": 52.261064,
+        "lon": -7.113802,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Double Tower",
+        "kind": "Attraction",
+        "lat": 52.256728,
+        "lon": -7.112725,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Gaulstown Portal Tomb",
+        "kind": "Archaeological site",
+        "lat": 52.205626,
+        "lon": -7.210466,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Knockeen Portal Tomb",
+        "kind": "Archaeological site",
+        "lat": 52.207472,
+        "lon": -7.159087,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Matthewstown Passage Tomb",
+        "kind": "Archaeological site",
+        "lat": 52.1759,
+        "lon": -7.227228,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Reginald's Tower",
+        "kind": "Museum",
+        "lat": 52.260472,
+        "lon": -7.105403,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Viking Triangle",
+        "kind": "Attraction",
+        "lat": 52.260493,
+        "lon": -7.108043,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The White Lady",
+        "kind": "Archaeological site",
+        "lat": 52.137796,
+        "lon": -7.046226,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Watch Tower",
+        "kind": "Attraction",
+        "lat": 52.256459,
+        "lon": -7.11192,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Viking settlement site",
+        "kind": "Archaeological site",
+        "lat": 52.249,
+        "lon": -7.196068,
+        "cuisine": null,
+        "website": "https://vikingwoodstown.ie/"
+      },
+      {
+        "name": "Ambrose Power Memorial",
+        "kind": "Memorial",
+        "lat": 52.137291,
+        "lon": -7.932774,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Caldbeck Memorial Fountain",
+        "kind": "Memorial",
+        "lat": 52.28755,
+        "lon": -7.318504,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clashmore Heritage Centre",
+        "kind": "Attraction",
+        "lat": 52.009668,
+        "lon": -7.819282,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Curraghmore House",
+        "kind": "Castle",
+        "lat": 52.290297,
+        "lon": -7.359279,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ivory Memorial",
+        "kind": "Memorial",
+        "lat": 52.234487,
+        "lon": -6.972161,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Master McGrath",
+        "kind": "Memorial",
+        "lat": 52.109438,
+        "lon": -7.673147,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Metal Man",
+        "kind": "Attraction",
+        "lat": 52.137595,
+        "lon": -7.171865,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ardmore Open Farm",
+        "kind": "Attraction",
+        "lat": 51.969333,
+        "lon": -7.763072,
+        "cuisine": null,
+        "website": "https://ardmoreopenfarm.ie/"
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

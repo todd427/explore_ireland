@@ -1,0 +1,498 @@
+{
+  "slug": "kerry",
+  "name": "Kerry",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "An Bothar Pub & Guesthouse",
+        "kind": "Pub",
+        "lat": 52.226476,
+        "lon": -10.307069,
+        "cuisine": null,
+        "website": "https://www.botharpub.com/"
+      },
+      {
+        "name": "The Anvil Pub",
+        "kind": "Restaurant",
+        "lat": 52.17676,
+        "lon": -9.753764,
+        "cuisine": null,
+        "website": "https://www.anvilbar.com"
+      },
+      {
+        "name": "The Oratory Art Gallery and Pizza",
+        "kind": "Restaurant",
+        "lat": 51.945166,
+        "lon": -10.228896,
+        "cuisine": "pizza",
+        "website": "https://theoratorywinebar.com"
+      },
+      {
+        "name": "The Climber's Inn",
+        "kind": "Pub",
+        "lat": 51.994625,
+        "lon": -9.85779,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Butler Arms",
+        "kind": "Pub",
+        "lat": 51.827878,
+        "lon": -10.172191,
+        "cuisine": null,
+        "website": "https://www.butlerarms.com/"
+      },
+      {
+        "name": "Aido's Annascaul Café and Pottery",
+        "kind": "Café",
+        "lat": 52.151849,
+        "lon": -10.05381,
+        "cuisine": "coffee shop, breakfast, brunch, cake, pancake",
+        "website": "https://humansdoit.com/"
+      },
+      {
+        "name": "An Café Liteartha",
+        "kind": "Café",
+        "lat": 52.140511,
+        "lon": -10.268338,
+        "cuisine": null,
+        "website": "https://ancafeliteartha.com/"
+      },
+      {
+        "name": "An Cupán Tae",
+        "kind": "Café",
+        "lat": 52.13925,
+        "lon": -10.272534,
+        "cuisine": null,
+        "website": "https://www.facebook.com/pages/An-Cupan-Tae-Dingle/126763534064901"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 51.879731,
+        "lon": -9.582398,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/stores/order-pizza-kenmare"
+      },
+      {
+        "name": "Baily’s Corner",
+        "kind": "Pub",
+        "lat": 52.269271,
+        "lon": -9.703877,
+        "cuisine": null,
+        "website": "http://bailyscorner.com"
+      },
+      {
+        "name": "Bainín",
+        "kind": "Café",
+        "lat": 52.152414,
+        "lon": -10.052281,
+        "cuisine": "coffee shop",
+        "website": "https://www.facebook.com/BaininCoffee/"
+      },
+      {
+        "name": "BariCafe",
+        "kind": "Restaurant",
+        "lat": 51.946217,
+        "lon": -10.226553,
+        "cuisine": "sandwich, breakfast, irish, chicken, cake, coffee shop",
+        "website": "https://www.baricafekerry.com"
+      },
+      {
+        "name": "Bean & Batch Kenmare",
+        "kind": "Café",
+        "lat": 51.881353,
+        "lon": -9.584901,
+        "cuisine": null,
+        "website": "http://www.instagram.com/beanandbatchkenmare/"
+      },
+      {
+        "name": "Bean In Dingle",
+        "kind": "Café",
+        "lat": 52.14099,
+        "lon": -10.270984,
+        "cuisine": "coffee shop",
+        "website": "https://www.beanindingle.com/"
+      },
+      {
+        "name": "Bob Griffin’s",
+        "kind": "Pub",
+        "lat": 52.139573,
+        "lon": -10.272622,
+        "cuisine": null,
+        "website": "https://www.bobgriffinsbardingle.com"
+      },
+      {
+        "name": "Bombay Palace",
+        "kind": "Restaurant",
+        "lat": 52.059478,
+        "lon": -9.506591,
+        "cuisine": "indian",
+        "website": "https://bombaypalace.ie"
+      },
+      {
+        "name": "Bridge Cafe & Bistro",
+        "kind": "Café",
+        "lat": 51.838335,
+        "lon": -9.900134,
+        "cuisine": null,
+        "website": "https://www.facebook.com/BridgeBistroSneem"
+      },
+      {
+        "name": "Browne’s Bar",
+        "kind": "Bar",
+        "lat": 52.058934,
+        "lon": -9.503575,
+        "cuisine": null,
+        "website": "https://www.greatsouthernkillarney.com/dining/brownes-bar"
+      },
+      {
+        "name": "Buckley’s Bar",
+        "kind": "Pub",
+        "lat": 52.05969,
+        "lon": -9.505855,
+        "cuisine": null,
+        "website": "https://www.arbutuskillarney.com/buckleys-bar"
+      },
+      {
+        "name": "Bunker’s Bar & Restaurant",
+        "kind": "Pub",
+        "lat": 52.106902,
+        "lon": -9.788013,
+        "cuisine": null,
+        "website": "https://bunkers.ie/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Crystal Springs",
+        "kind": "Guesthouse",
+        "lat": 52.052886,
+        "lon": -9.487656,
+        "cuisine": null,
+        "website": "http://www.crystalspringsbb.com/"
+      },
+      {
+        "name": "Killarney Riverside Hotel",
+        "kind": "Hotel",
+        "lat": 52.049142,
+        "lon": -9.507272,
+        "cuisine": null,
+        "website": "https://www.riversidehotelkillarney.com/"
+      },
+      {
+        "name": "Benner's Hotel",
+        "kind": "Hotel",
+        "lat": 52.141395,
+        "lon": -10.268166,
+        "cuisine": null,
+        "website": "https://www.dinglebenners.com"
+      },
+      {
+        "name": "Brook Lane Hotel",
+        "kind": "Hotel",
+        "lat": 51.883476,
+        "lon": -9.591139,
+        "cuisine": null,
+        "website": "https://www.brooklanehotel.com"
+      },
+      {
+        "name": "Castle Lodge",
+        "kind": "Hotel",
+        "lat": 52.0554,
+        "lon": -9.507453,
+        "cuisine": null,
+        "website": "http://castlelodgekillarney.ie/"
+      },
+      {
+        "name": "Greenwood Hostel",
+        "kind": "Hostel",
+        "lat": 51.862778,
+        "lon": -9.70911,
+        "cuisine": null,
+        "website": "https://greenwoodhostel.com"
+      },
+      {
+        "name": "Lansdowne Arms Hotel",
+        "kind": "Hotel",
+        "lat": 51.878985,
+        "lon": -9.581515,
+        "cuisine": null,
+        "website": "https://www.lansdownekenmare.com"
+      },
+      {
+        "name": "Murphys Farmhouse",
+        "kind": "Guesthouse",
+        "lat": 52.178444,
+        "lon": -9.752158,
+        "cuisine": null,
+        "website": "https://murphysfarmhouse.com/"
+      },
+      {
+        "name": "Quayside B&B",
+        "kind": "Guesthouse",
+        "lat": 52.139285,
+        "lon": -10.27266,
+        "cuisine": null,
+        "website": "http://www.quaysideguesthouse.com/"
+      },
+      {
+        "name": "Salmon Leap Farm",
+        "kind": "Guesthouse",
+        "lat": 51.983889,
+        "lon": -9.327867,
+        "cuisine": null,
+        "website": "https://www.salmonleapfarm.com"
+      },
+      {
+        "name": "The Black Sheep Hostel",
+        "kind": "Hostel",
+        "lat": 52.058287,
+        "lon": -9.515252,
+        "cuisine": null,
+        "website": "https://blacksheephostel.ie/"
+      },
+      {
+        "name": "The Gleneagle Hotel",
+        "kind": "Hotel",
+        "lat": 52.043923,
+        "lon": -9.501499,
+        "cuisine": null,
+        "website": "https://www.gleneaglehotel.com"
+      },
+      {
+        "name": "The Grapevine Hostel",
+        "kind": "Hostel",
+        "lat": 52.140979,
+        "lon": -10.267912,
+        "cuisine": null,
+        "website": "http://www.grapevinedingle.com"
+      },
+      {
+        "name": "The Lodge",
+        "kind": "Guesthouse",
+        "lat": 51.88132,
+        "lon": -9.576113,
+        "cuisine": null,
+        "website": "http://www.thelodgekenmare.com"
+      },
+      {
+        "name": "Barrna Sraide B&B",
+        "kind": "Guesthouse",
+        "lat": 52.143073,
+        "lon": -10.270389,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castle Hostel",
+        "kind": "Hostel",
+        "lat": 52.269053,
+        "lon": -9.701453,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clifford‘s Ocean View B&B",
+        "kind": "Guesthouse",
+        "lat": 51.823413,
+        "lon": -10.171519,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Druid Cottage",
+        "kind": "Guesthouse",
+        "lat": 51.882878,
+        "lon": -9.598092,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Emlagh House",
+        "kind": "Guesthouse",
+        "lat": 52.135788,
+        "lon": -10.268595,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Glennfia Country House",
+        "kind": "Guesthouse",
+        "lat": 52.074112,
+        "lon": -9.507106,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Killarney National Park",
+        "kind": "Attraction",
+        "lat": 51.993333,
+        "lon": -9.557222,
+        "cuisine": null,
+        "website": "https://www.heritageireland.ie/en/South-West/KillarneyNationalPark/"
+      },
+      {
+        "name": "An Chonair",
+        "kind": "Viewpoint",
+        "lat": 52.181983,
+        "lon": -10.207751,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bray Head Signal Tower",
+        "kind": "Ruins",
+        "lat": 51.885633,
+        "lon": -10.425105,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Crash site of USAAF Dakota",
+        "kind": "Attraction",
+        "lat": 52.001757,
+        "lon": -9.696508,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Gallaunmore",
+        "kind": "Archaeological site",
+        "lat": 52.139247,
+        "lon": -10.222837,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Scotia's Grave",
+        "kind": "Archaeological site",
+        "lat": 52.22829,
+        "lon": -9.704267,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Uragh Stone Circle",
+        "kind": "Archaeological site",
+        "lat": 51.81155,
+        "lon": -9.695473,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Crag Cave",
+        "kind": "Attraction",
+        "lat": 52.247123,
+        "lon": -9.444354,
+        "cuisine": null,
+        "website": "https://www.cragcave.com/"
+      },
+      {
+        "name": "Butler Memorial",
+        "kind": "Memorial",
+        "lat": 51.827438,
+        "lon": -10.172122,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Charlie Chaplin",
+        "kind": "Artwork",
+        "lat": 51.826309,
+        "lon": -10.172126,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Gortnagane Ring Fort",
+        "kind": "Ruins",
+        "lat": 52.040509,
+        "lon": -9.256176,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Graigue Standing Stone",
+        "kind": "Archaeological site",
+        "lat": 52.136178,
+        "lon": -10.14525,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kerry Bog Village",
+        "kind": "Attraction",
+        "lat": 52.073755,
+        "lon": -9.881948,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "King Puck statue",
+        "kind": "Memorial",
+        "lat": 52.106389,
+        "lon": -9.78182,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lissivigeen Stone Circle",
+        "kind": "Attraction",
+        "lat": 52.05878,
+        "lon": -9.46257,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mick O'Dwyer",
+        "kind": "Artwork",
+        "lat": 51.826676,
+        "lon": -10.172168,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "St. Mary's Well",
+        "kind": "Attraction",
+        "lat": 52.057772,
+        "lon": -9.509225,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Pikeman",
+        "kind": "Memorial",
+        "lat": 52.26909,
+        "lon": -9.70516,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Torc Mountain",
+        "kind": "Viewpoint",
+        "lat": 51.99812,
+        "lon": -9.521116,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Tuama Dingchruthach (Coom Wedge Tomb.)",
+        "kind": "Archaeological site",
+        "lat": 51.823505,
+        "lon": -10.313553,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

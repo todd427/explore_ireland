@@ -1,0 +1,498 @@
+{
+  "slug": "wexford",
+  "name": "Wexford",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Marlfield House",
+        "kind": "Restaurant",
+        "lat": 52.668607,
+        "lon": -6.274834,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "18CTEA",
+        "kind": "Café",
+        "lat": 52.33881,
+        "lon": -6.462123,
+        "cuisine": "bubble tea",
+        "website": "https://www.18ctea.ie/"
+      },
+      {
+        "name": "Adam's Take Away",
+        "kind": "Fast food",
+        "lat": 52.480219,
+        "lon": -6.422515,
+        "cuisine": "burger",
+        "website": "https://adamstakeaway.ie/"
+      },
+      {
+        "name": "Alberto's",
+        "kind": "Fast food",
+        "lat": 52.644977,
+        "lon": -6.229429,
+        "cuisine": null,
+        "website": "https://www.albertos.ie/"
+      },
+      {
+        "name": "Anar Kali",
+        "kind": "Restaurant",
+        "lat": 52.501492,
+        "lon": -6.569139,
+        "cuisine": "indian",
+        "website": "https://anarkali-enniscorthy.com/"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 52.676482,
+        "lon": -6.285491,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/stores/order-pizza-gorey"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 52.328531,
+        "lon": -6.480846,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/stores/order-pizza-Wexford/"
+      },
+      {
+        "name": "Aroy-D",
+        "kind": "Restaurant",
+        "lat": 52.676721,
+        "lon": -6.291202,
+        "cuisine": "thai",
+        "website": "https://www.aroy-d.ie/"
+      },
+      {
+        "name": "Atina",
+        "kind": "Fast food",
+        "lat": 52.502778,
+        "lon": -6.565584,
+        "cuisine": null,
+        "website": "https://atinatakeaway.ie/"
+      },
+      {
+        "name": "Bagel Factory",
+        "kind": "Fast food",
+        "lat": 52.339339,
+        "lon": -6.462612,
+        "cuisine": "bagel",
+        "website": "https://www.bagelfactory.ie/"
+      },
+      {
+        "name": "Bai Li Chinese & Thai",
+        "kind": "Fast food",
+        "lat": 52.277944,
+        "lon": -6.390544,
+        "cuisine": "chinese, thai",
+        "website": "https://bailichinese.ie/"
+      },
+      {
+        "name": "Ballast Bank",
+        "kind": "Bar",
+        "lat": 52.336027,
+        "lon": -6.456909,
+        "cuisine": null,
+        "website": "https://www.talbotwexford.ie/Ballast-Bank-Bar-Menu.html"
+      },
+      {
+        "name": "Beaches",
+        "kind": "Restaurant",
+        "lat": 52.275618,
+        "lon": -6.387263,
+        "cuisine": null,
+        "website": "https://www.kellys.ie/dining/beaches-restaurant/"
+      },
+      {
+        "name": "Bella Luna",
+        "kind": "Fast food",
+        "lat": 52.675999,
+        "lon": -6.287726,
+        "cuisine": "pizza",
+        "website": "https://bellalunagorey.ie/"
+      },
+      {
+        "name": "Btwenty7",
+        "kind": "Café",
+        "lat": 52.389057,
+        "lon": -6.952239,
+        "cuisine": null,
+        "website": "https://b27.ie/new-ross/"
+      },
+      {
+        "name": "Bugler Doyles",
+        "kind": "Bar",
+        "lat": 52.33598,
+        "lon": -6.459483,
+        "cuisine": null,
+        "website": "https://www.buglerdoyles.ie/pubs-in-wexford"
+      },
+      {
+        "name": "Burger King",
+        "kind": "Fast food",
+        "lat": 52.671128,
+        "lon": -6.298997,
+        "cuisine": "burger",
+        "website": "https://www.whopper.ie/"
+      },
+      {
+        "name": "Burger Mac",
+        "kind": "Fast food",
+        "lat": 52.50144,
+        "lon": -6.565771,
+        "cuisine": "burger",
+        "website": "https://burgermactakeaway.com/"
+      },
+      {
+        "name": "Burger Mac",
+        "kind": "Fast food",
+        "lat": 52.342105,
+        "lon": -6.46486,
+        "cuisine": "burger",
+        "website": "https://burger-mac.com/"
+      },
+      {
+        "name": "Cafe 22",
+        "kind": "Café",
+        "lat": 52.338834,
+        "lon": -6.461892,
+        "cuisine": "coffee, salad, lunch",
+        "website": "https://westgatedesign.ie/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Dunbrody Country House Hotel",
+        "kind": "Hotel",
+        "lat": 52.239823,
+        "lon": -6.941917,
+        "cuisine": null,
+        "website": "https://hookpeninsula.com/project/dunbrody-house-hotel/"
+      },
+      {
+        "name": "Brandon House Hotel",
+        "kind": "Hotel",
+        "lat": 52.386917,
+        "lon": -6.944341,
+        "cuisine": null,
+        "website": "https://www.brandonhousehotel.ie/"
+      },
+      {
+        "name": "Ferrycarrig Hotel",
+        "kind": "Hotel",
+        "lat": 52.354424,
+        "lon": -6.50554,
+        "cuisine": null,
+        "website": "http://www.ferrycarrighotel.com"
+      },
+      {
+        "name": "Riverbank House Hotel",
+        "kind": "Hotel",
+        "lat": 52.344535,
+        "lon": -6.455057,
+        "cuisine": null,
+        "website": "https://www.riverbankhousehotel.com/"
+      },
+      {
+        "name": "Talbot Hotel",
+        "kind": "Hotel",
+        "lat": 52.335784,
+        "lon": -6.457293,
+        "cuisine": null,
+        "website": "https://www.talbotwexford.ie/"
+      },
+      {
+        "name": "Amber Springs Hotel",
+        "kind": "Hotel",
+        "lat": 52.668189,
+        "lon": -6.290234,
+        "cuisine": null,
+        "website": "https://www.ambersprings.ie/"
+      },
+      {
+        "name": "Ashdown Park Hotel",
+        "kind": "Hotel",
+        "lat": 52.678923,
+        "lon": -6.285008,
+        "cuisine": null,
+        "website": "https://www.ashdownparkhotel.com/"
+      },
+      {
+        "name": "Coast Rosslare Strand",
+        "kind": "Hotel",
+        "lat": 52.279513,
+        "lon": -6.39296,
+        "cuisine": null,
+        "website": "https://coastrosslarestrand.com/"
+      },
+      {
+        "name": "Ferryport House B&B",
+        "kind": "Guesthouse",
+        "lat": 52.24913,
+        "lon": -6.343446,
+        "cuisine": null,
+        "website": "https://ferryporthouse.com/"
+      },
+      {
+        "name": "Jim McGee's Guest Accomodation",
+        "kind": "Guesthouse",
+        "lat": 52.338905,
+        "lon": -6.465867,
+        "cuisine": null,
+        "website": "https://www.jimmcgees.com/rooms"
+      },
+      {
+        "name": "Meadowside B&B",
+        "kind": "Hotel",
+        "lat": 52.654869,
+        "lon": -6.65021,
+        "cuisine": null,
+        "website": "http://meadowsidebandb.com"
+      },
+      {
+        "name": "Seafield Golf & Spa Hotel",
+        "kind": "Hotel",
+        "lat": 52.675413,
+        "lon": -6.215644,
+        "cuisine": null,
+        "website": "https://www.seafieldhotel.com/"
+      },
+      {
+        "name": "Sinnott's Bar Guest Rooms",
+        "kind": "Guesthouse",
+        "lat": 52.329599,
+        "lon": -6.466432,
+        "cuisine": null,
+        "website": "https://sinnottsbar.ie/guest-rooms/"
+      },
+      {
+        "name": "Inish Ross House",
+        "kind": "Guesthouse",
+        "lat": 52.395177,
+        "lon": -6.942495,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Newtown Park Hotel",
+        "kind": "Hotel",
+        "lat": 52.337239,
+        "lon": -6.513917,
+        "cuisine": null,
+        "website": "https://www.newtownparkhotel.com/"
+      },
+      {
+        "name": "Whites of Wexford",
+        "kind": "Hotel",
+        "lat": 52.340474,
+        "lon": -6.463668,
+        "cuisine": null,
+        "website": "https://www.whitesofwexford.com/"
+      },
+      {
+        "name": "Whitford House Hotel",
+        "kind": "Hotel",
+        "lat": 52.324422,
+        "lon": -6.500049,
+        "cuisine": null,
+        "website": "https://www.whitfordhotelwexford.ie/"
+      },
+      {
+        "name": "Abbey House B&B",
+        "kind": "Guesthouse",
+        "lat": 52.340392,
+        "lon": -6.464663,
+        "cuisine": null,
+        "website": "https://www.abbeyhouse.ie/"
+      },
+      {
+        "name": "Blue Door B&B",
+        "kind": "Guesthouse",
+        "lat": 52.34091,
+        "lon": -6.464522,
+        "cuisine": null,
+        "website": "https://www.bluedoor.ie/"
+      },
+      {
+        "name": "Bugler Doyles Guest Accomodation",
+        "kind": "Guesthouse",
+        "lat": 52.336106,
+        "lon": -6.459606,
+        "cuisine": null,
+        "website": "https://www.buglerdoyles.ie/guest-accommodation"
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Duncannon Fort",
+        "kind": "Attraction",
+        "lat": 52.220949,
+        "lon": -6.9367,
+        "cuisine": null,
+        "website": "https://duncannonfort.ie"
+      },
+      {
+        "name": "Enniscorthy Castle",
+        "kind": "Museum",
+        "lat": 52.501471,
+        "lon": -6.567083,
+        "cuisine": null,
+        "website": "https://enniscorthycastle.ie/"
+      },
+      {
+        "name": "Irish Agricultural Museum",
+        "kind": "Museum",
+        "lat": 52.292104,
+        "lon": -6.503658,
+        "cuisine": null,
+        "website": "http://www.irishagrimuseum.ie/"
+      },
+      {
+        "name": "Irish National Heritage Park",
+        "kind": "Attraction",
+        "lat": 52.347927,
+        "lon": -6.516867,
+        "cuisine": null,
+        "website": "https://www.irishheritage.ie/"
+      },
+      {
+        "name": "Johnstown Castle",
+        "kind": "Castle",
+        "lat": 52.294085,
+        "lon": -6.505344,
+        "cuisine": null,
+        "website": "http://www.irishagrimuseum.ie/johnstown-castle-gardens/"
+      },
+      {
+        "name": "1798 Memorial",
+        "kind": "Memorial",
+        "lat": 52.339843,
+        "lon": -6.462434,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Barntown Castle (ruins)",
+        "kind": "Ruins",
+        "lat": 52.337436,
+        "lon": -6.532544,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castleboro House",
+        "kind": "Ruins",
+        "lat": 52.48039,
+        "lon": -6.725931,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Commodore John Barry Memorial",
+        "kind": "Memorial",
+        "lat": 52.337643,
+        "lon": -6.459219,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dunbrody Abbey",
+        "kind": "Attraction",
+        "lat": 52.283509,
+        "lon": -6.959612,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Slade Castle",
+        "kind": "Castle",
+        "lat": 52.133835,
+        "lon": -6.910635,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Slievecoiltia",
+        "kind": "Viewpoint",
+        "lat": 52.33921,
+        "lon": -6.932653,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Tellarought Castle (ruins)",
+        "kind": "Castle",
+        "lat": 52.340302,
+        "lon": -6.891358,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballyhack Castle",
+        "kind": "Attraction",
+        "lat": 52.245931,
+        "lon": -6.967437,
+        "cuisine": null,
+        "website": "https://heritageireland.ie/places-to-visit/ballyhack-castle/"
+      },
+      {
+        "name": "Market House",
+        "kind": "Attraction",
+        "lat": 52.675604,
+        "lon": -6.294266,
+        "cuisine": null,
+        "website": "https://www.wexfordcoco.ie/business/economic-development-projects/gorey-market-house"
+      },
+      {
+        "name": "Seamus Rafter",
+        "kind": "Artwork",
+        "lat": 52.50095,
+        "lon": -6.565416,
+        "cuisine": null,
+        "website": "https://www.buildingsofireland.ie/buildings-search/building/15603104/seamus-rafter-monument-abbey-square-enniscorthy-enniscorthy-wexford"
+      },
+      {
+        "name": "1798 Memorial",
+        "kind": "Artwork",
+        "lat": 52.501796,
+        "lon": -6.568875,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "1798 Memorial",
+        "kind": "Monument",
+        "lat": 52.503312,
+        "lon": -6.391566,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "1798 Monument",
+        "kind": "Memorial",
+        "lat": 52.673332,
+        "lon": -6.302386,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "1798 Monument",
+        "kind": "Memorial",
+        "lat": 52.395708,
+        "lon": -6.94438,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

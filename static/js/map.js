@@ -15,6 +15,24 @@ let countyLayer = null;
 let currentMode = "outline";   // outline | colours
 let overlayMode = "political"; // political | cultural | geographic
 
+// Colour each region by its province (Ireland) or nation (UK) so the whole
+// map reads at a glance. Keyed by the `region` field in the county metadata.
+const REGION_COLOURS = {
+  "Ulster":   "#ff9f1c",
+  "Connacht": "#34d399",
+  "Leinster": "#3b9eff",
+  "Munster":  "#ff5d5d",
+  "England":  "#a855f7",
+  "Scotland": "#22d3ee",
+  "Wales":    "#ec4899",
+  "Northern Ireland": "#fbbf24",
+};
+const DEFAULT_REGION_COLOUR = "#9aa6b8";
+
+function regionColour(county) {
+  return REGION_COLOURS[county.region] || DEFAULT_REGION_COLOUR;
+}
+
 function applyBaseStyleForLayer(layer) {
   const slug = layer.feature.properties.slug;
   const county = countiesMeta[slug] || {};
@@ -22,19 +40,22 @@ function applyBaseStyleForLayer(layer) {
     layer.setStyle({opacity:0, fillOpacity:0});
     return;
   }
+  const colour = regionColour(county);
   if (currentMode === "colours") {
+    // Bold: saturated province/nation fill with a matching edge.
     layer.setStyle({
-      color: county.primary_colour || "#ffffff",
+      color: colour,
       weight: 1.6,
-      fillColor: county.primary_colour || "#ffffff",
-      fillOpacity: 0.18
+      fillColor: colour,
+      fillOpacity: 0.7
     });
   } else {
+    // Default: vibrant province/nation fill, crisp white county lines on top.
     layer.setStyle({
-      color: "#ffffff",
-      weight: 1.4,
-      fillColor: "transparent",
-      fillOpacity: 0.0
+      color: "rgba(255,255,255,0.8)",
+      weight: 1.3,
+      fillColor: colour,
+      fillOpacity: 0.4
     });
   }
 }

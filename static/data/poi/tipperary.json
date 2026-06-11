@@ -1,0 +1,498 @@
+{
+  "slug": "tipperary",
+  "name": "Tipperary",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Chez Hans",
+        "kind": "Restaurant",
+        "lat": 52.519664,
+        "lon": -7.88752,
+        "cuisine": null,
+        "website": "www.chezhans.net"
+      },
+      {
+        "name": "65 Degrees Cofffee Bar",
+        "kind": "Café",
+        "lat": 52.51576,
+        "lon": -7.88902,
+        "cuisine": null,
+        "website": "https://instagram.com/65degreescoffee"
+      },
+      {
+        "name": "Babylon Restaurant",
+        "kind": "Restaurant",
+        "lat": 52.35222,
+        "lon": -7.70844,
+        "cuisine": "turkish",
+        "website": "https://babylonclonmel.ie"
+      },
+      {
+        "name": "Bailey's Hotel",
+        "kind": "Restaurant",
+        "lat": 52.51581,
+        "lon": -7.889973,
+        "cuisine": null,
+        "website": "https://www.baileyshotelcashel.com/dining/"
+      },
+      {
+        "name": "Baja Burrito Bar",
+        "kind": "Restaurant",
+        "lat": 52.679408,
+        "lon": -7.810369,
+        "cuisine": "mexican",
+        "website": "https://bajaireland.ie"
+      },
+      {
+        "name": "Bodega 1830",
+        "kind": "Restaurant",
+        "lat": 52.354795,
+        "lon": -7.70069,
+        "cuisine": null,
+        "website": "https://www.bodega1830.com/"
+      },
+      {
+        "name": "Bowes & Co.",
+        "kind": "Restaurant",
+        "lat": 52.51637,
+        "lon": -7.888264,
+        "cuisine": null,
+        "website": "https://www.bowesandco.ie/"
+      },
+      {
+        "name": "Butler’s Bar & Eatery",
+        "kind": "Bar",
+        "lat": 52.864754,
+        "lon": -8.189974,
+        "cuisine": null,
+        "website": "https://www.abbeycourt.ie/abbots-bar.html"
+      },
+      {
+        "name": "Country Choice",
+        "kind": "Café",
+        "lat": 52.861776,
+        "lon": -8.198376,
+        "cuisine": null,
+        "website": "http://www.countrychoice.ie"
+      },
+      {
+        "name": "Cusacks Bar",
+        "kind": "Bar",
+        "lat": 52.679355,
+        "lon": -7.81206,
+        "cuisine": null,
+        "website": "https://hayeshotel.ie/restaurant-and-bar/"
+      },
+      {
+        "name": "Elm Tree Cafe",
+        "kind": "Café",
+        "lat": 52.864243,
+        "lon": -8.197866,
+        "cuisine": null,
+        "website": "https://www.facebook.com/elmtreecafenenagh/"
+      },
+      {
+        "name": "Goosers",
+        "kind": "Pub",
+        "lat": 52.806998,
+        "lon": -8.435667,
+        "cuisine": null,
+        "website": "https://www.goosers.com"
+      },
+      {
+        "name": "Hibernian Inn",
+        "kind": "Restaurant",
+        "lat": 52.864032,
+        "lon": -8.197733,
+        "cuisine": null,
+        "website": "https://www.hibernianinn.com/"
+      },
+      {
+        "name": "Horse & Jockey",
+        "kind": "Pub",
+        "lat": 52.615782,
+        "lon": -7.775676,
+        "cuisine": "irish",
+        "website": "https://www.horseandjockeyhotel.com/enclosure-bar-thurles.html"
+      },
+      {
+        "name": "Lyons",
+        "kind": "Fast food",
+        "lat": 52.356005,
+        "lon": -7.704737,
+        "cuisine": null,
+        "website": "https://lyonsfood.ie"
+      },
+      {
+        "name": "McCarthy’s",
+        "kind": "Pub",
+        "lat": 52.465884,
+        "lon": -7.697459,
+        "cuisine": null,
+        "website": "https://www.mccarthysfethard.ie/"
+      },
+      {
+        "name": "Middle Country Cafe and Crafts",
+        "kind": "Café",
+        "lat": 52.942946,
+        "lon": -8.037104,
+        "cuisine": "regional",
+        "website": "https://www.middlecountry.ie/"
+      },
+      {
+        "name": "Mulcahy’s",
+        "kind": "Restaurant",
+        "lat": 52.353516,
+        "lon": -7.701598,
+        "cuisine": null,
+        "website": "https://www.mulcahys.ie/"
+      },
+      {
+        "name": "Nelligan’s Bar & Restaurant",
+        "kind": "Bar",
+        "lat": 52.378865,
+        "lon": -7.486442,
+        "cuisine": null,
+        "website": "https://www.kilmurrylodge.com/dining/nelligans-bar-and-restaurant/"
+      },
+      {
+        "name": "Phil Carroll’s",
+        "kind": "Pub",
+        "lat": 52.353585,
+        "lon": -7.698151,
+        "cuisine": null,
+        "website": "https://www.facebook.com/PhilCarrollsBar/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Bansha House",
+        "kind": "Hotel",
+        "lat": 52.45558,
+        "lon": -8.061145,
+        "cuisine": null,
+        "website": "http://www.banshahouse.com/"
+      },
+      {
+        "name": "Carraig Hotel",
+        "kind": "Hotel",
+        "lat": 52.345396,
+        "lon": -7.412417,
+        "cuisine": null,
+        "website": "https://www.carraighotel.com/"
+      },
+      {
+        "name": "Rockville House B&B",
+        "kind": "Guesthouse",
+        "lat": 52.518916,
+        "lon": -7.887983,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballykisteen Hotel and Golf Resort",
+        "kind": "Hotel",
+        "lat": 52.502376,
+        "lon": -8.21641,
+        "cuisine": null,
+        "website": "https://www.ballykisteenhotel.com/"
+      },
+      {
+        "name": "Cahir House Hotel",
+        "kind": "Hotel",
+        "lat": 52.374378,
+        "lon": -7.924348,
+        "cuisine": null,
+        "website": "https://www.cahirhousehotel.ie/en/"
+      },
+      {
+        "name": "Abbey View Bed & Breakfast",
+        "kind": "Guesthouse",
+        "lat": 52.863822,
+        "lon": -8.169704,
+        "cuisine": null,
+        "website": "http://www.abbeyview.ie"
+      },
+      {
+        "name": "Andy's",
+        "kind": "Guesthouse",
+        "lat": 52.863432,
+        "lon": -8.202543,
+        "cuisine": null,
+        "website": "https://www.andysnenagh.com/"
+      },
+      {
+        "name": "Ashley Park House",
+        "kind": "Guesthouse",
+        "lat": 52.925659,
+        "lon": -8.180157,
+        "cuisine": null,
+        "website": "https://ashleypark.com/"
+      },
+      {
+        "name": "Ballyboy House B&B",
+        "kind": "Guesthouse",
+        "lat": 52.282401,
+        "lon": -7.971122,
+        "cuisine": null,
+        "website": "http://ballyboy-house.com/"
+      },
+      {
+        "name": "Carramore Lodge",
+        "kind": "Guesthouse",
+        "lat": 52.801189,
+        "lon": -8.433141,
+        "cuisine": null,
+        "website": "https://www.carramorelodge.net/"
+      },
+      {
+        "name": "Lakeside Hotel",
+        "kind": "Hotel",
+        "lat": 52.810552,
+        "lon": -8.444027,
+        "cuisine": null,
+        "website": "https://www.lakesidehotel.ie/"
+      },
+      {
+        "name": "O'Briens Holiday Lodge",
+        "kind": "Hostel",
+        "lat": 52.520187,
+        "lon": -7.89632,
+        "cuisine": null,
+        "website": "http://www.cashel-lodge.com/"
+      },
+      {
+        "name": "Ormond Hotel",
+        "kind": "Hotel",
+        "lat": 52.861712,
+        "lon": -8.197886,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Riverglebe House B&B",
+        "kind": "Guesthouse",
+        "lat": 52.850183,
+        "lon": -8.043669,
+        "cuisine": null,
+        "website": "http://homepage.eircom.net/~riverglebehouse/Riverglebe_home.htm"
+      },
+      {
+        "name": "Teac Wattie's B&B",
+        "kind": "Guesthouse",
+        "lat": 52.518547,
+        "lon": -7.887835,
+        "cuisine": null,
+        "website": "http://www.wattiesbandb.ie/"
+      },
+      {
+        "name": "Arkans",
+        "kind": "Guesthouse",
+        "lat": 52.812065,
+        "lon": -8.437639,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ashmore House",
+        "kind": "Guesthouse",
+        "lat": 52.515706,
+        "lon": -7.887049,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Avondale Bed & Breakfast",
+        "kind": "Guesthouse",
+        "lat": 52.857545,
+        "lon": -8.193235,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballinacourty B&B",
+        "kind": "Guesthouse",
+        "lat": 52.416181,
+        "lon": -8.210107,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballyglass Country Hotel",
+        "kind": "Hotel",
+        "lat": 52.442098,
+        "lon": -8.165611,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Barack and Michelle Obama sculpture",
+        "kind": "Artwork",
+        "lat": 52.885051,
+        "lon": -7.94559,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Great War Memorial",
+        "kind": "Memorial",
+        "lat": 52.374592,
+        "lon": -7.926009,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Michael Cusack",
+        "kind": "Memorial",
+        "lat": 52.51711,
+        "lon": -7.583507,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Maid of Erin",
+        "kind": "Memorial",
+        "lat": 52.473344,
+        "lon": -8.163779,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "St. Patrick's Borstal Institution (site of)",
+        "kind": "Archaeological site",
+        "lat": 52.354209,
+        "lon": -7.699061,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Fethard Horse Country Experience",
+        "kind": "Museum",
+        "lat": 52.465987,
+        "lon": -7.695098,
+        "cuisine": null,
+        "website": "https://fhcexperience.ie/"
+      },
+      {
+        "name": "I.R.A. 3rd. Tipperary Brigade Memorial",
+        "kind": "Memorial",
+        "lat": 52.477243,
+        "lon": -8.144692,
+        "cuisine": null,
+        "website": "http://www.irishwarmemorials.ie/Place-Detail?siteId=233"
+      },
+      {
+        "name": "Lár na Páirce",
+        "kind": "Museum",
+        "lat": 52.678246,
+        "lon": -7.813023,
+        "cuisine": null,
+        "website": "http://larnapairce.ie"
+      },
+      {
+        "name": "Saint Brigid",
+        "kind": "Artwork",
+        "lat": 52.35308,
+        "lon": -7.696157,
+        "cuisine": null,
+        "website": "https://www.jamese.ie"
+      },
+      {
+        "name": "St. Mary's Famine and War Museum",
+        "kind": "Museum",
+        "lat": 52.680782,
+        "lon": -7.803822,
+        "cuisine": null,
+        "website": "http://www.faminemuseum.com/"
+      },
+      {
+        "name": "1798 Monument",
+        "kind": "Monument",
+        "lat": 52.353378,
+        "lon": -7.699326,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "1916 Bench",
+        "kind": "Monument",
+        "lat": 52.96599,
+        "lon": -7.786618,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Aircraft Memorial 1976",
+        "kind": "Memorial",
+        "lat": 52.352339,
+        "lon": -8.157091,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ashbury Sign",
+        "kind": "Monument",
+        "lat": 52.964926,
+        "lon": -7.787742,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballyhourigan Mass Rock",
+        "kind": "Memorial",
+        "lat": 52.741688,
+        "lon": -8.313244,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Black Castle",
+        "kind": "Attraction",
+        "lat": 52.679012,
+        "lon": -7.815218,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Boney Hill",
+        "kind": "Archaeological site",
+        "lat": 52.77076,
+        "lon": -7.878471,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bouladuff Hill",
+        "kind": "Archaeological site",
+        "lat": 52.718538,
+        "lon": -7.904934,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cairn",
+        "kind": "Artwork",
+        "lat": 52.939491,
+        "lon": -8.042088,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castle Loughry",
+        "kind": "Archaeological site",
+        "lat": 52.501329,
+        "lon": -8.302962,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

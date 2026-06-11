@@ -1,0 +1,498 @@
+{
+  "slug": "louth",
+  "name": "Louth",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Darver Castle",
+        "kind": "Restaurant",
+        "lat": 53.927295,
+        "lon": -6.466677,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Atami",
+        "kind": "Restaurant",
+        "lat": 54.002534,
+        "lon": -6.403593,
+        "cuisine": "japanese",
+        "website": "https://www.atamidundalk.com/"
+      },
+      {
+        "name": "Boylans Bar, Lounge & Market Street Bistro",
+        "kind": "Pub",
+        "lat": 53.857282,
+        "lon": -6.540162,
+        "cuisine": null,
+        "website": "http://www.boylans.ie"
+      },
+      {
+        "name": "Donegan’s",
+        "kind": "Pub",
+        "lat": 53.778478,
+        "lon": -6.486294,
+        "cuisine": null,
+        "website": "http://www.doneganspub.com"
+      },
+      {
+        "name": "Eddie Rocket's",
+        "kind": "Fast food",
+        "lat": 53.713395,
+        "lon": -6.347531,
+        "cuisine": "american",
+        "website": "https://www.eddierockets.ie/"
+      },
+      {
+        "name": "Eno's Bar, Grill and Lounge",
+        "kind": "Restaurant",
+        "lat": 54.004703,
+        "lon": -6.39908,
+        "cuisine": null,
+        "website": "https://eno.ie/"
+      },
+      {
+        "name": "Gringos Mexican Restaurant and Bar",
+        "kind": "Restaurant",
+        "lat": 53.708787,
+        "lon": -6.33566,
+        "cuisine": "mexican",
+        "website": "https://www.gringos.ie/"
+      },
+      {
+        "name": "Kingfisher Bistro",
+        "kind": "Restaurant",
+        "lat": 54.039289,
+        "lon": -6.186131,
+        "cuisine": "regional",
+        "website": "https://www.kingfisherbistro.ie"
+      },
+      {
+        "name": "No. 3",
+        "kind": "Restaurant",
+        "lat": 53.77674,
+        "lon": -6.487086,
+        "cuisine": null,
+        "website": "https://no3collon.com"
+      },
+      {
+        "name": "Rocksalt Cafe",
+        "kind": "Café",
+        "lat": 53.961113,
+        "lon": -6.36721,
+        "cuisine": null,
+        "website": "https://rocksaltcafe.ie/"
+      },
+      {
+        "name": "Ruby Ellen's Tea Rooms",
+        "kind": "Café",
+        "lat": 54.041191,
+        "lon": -6.186713,
+        "cuisine": "coffee, tea, cupcakes",
+        "website": "https://rubyellens.com/"
+      },
+      {
+        "name": "Social Bar and Restaurant",
+        "kind": "Restaurant",
+        "lat": 53.708847,
+        "lon": -6.33553,
+        "cuisine": "european",
+        "website": "https://socialbarandrestaurant.ie/menus/"
+      },
+      {
+        "name": "The Black Bull Inn",
+        "kind": "Pub",
+        "lat": 53.707963,
+        "lon": -6.327736,
+        "cuisine": null,
+        "website": "https://blackbullinn.ie/"
+      },
+      {
+        "name": "The Brasserie",
+        "kind": "Restaurant",
+        "lat": 53.967593,
+        "lon": -6.387453,
+        "cuisine": null,
+        "website": "https://www.fairwayshotel.ie/the-brasserie/"
+      },
+      {
+        "name": "The Lounge Bar",
+        "kind": "Bar",
+        "lat": 54.003145,
+        "lon": -6.402103,
+        "cuisine": null,
+        "website": "https://www.thehotelimperial.ie/the-lounge-bar.html"
+      },
+      {
+        "name": "The Oystercatcher Bistro",
+        "kind": "Restaurant",
+        "lat": 54.040143,
+        "lon": -6.187059,
+        "cuisine": "fish",
+        "website": "https://theoystercatcher.wordpress.com/"
+      },
+      {
+        "name": "The Windsor",
+        "kind": "Pub",
+        "lat": 53.99939,
+        "lon": -6.405986,
+        "cuisine": null,
+        "website": "https://www.windsorbar.com"
+      },
+      {
+        "name": "Adelphi Jade",
+        "kind": "Restaurant",
+        "lat": 54.004464,
+        "lon": -6.404243,
+        "cuisine": "asian",
+        "website": null
+      },
+      {
+        "name": "Admirals",
+        "kind": "Pub",
+        "lat": 53.71456,
+        "lon": -6.349925,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Aggie's Coffee Hut",
+        "kind": "Café",
+        "lat": 53.736863,
+        "lon": -6.418136,
+        "cuisine": "coffee shop",
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Bellingham Castle Hotel",
+        "kind": "Hotel",
+        "lat": 53.894667,
+        "lon": -6.392398,
+        "cuisine": null,
+        "website": "https://www.bellinghamcastle.ie/"
+      },
+      {
+        "name": "McKevitt's Hotel",
+        "kind": "Hotel",
+        "lat": 54.040337,
+        "lon": -6.187136,
+        "cuisine": null,
+        "website": "https://www.mckevitts.ie/"
+      },
+      {
+        "name": "B&B Lismar",
+        "kind": "Guesthouse",
+        "lat": 53.998676,
+        "lon": -6.406878,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballymascanlon House Hotel",
+        "kind": "Hotel",
+        "lat": 54.031672,
+        "lon": -6.352472,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "D Hotel",
+        "kind": "Hotel",
+        "lat": 53.714225,
+        "lon": -6.34506,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Scholars Townhouse Hotel",
+        "kind": "Hotel",
+        "lat": 53.717847,
+        "lon": -6.348606,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Boyne Valley Hotel",
+        "kind": "Hotel",
+        "lat": 53.708173,
+        "lon": -6.313688,
+        "cuisine": null,
+        "website": "https://www.boynevalleyhotel.ie/en/"
+      },
+      {
+        "name": "Carlingford House",
+        "kind": "Hotel",
+        "lat": 54.037943,
+        "lon": -6.185938,
+        "cuisine": null,
+        "website": "https://carlingfordhouse.com/"
+      },
+      {
+        "name": "Carnbeg Hotel & Spa",
+        "kind": "Hotel",
+        "lat": 54.031191,
+        "lon": -6.406687,
+        "cuisine": null,
+        "website": "https://www.carnbeghotel.ie/"
+      },
+      {
+        "name": "Carraig Mor B&B",
+        "kind": "Guesthouse",
+        "lat": 53.831127,
+        "lon": -6.535827,
+        "cuisine": null,
+        "website": "https://www.carraigmor.com/index.html"
+      },
+      {
+        "name": "Carrickdale Hotel & Spa",
+        "kind": "Hotel",
+        "lat": 54.099944,
+        "lon": -6.360325,
+        "cuisine": null,
+        "website": "https://www.carrickdale.com/"
+      },
+      {
+        "name": "Crowne Plaza Dundalk",
+        "kind": "Hotel",
+        "lat": 53.980488,
+        "lon": -6.388833,
+        "cuisine": null,
+        "website": "https://www.cpireland.crowneplaza.com/"
+      },
+      {
+        "name": "Fairways Hotel",
+        "kind": "Hotel",
+        "lat": 53.967771,
+        "lon": -6.387451,
+        "cuisine": null,
+        "website": "https://www.fairwayshotel.ie/"
+      },
+      {
+        "name": "Grove House Bed & Breakfast",
+        "kind": "Guesthouse",
+        "lat": 54.033285,
+        "lon": -6.181114,
+        "cuisine": null,
+        "website": "https://www.grovehousecarlingford.com/"
+      },
+      {
+        "name": "Hotel Imperial",
+        "kind": "Hotel",
+        "lat": 54.003019,
+        "lon": -6.401752,
+        "cuisine": null,
+        "website": "http://www.thehotelimperial.com/"
+      },
+      {
+        "name": "Lynolan B&B",
+        "kind": "Guesthouse",
+        "lat": 53.97065,
+        "lon": -6.4139,
+        "cuisine": null,
+        "website": "http://www.lynolan.com/"
+      },
+      {
+        "name": "Abbey Lodge Bed and Breakfast",
+        "kind": "Guesthouse",
+        "lat": 54.036742,
+        "lon": -6.184939,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Arlee House B&B",
+        "kind": "Guesthouse",
+        "lat": 53.981867,
+        "lon": -6.395066,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "B&B Glen Gat House",
+        "kind": "Guesthouse",
+        "lat": 53.998754,
+        "lon": -6.408151,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carlingford Adventure Centre",
+        "kind": "Hostel",
+        "lat": 54.040154,
+        "lon": -6.186499,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Beaulieu House and Gardens",
+        "kind": "Attraction",
+        "lat": 53.728075,
+        "lon": -6.293519,
+        "cuisine": null,
+        "website": "https://beaulieuhouse.ie/"
+      },
+      {
+        "name": "Carlingford Castle",
+        "kind": "Attraction",
+        "lat": 54.04322,
+        "lon": -6.186802,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castletown Motte",
+        "kind": "Archaeological site",
+        "lat": 54.013825,
+        "lon": -6.430253,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clochafarmore",
+        "kind": "Archaeological site",
+        "lat": 53.97449,
+        "lon": -6.465918,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Donaghmore (Souterrain)",
+        "kind": "Archaeological site",
+        "lat": 54.003372,
+        "lon": -6.45889,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Greenmount Motte",
+        "kind": "Archaeological site",
+        "lat": 53.878053,
+        "lon": -6.3859,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lisnaran Fort",
+        "kind": "Archaeological site",
+        "lat": 53.882628,
+        "lon": -6.34711,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Louth County Museum",
+        "kind": "Museum",
+        "lat": 54.004641,
+        "lon": -6.396971,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Magdalene Tower",
+        "kind": "Castle",
+        "lat": 53.71823,
+        "lon": -6.351048,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mansfieldstown Church",
+        "kind": "Ruins",
+        "lat": 53.896886,
+        "lon": -6.445699,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mint",
+        "kind": "Castle",
+        "lat": 54.040155,
+        "lon": -6.186326,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Monasterboice Abbey",
+        "kind": "Ruins",
+        "lat": 53.777836,
+        "lon": -6.41788,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Muiredach's High Cross",
+        "kind": "Attraction",
+        "lat": 53.777797,
+        "lon": -6.418033,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Proleek Dolmen",
+        "kind": "Archaeological site",
+        "lat": 54.037189,
+        "lon": -6.348249,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rockmarshall Court Tomb",
+        "kind": "Archaeological site",
+        "lat": 54.009195,
+        "lon": -6.28469,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Roodstown Castle",
+        "kind": "Castle",
+        "lat": 53.872236,
+        "lon": -6.486708,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Boyne Obelisk",
+        "kind": "Ruins",
+        "lat": 53.725364,
+        "lon": -6.416689,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Townleyhall passage grave",
+        "kind": "Archaeological site",
+        "lat": 53.721182,
+        "lon": -6.451207,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Funtasia",
+        "kind": "Theme park",
+        "lat": 53.705348,
+        "lon": -6.363657,
+        "cuisine": null,
+        "website": "https://www.funtasia.ie/"
+      },
+      {
+        "name": "Millmount Museum",
+        "kind": "Museum",
+        "lat": 53.711632,
+        "lon": -6.349499,
+        "cuisine": null,
+        "website": "https://www.millmount.net/"
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

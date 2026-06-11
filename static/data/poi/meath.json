@@ -1,0 +1,498 @@
+{
+  "slug": "meath",
+  "name": "Meath",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 53.419186,
+        "lon": -6.476166,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/stores/order-pizza-dunboyne"
+      },
+      {
+        "name": "Brogan’s Bar & Hotel",
+        "kind": "Bar",
+        "lat": 53.557502,
+        "lon": -6.789307,
+        "cuisine": null,
+        "website": "https://www.brogans.ie"
+      },
+      {
+        "name": "Eddie Rocket's",
+        "kind": "Fast food",
+        "lat": 53.652868,
+        "lon": -6.684457,
+        "cuisine": "american",
+        "website": "https://www.eddierockets.ie/"
+      },
+      {
+        "name": "Fifty50",
+        "kind": "Restaurant",
+        "lat": 53.510194,
+        "lon": -6.397764,
+        "cuisine": "wine bar",
+        "website": "https://www.fifty50.ie/"
+      },
+      {
+        "name": "Fifty50",
+        "kind": "Restaurant",
+        "lat": 53.724801,
+        "lon": -6.880395,
+        "cuisine": null,
+        "website": "https://fifty50.ie/"
+      },
+      {
+        "name": "Franzini O'Brien's",
+        "kind": "Restaurant",
+        "lat": 53.555539,
+        "lon": -6.790432,
+        "cuisine": null,
+        "website": "http://www.franzinis.com"
+      },
+      {
+        "name": "Ho Wun",
+        "kind": "Fast food",
+        "lat": 53.419156,
+        "lon": -6.475373,
+        "cuisine": "chinese",
+        "website": "https://howun.ie"
+      },
+      {
+        "name": "Inside Out",
+        "kind": "Restaurant",
+        "lat": 53.709881,
+        "lon": -6.542181,
+        "cuisine": "italian, italian pizza, irish",
+        "website": "https://www.insideoutslane.ie/"
+      },
+      {
+        "name": "James Griffin",
+        "kind": "Pub",
+        "lat": 53.557485,
+        "lon": -6.788599,
+        "cuisine": null,
+        "website": "http://jamesgriffinpub.ie/"
+      },
+      {
+        "name": "La Bucca",
+        "kind": "Restaurant",
+        "lat": 53.418622,
+        "lon": -6.474216,
+        "cuisine": "italian",
+        "website": "https://labucca.ie/"
+      },
+      {
+        "name": "Little Italy",
+        "kind": "Restaurant",
+        "lat": 53.414695,
+        "lon": -6.829382,
+        "cuisine": "italian",
+        "website": "https://littleitalyenfield.ie/"
+      },
+      {
+        "name": "Luigi's Primo Takeaway",
+        "kind": "Fast food",
+        "lat": 53.414888,
+        "lon": -6.833501,
+        "cuisine": "pizza, burger",
+        "website": "https://www.luigisprimoenfield.com/"
+      },
+      {
+        "name": "Macari's Take Away",
+        "kind": "Fast food",
+        "lat": 53.663268,
+        "lon": -6.677535,
+        "cuisine": "burger, chicken, pizza, fish, fish and chips, kebab, hot dog, curry",
+        "website": "https://www.macarisblackcastle.ie/"
+      },
+      {
+        "name": "Mint Greene",
+        "kind": "Café",
+        "lat": 53.70143,
+        "lon": -6.310732,
+        "cuisine": "coffee shop",
+        "website": "https://www.relishcafe.ie/mint-greene"
+      },
+      {
+        "name": "Mizzoni Pizza & Pasta Co",
+        "kind": "Fast food",
+        "lat": 53.649181,
+        "lon": -6.686111,
+        "cuisine": "pizza",
+        "website": "https://www.mizzoni.ie/"
+      },
+      {
+        "name": "Nanny’s of Duleek",
+        "kind": "Restaurant",
+        "lat": 53.657264,
+        "lon": -6.41248,
+        "cuisine": null,
+        "website": "https://nannys.ie"
+      },
+      {
+        "name": "P. Bermingham",
+        "kind": "Pub",
+        "lat": 53.652435,
+        "lon": -6.683281,
+        "cuisine": null,
+        "website": "http://berminghams.ie"
+      },
+      {
+        "name": "P. Clarke’s",
+        "kind": "Pub",
+        "lat": 53.65126,
+        "lon": -6.682326,
+        "cuisine": null,
+        "website": "https://www.pclarkesbar.ie"
+      },
+      {
+        "name": "Pizza House",
+        "kind": "Fast food",
+        "lat": 53.663446,
+        "lon": -6.677064,
+        "cuisine": "pizza",
+        "website": "https://pizzahousenavan.com/"
+      },
+      {
+        "name": "Regatto's",
+        "kind": "Fast food",
+        "lat": 53.554543,
+        "lon": -6.793488,
+        "cuisine": null,
+        "website": "https://www.regattos.ie/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Ashbourne Court Hotel",
+        "kind": "Hotel",
+        "lat": 53.5101,
+        "lon": -6.396889,
+        "cuisine": null,
+        "website": "https://www.ashbournecourthotel.ie/"
+      },
+      {
+        "name": "Plantation Lodge B&B",
+        "kind": "Guesthouse",
+        "lat": 53.902555,
+        "lon": -6.778726,
+        "cuisine": null,
+        "website": "https://www.plantationlodgebb.com/"
+      },
+      {
+        "name": "Tara House",
+        "kind": "Guesthouse",
+        "lat": 53.680308,
+        "lon": -6.237554,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Broadmeadow Country House",
+        "kind": "Guesthouse",
+        "lat": 53.490601,
+        "lon": -6.360171,
+        "cuisine": null,
+        "website": "https://www.broadmeadowcountryhouse.com/"
+      },
+      {
+        "name": "Killowen House B&B",
+        "kind": "Guesthouse",
+        "lat": 53.694989,
+        "lon": -6.309895,
+        "cuisine": null,
+        "website": "https://killowenhouse.com/"
+      },
+      {
+        "name": "Moyglare Manor Self Catering",
+        "kind": "Chalet",
+        "lat": 53.409698,
+        "lon": -6.611573,
+        "cuisine": null,
+        "website": "https://moyglaremanor.ie/"
+      },
+      {
+        "name": "Station House Hotel",
+        "kind": "Hotel",
+        "lat": 53.563877,
+        "lon": -6.666973,
+        "cuisine": null,
+        "website": "http://www.thestationhousehotel.com"
+      },
+      {
+        "name": "The Cottages",
+        "kind": "Guesthouse",
+        "lat": 53.690171,
+        "lon": -6.242763,
+        "cuisine": null,
+        "website": "https://www.cottages-ireland.com/"
+      },
+      {
+        "name": "32 The Old Mill Ratoath",
+        "kind": "Guesthouse",
+        "lat": 53.500224,
+        "lon": -6.462092,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Archerstown B&B",
+        "kind": "Guesthouse",
+        "lat": 53.508443,
+        "lon": -6.384171,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Baltrasna Lodge",
+        "kind": "Guesthouse",
+        "lat": 53.49561,
+        "lon": -6.387768,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Birchwood",
+        "kind": "Guesthouse",
+        "lat": 53.709038,
+        "lon": -6.907999,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kells Holiday Hostel",
+        "kind": "Hostel",
+        "lat": 53.730276,
+        "lon": -6.88152,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Loughcrew Megalithic Hostel",
+        "kind": "Hostel",
+        "lat": 53.745234,
+        "lon": -7.121389,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Marian House",
+        "kind": "Guesthouse",
+        "lat": 53.419098,
+        "lon": -6.477395,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Neptune Beach Hotel and Leisure Club",
+        "kind": "Hotel",
+        "lat": 53.697609,
+        "lon": -6.243419,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Pine Hill",
+        "kind": "Guesthouse",
+        "lat": 53.510211,
+        "lon": -6.463777,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Reddans of Bettystown",
+        "kind": "Guesthouse",
+        "lat": 53.698105,
+        "lon": -6.244162,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ross Castle B and B",
+        "kind": "Hotel",
+        "lat": 53.795607,
+        "lon": -7.292174,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "St. Tomas Bed and Breakfast",
+        "kind": "Guesthouse",
+        "lat": 53.648974,
+        "lon": -6.654537,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Larchil Arcadian Gardens",
+        "kind": "Attraction",
+        "lat": 53.441066,
+        "lon": -6.656632,
+        "cuisine": null,
+        "website": "https://larchill.ie/"
+      },
+      {
+        "name": "Larch Hill House",
+        "kind": "Manor",
+        "lat": 53.440722,
+        "lon": -6.657527,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lia Fáil",
+        "kind": "Monument",
+        "lat": 53.578629,
+        "lon": -6.612147,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Irish Military Museum And Park",
+        "kind": "Museum",
+        "lat": 53.764043,
+        "lon": -6.470428,
+        "cuisine": null,
+        "website": "https://irishmilitarymuseum.com/"
+      },
+      {
+        "name": "Puddenhill",
+        "kind": "Attraction",
+        "lat": 53.589152,
+        "lon": -6.429275,
+        "cuisine": null,
+        "website": "https://thearkpuddenhill.ie/"
+      },
+      {
+        "name": "Red Mountain Open Farm",
+        "kind": "Theme park",
+        "lat": 53.67516,
+        "lon": -6.461576,
+        "cuisine": null,
+        "website": "https://redmountainopenfarm.ie/"
+      },
+      {
+        "name": "1798 Memorial",
+        "kind": "Memorial",
+        "lat": 53.449956,
+        "lon": -6.619784,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Alice in Wonderland",
+        "kind": "Artwork",
+        "lat": 53.733786,
+        "lon": -7.14594,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Angel of the Past",
+        "kind": "Artwork",
+        "lat": 53.726639,
+        "lon": -6.875216,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ashbourne",
+        "kind": "Memorial",
+        "lat": 53.496668,
+        "lon": -6.384871,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballymacoll House",
+        "kind": "Ruins",
+        "lat": 53.416184,
+        "lon": -6.526362,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Baltrasna House",
+        "kind": "Manor",
+        "lat": 53.471686,
+        "lon": -6.634964,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bogland",
+        "kind": "Memorial",
+        "lat": 53.67596,
+        "lon": -6.925623,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Book of Kells",
+        "kind": "Artwork",
+        "lat": 53.72946,
+        "lon": -6.881909,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Boyne",
+        "kind": "Viewpoint",
+        "lat": 53.686645,
+        "lon": -6.482148,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Brú na Bóinne Visitor Centre Access",
+        "kind": "Attraction",
+        "lat": 53.69446,
+        "lon": -6.446266,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carlanstown Group Water Scheme",
+        "kind": "Memorial",
+        "lat": 53.765978,
+        "lon": -6.837302,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castletown Trail",
+        "kind": "Memorial",
+        "lat": 53.774361,
+        "lon": -6.719738,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cnocán an Chrainn",
+        "kind": "Archaeological site",
+        "lat": 53.712693,
+        "lon": -6.774669,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Deerpark",
+        "kind": "Memorial",
+        "lat": 53.504202,
+        "lon": -6.391034,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

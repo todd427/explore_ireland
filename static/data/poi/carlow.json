@@ -1,0 +1,458 @@
+{
+  "slug": "carlow",
+  "name": "Carlow",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Step House",
+        "kind": "Restaurant",
+        "lat": 52.601207,
+        "lon": -6.92731,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Barrow Blend Café",
+        "kind": "Café",
+        "lat": 52.703375,
+        "lon": -6.957801,
+        "cuisine": "coffee shop",
+        "website": "https://www.barrowblend.com/"
+      },
+      {
+        "name": "Carpe Diem",
+        "kind": "Pub",
+        "lat": 52.838669,
+        "lon": -6.9302,
+        "cuisine": null,
+        "website": "https://carpediemcarlow.ie"
+      },
+      {
+        "name": "Mimosa Bar de Tapas",
+        "kind": "Restaurant",
+        "lat": 52.836824,
+        "lon": -6.928863,
+        "cuisine": null,
+        "website": "https://www.mimosawinebar.com/"
+      },
+      {
+        "name": "Riverbank Restaurant",
+        "kind": "Restaurant",
+        "lat": 52.800198,
+        "lon": -6.734249,
+        "cuisine": null,
+        "website": "http://riverbanktullow.ie/"
+      },
+      {
+        "name": "The Barracks",
+        "kind": "Pub",
+        "lat": 52.836018,
+        "lon": -6.928905,
+        "cuisine": null,
+        "website": "http://www.thebarracks.ie"
+      },
+      {
+        "name": "Vals Takeaway",
+        "kind": "Fast food",
+        "lat": 52.865423,
+        "lon": -6.558807,
+        "cuisine": "pizza, burger, fries",
+        "website": "https://www.valstakeaway.ie/"
+      },
+      {
+        "name": "Waterlilies Café",
+        "kind": "Café",
+        "lat": 52.836379,
+        "lon": -6.930297,
+        "cuisine": "coffee, cake",
+        "website": "https://waterlilies.webflow.io/"
+      },
+      {
+        "name": "Weeping Thaiger",
+        "kind": "Restaurant",
+        "lat": 52.836604,
+        "lon": -6.93659,
+        "cuisine": "thai",
+        "website": "http://www.weepingthaiger.ie/"
+      },
+      {
+        "name": "Abrakebabra",
+        "kind": "Fast food",
+        "lat": 52.834821,
+        "lon": -6.925651,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Amoretto",
+        "kind": "Café",
+        "lat": 52.833886,
+        "lon": -6.926553,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Antonio's Diner",
+        "kind": "Restaurant",
+        "lat": 52.838872,
+        "lon": -6.90421,
+        "cuisine": "burger",
+        "website": null
+      },
+      {
+        "name": "Ardattin Inn",
+        "kind": "Pub",
+        "lat": 52.753628,
+        "lon": -6.706817,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballinkillen Community Centre Members' Lounge",
+        "kind": "Pub",
+        "lat": 52.65007,
+        "lon": -6.929928,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Barrow Brew - Mobile Coffee Van",
+        "kind": "Café",
+        "lat": 52.781842,
+        "lon": -6.967007,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Barrow Brew - mobile coffee shop",
+        "kind": "Café",
+        "lat": 52.78187,
+        "lon": -6.966991,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Basil Asian Street Food",
+        "kind": "Fast food",
+        "lat": 52.834341,
+        "lon": -6.927908,
+        "cuisine": "asian",
+        "website": null
+      },
+      {
+        "name": "Benni's",
+        "kind": "Fast food",
+        "lat": 52.599929,
+        "lon": -6.923667,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bird Cage",
+        "kind": "Café",
+        "lat": 52.702111,
+        "lon": -6.957924,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Blanchfield's Pub",
+        "kind": "Pub",
+        "lat": 52.490644,
+        "lon": -6.930447,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Ballykealey Manor",
+        "kind": "Hotel",
+        "lat": 52.746647,
+        "lon": -6.780211,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lord Bagenal",
+        "kind": "Hotel",
+        "lat": 52.736631,
+        "lon": -6.97667,
+        "cuisine": null,
+        "website": "https://www.lordbagenal.com/"
+      },
+      {
+        "name": "Dinn Rí",
+        "kind": "Hotel",
+        "lat": 52.836135,
+        "lon": -6.929882,
+        "cuisine": null,
+        "website": "https://www.dinnri.com"
+      },
+      {
+        "name": "Seven Oaks Hotel",
+        "kind": "Hotel",
+        "lat": 52.841063,
+        "lon": -6.929081,
+        "cuisine": null,
+        "website": "https://www.sevenoakshotel.com/"
+      },
+      {
+        "name": "Carlton Millrace Hotel",
+        "kind": "Hotel",
+        "lat": 52.655353,
+        "lon": -6.655933,
+        "cuisine": null,
+        "website": "http://www.carltonmillracehotel.com"
+      },
+      {
+        "name": "Dolmen Hotel",
+        "kind": "Hotel",
+        "lat": 52.813826,
+        "lon": -6.951841,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "McCall House",
+        "kind": "Guesthouse",
+        "lat": 52.865626,
+        "lon": -6.559459,
+        "cuisine": null,
+        "website": "https://www.airbnb.ie/rooms/28116108"
+      },
+      {
+        "name": "Mount Wolseley Hotel Spa & Country Club",
+        "kind": "Hotel",
+        "lat": 52.790927,
+        "lon": -6.730111,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Barrowview B & B",
+        "kind": "Guesthouse",
+        "lat": 52.596126,
+        "lon": -6.946536,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Brenda's Bed and Breakfast",
+        "kind": "Guesthouse",
+        "lat": 52.593775,
+        "lon": -6.910685,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Byrne's B&B",
+        "kind": "Guesthouse",
+        "lat": 52.567256,
+        "lon": -6.911414,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carraig B&B",
+        "kind": "Guesthouse",
+        "lat": 52.695467,
+        "lon": -6.661232,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ceatharlach Moorings Holiday Homes",
+        "kind": "Chalet",
+        "lat": 52.832108,
+        "lon": -6.937922,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Laurel House",
+        "kind": "Guesthouse",
+        "lat": 52.604002,
+        "lon": -6.944874,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Otterholt Riverside Lodge",
+        "kind": "Hostel",
+        "lat": 52.830495,
+        "lon": -6.935905,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Brownshill Dolmen",
+        "kind": "Archaeological site",
+        "lat": 52.837521,
+        "lon": -6.881119,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carlow Castle",
+        "kind": "Castle",
+        "lat": 52.836242,
+        "lon": -6.935923,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carlow County Museum",
+        "kind": "Museum",
+        "lat": 52.836326,
+        "lon": -6.928195,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castlemore Moat",
+        "kind": "Archaeological site",
+        "lat": 52.809367,
+        "lon": -6.772575,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Duckett's Grove",
+        "kind": "Attraction",
+        "lat": 52.857423,
+        "lon": -6.813471,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rathvilly Moat",
+        "kind": "Archaeological site",
+        "lat": 52.88047,
+        "lon": -6.678102,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "St Mullin's Monastic Site",
+        "kind": "Archaeological site",
+        "lat": 52.488896,
+        "lon": -6.928053,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Black Castle",
+        "kind": "Castle",
+        "lat": 52.736007,
+        "lon": -6.977803,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "VISUAL Centre for Contemporary Art",
+        "kind": "Gallery",
+        "lat": 52.838066,
+        "lon": -6.92771,
+        "cuisine": null,
+        "website": "https://www.visualcarlow.ie/"
+      },
+      {
+        "name": "Aghade holed stone",
+        "kind": "Archaeological site",
+        "lat": 52.770208,
+        "lon": -6.746775,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ardristan Stone",
+        "kind": "Archaeological site",
+        "lat": 52.78678,
+        "lon": -6.753717,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cloghabrona Druids Altar",
+        "kind": "Archaeological site",
+        "lat": 52.643669,
+        "lon": -6.964026,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clonmore Castle (Ruin)",
+        "kind": "Castle",
+        "lat": 52.828116,
+        "lon": -6.575497,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dunleckny Manor",
+        "kind": "Castle",
+        "lat": 52.713573,
+        "lon": -6.938699,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Haroldstown Dolmen",
+        "kind": "Archaeological site",
+        "lat": 52.845072,
+        "lon": -6.663908,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rathnageeragh castle",
+        "kind": "Castle",
+        "lat": 52.655543,
+        "lon": -6.823277,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Tullow Museum",
+        "kind": "Museum",
+        "lat": 52.802336,
+        "lon": -6.73796,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Altamont House and Gardens",
+        "kind": "Attraction",
+        "lat": 52.735854,
+        "lon": -6.718013,
+        "cuisine": null,
+        "website": "https://heritageireland.ie/visit/places-to-visit/altamont-gardens"
+      },
+      {
+        "name": "Ceatharloch",
+        "kind": "Artwork",
+        "lat": 52.845217,
+        "lon": -6.914018,
+        "cuisine": null,
+        "website": "http://michaelwarren.ie/installations/"
+      },
+      {
+        "name": "Delta Sensory Gardens",
+        "kind": "Attraction",
+        "lat": 52.844703,
+        "lon": -6.926527,
+        "cuisine": null,
+        "website": "http://www.deltacentre.org/"
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 15,
+    "see_do": 20
+  }
+}

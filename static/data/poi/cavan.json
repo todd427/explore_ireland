@@ -1,0 +1,498 @@
+{
+  "slug": "cavan",
+  "name": "Cavan",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Burnt Pig",
+        "kind": "Pub",
+        "lat": 54.072771,
+        "lon": -7.08328,
+        "cuisine": null,
+        "website": "https://burntpig.com/"
+      },
+      {
+        "name": "Café Rem",
+        "kind": "Café",
+        "lat": 53.922781,
+        "lon": -7.582154,
+        "cuisine": null,
+        "website": "https://www.facebook.com/cafe.rem.arva/"
+      },
+      {
+        "name": "Chilli Lounge",
+        "kind": "Restaurant",
+        "lat": 53.989739,
+        "lon": -7.360312,
+        "cuisine": "indian",
+        "website": "https://www.chillilounge.ie/"
+      },
+      {
+        "name": "Eastern Tandoori",
+        "kind": "Restaurant",
+        "lat": 53.834365,
+        "lon": -7.081662,
+        "cuisine": "indian",
+        "website": "https://www.eastern-tandoori.ie/"
+      },
+      {
+        "name": "Indian Tandoori",
+        "kind": "Restaurant",
+        "lat": 53.834455,
+        "lon": -7.081206,
+        "cuisine": "indian",
+        "website": "https://indiantandoorivirginia.com/"
+      },
+      {
+        "name": "Little Italy",
+        "kind": "Fast food",
+        "lat": 53.834259,
+        "lon": -7.081367,
+        "cuisine": "fish and chipss",
+        "website": "https://www.littleitalyvirginia.ie/"
+      },
+      {
+        "name": "MacNean House and Restaurant",
+        "kind": "Restaurant",
+        "lat": 54.291241,
+        "lon": -7.87627,
+        "cuisine": null,
+        "website": "http://www.nevenmaguire.com/index.php?contentid=about-macnean-house&sectionid=macnean-house"
+      },
+      {
+        "name": "Saint Kyrans Country House Restaurant",
+        "kind": "Restaurant",
+        "lat": 53.824317,
+        "lon": -7.060776,
+        "cuisine": null,
+        "website": "https://www.stkyrans.com/"
+      },
+      {
+        "name": "Sushi Mania",
+        "kind": "Restaurant",
+        "lat": 53.834374,
+        "lon": -7.080953,
+        "cuisine": "sushi",
+        "website": "https://sushimania.ie/"
+      },
+      {
+        "name": "The Derby Bar",
+        "kind": "Bar",
+        "lat": 53.913788,
+        "lon": -6.77493,
+        "cuisine": null,
+        "website": "https://www.cabracastle.com/dining/the-derby-bar"
+      },
+      {
+        "name": "5th Avenue",
+        "kind": "Pub",
+        "lat": 53.990363,
+        "lon": -7.360514,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ali Kebabish",
+        "kind": "Fast food",
+        "lat": 53.989519,
+        "lon": -7.36037,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Apache",
+        "kind": "Fast food",
+        "lat": 54.072803,
+        "lon": -7.082197,
+        "cuisine": "pizza",
+        "website": null
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 53.991015,
+        "lon": -7.360881,
+        "cuisine": "pizza",
+        "website": null
+      },
+      {
+        "name": "Aroma Coffee House",
+        "kind": "Café",
+        "lat": 54.116067,
+        "lon": -7.583552,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Arva Inn",
+        "kind": "Restaurant",
+        "lat": 53.923884,
+        "lon": -7.582922,
+        "cuisine": "chinese",
+        "website": null
+      },
+      {
+        "name": "Barney Macs",
+        "kind": "Bar",
+        "lat": 53.931754,
+        "lon": -7.407476,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bayleaf - Restaurant & Take-Away",
+        "kind": "Restaurant",
+        "lat": 54.1172,
+        "lon": -7.582241,
+        "cuisine": "regional, fish and chips, tea, coffee, milkshakes",
+        "website": null
+      },
+      {
+        "name": "Bazaar",
+        "kind": "Café",
+        "lat": 54.291501,
+        "lon": -7.875515,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bedrock Cafe",
+        "kind": "Café",
+        "lat": 54.098947,
+        "lon": -7.430877,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Lakeside Manor Hotel",
+        "kind": "Hotel",
+        "lat": 53.818699,
+        "lon": -7.053543,
+        "cuisine": null,
+        "website": "https://www.lakesidemanor.ie/"
+      },
+      {
+        "name": "The Keeper's Arms",
+        "kind": "Guesthouse",
+        "lat": 54.120479,
+        "lon": -7.67671,
+        "cuisine": null,
+        "website": "https://keepersarms.com/dev3/accommodation/"
+      },
+      {
+        "name": "Cavan Crystal Hotel",
+        "kind": "Hotel",
+        "lat": 53.982874,
+        "lon": -7.340993,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Crover House Hotel",
+        "kind": "Hotel",
+        "lat": 53.826721,
+        "lon": -7.294888,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Breffni Arms Hotel",
+        "kind": "Hotel",
+        "lat": 53.924331,
+        "lon": -7.583301,
+        "cuisine": null,
+        "website": "https://www.breffniarms.ie"
+      },
+      {
+        "name": "Farnham Estate",
+        "kind": "Hotel",
+        "lat": 54.002178,
+        "lon": -7.400322,
+        "cuisine": null,
+        "website": "https://www.farnhamestate.ie/"
+      },
+      {
+        "name": "Saint Kyrans Country House",
+        "kind": "Guesthouse",
+        "lat": 53.824276,
+        "lon": -7.060685,
+        "cuisine": null,
+        "website": "https://www.stkyrans.com/"
+      },
+      {
+        "name": "Skelly's B&B",
+        "kind": "Guesthouse",
+        "lat": 53.83406,
+        "lon": -7.080892,
+        "cuisine": null,
+        "website": "https://skellysbandb.com/"
+      },
+      {
+        "name": "Annalee House B&B",
+        "kind": "Guesthouse",
+        "lat": 54.043128,
+        "lon": -7.377272,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bearnagh House",
+        "kind": "Guesthouse",
+        "lat": 53.864717,
+        "lon": -7.196538,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Church View B&B",
+        "kind": "Guesthouse",
+        "lat": 54.100143,
+        "lon": -7.44527,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Eonish Lodge",
+        "kind": "Guesthouse",
+        "lat": 54.020228,
+        "lon": -7.487509,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Errigal Country House Hotel",
+        "kind": "Hotel",
+        "lat": 54.065215,
+        "lon": -7.10257,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Farnham House Bed and Breakfast",
+        "kind": "Guesthouse",
+        "lat": 53.997667,
+        "lon": -7.371454,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lakeview",
+        "kind": "Guesthouse",
+        "lat": 53.813663,
+        "lon": -6.980626,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lisduff House",
+        "kind": "Guesthouse",
+        "lat": 53.792026,
+        "lon": -7.029419,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lough Bawn Hotel",
+        "kind": "Hotel",
+        "lat": 54.013654,
+        "lon": -7.528335,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "McNean House",
+        "kind": "Hotel",
+        "lat": 54.291248,
+        "lon": -7.876406,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Millview B&B",
+        "kind": "Guesthouse",
+        "lat": 53.83532,
+        "lon": -7.07674,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Murray's B&B",
+        "kind": "Hotel",
+        "lat": 53.965317,
+        "lon": -7.229634,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Cabragh Ringfort",
+        "kind": "Archaeological site",
+        "lat": 54.053873,
+        "lon": -7.109049,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cavan County Museum",
+        "kind": "Museum",
+        "lat": 53.866971,
+        "lon": -7.200654,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Drumlane Abbey",
+        "kind": "Attraction",
+        "lat": 54.057431,
+        "lon": -7.47863,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballaghanea Portal Tomb",
+        "kind": "Archaeological site",
+        "lat": 53.824866,
+        "lon": -7.052486,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Calf House Dolmen Tomb",
+        "kind": "Archaeological site",
+        "lat": 54.264931,
+        "lon": -7.885101,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cromlech",
+        "kind": "Archaeological site",
+        "lat": 53.871242,
+        "lon": -7.303061,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Giant's Grave",
+        "kind": "Archaeological site",
+        "lat": 53.970331,
+        "lon": -6.984914,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Tullygobban Tomb",
+        "kind": "Archaeological site",
+        "lat": 54.266145,
+        "lon": -7.886669,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Belturbet Heritage Railway Station Museum",
+        "kind": "Museum",
+        "lat": 54.097767,
+        "lon": -7.442192,
+        "cuisine": null,
+        "website": "http://discoverbelturbet.ie/business-directory/belturbet-railway-and-vintage-restoration-association/"
+      },
+      {
+        "name": "Out-Doors and Dirty",
+        "kind": "Attraction",
+        "lat": 54.140747,
+        "lon": -7.713143,
+        "cuisine": null,
+        "website": "https://odd.ie/"
+      },
+      {
+        "name": "1940 Plough",
+        "kind": "Memorial",
+        "lat": 53.863362,
+        "lon": -7.208225,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Altachullion",
+        "kind": "Viewpoint",
+        "lat": 54.164977,
+        "lon": -7.790662,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ancient Order of Hibernians Memorial",
+        "kind": "Memorial",
+        "lat": 53.967186,
+        "lon": -7.25069,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Arch of Peace",
+        "kind": "Artwork",
+        "lat": 53.994761,
+        "lon": -7.367841,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Birthplace of General Philip Sheridan",
+        "kind": "Memorial",
+        "lat": 53.882773,
+        "lon": -7.046779,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Black Fort",
+        "kind": "Archaeological site",
+        "lat": 53.982286,
+        "lon": -7.243303,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Black Fort",
+        "kind": "Archaeological site",
+        "lat": 53.97941,
+        "lon": -6.889334,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bomb Victims Memorial",
+        "kind": "Memorial",
+        "lat": 54.100602,
+        "lon": -7.444428,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Boulder Graveyard",
+        "kind": "Archaeological site",
+        "lat": 54.266422,
+        "lon": -7.883947,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bracklin Cairn",
+        "kind": "Archaeological site",
+        "lat": 53.914625,
+        "lon": -6.898252,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

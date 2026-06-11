@@ -1,0 +1,498 @@
+{
+  "slug": "kilkenny",
+  "name": "Kilkenny",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Campagne",
+        "kind": "Restaurant",
+        "lat": 52.65583,
+        "lon": -7.246655,
+        "cuisine": "french",
+        "website": null
+      },
+      {
+        "name": "Algarve Grill",
+        "kind": "Restaurant",
+        "lat": 52.656175,
+        "lon": -7.244812,
+        "cuisine": null,
+        "website": "https://www.algarvegrill.ie/"
+      },
+      {
+        "name": "Anocht",
+        "kind": "Restaurant",
+        "lat": 52.649788,
+        "lon": -7.249466,
+        "cuisine": null,
+        "website": "https://anochtrestaurant.ie"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 52.654195,
+        "lon": -7.247586,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/stores/order-pizza-kilkenny"
+      },
+      {
+        "name": "Blaa Blaa Blaa",
+        "kind": "Fast food",
+        "lat": 52.651619,
+        "lon": -7.250832,
+        "cuisine": null,
+        "website": "https://www.facebook.com/blaablaablaasandwiches/"
+      },
+      {
+        "name": "Butcher",
+        "kind": "Restaurant",
+        "lat": 52.652253,
+        "lon": -7.252517,
+        "cuisine": null,
+        "website": "https://www.butcherrestaurant.ie/"
+      },
+      {
+        "name": "Caesar's",
+        "kind": "Fast food",
+        "lat": 52.659954,
+        "lon": -7.241906,
+        "cuisine": "fish and chips, burger, kebab",
+        "website": "https://www.caesarsfishandchips.ie"
+      },
+      {
+        "name": "Dino's",
+        "kind": "Fast food",
+        "lat": 52.525341,
+        "lon": -7.13832,
+        "cuisine": "pizza, burger, kebab, fish",
+        "website": "https://dinosthomastown.ie/"
+      },
+      {
+        "name": "Eddie Rocket's",
+        "kind": "Fast food",
+        "lat": 52.655747,
+        "lon": -7.244966,
+        "cuisine": "american",
+        "website": "https://www.eddierockets.ie/"
+      },
+      {
+        "name": "Food Hall",
+        "kind": "Café",
+        "lat": 52.649738,
+        "lon": -7.249322,
+        "cuisine": null,
+        "website": "https://kilkennydesign.com/foodhall/"
+      },
+      {
+        "name": "Hoban Bar",
+        "kind": "Bar",
+        "lat": 52.64982,
+        "lon": -7.253042,
+        "cuisine": null,
+        "website": "https://www.kilkennyormonde.com/hoban-bar-brasserie.html"
+      },
+      {
+        "name": "Home Rule Club",
+        "kind": "Pub",
+        "lat": 52.652766,
+        "lon": -7.250063,
+        "cuisine": null,
+        "website": "http://kilkennyhomeruleclub.ie/"
+      },
+      {
+        "name": "Kernell Bar and Kitchen",
+        "kind": "Bar",
+        "lat": 52.656921,
+        "lon": -7.255799,
+        "cuisine": null,
+        "website": "https://www.kilkennyinn.com/kernel-bar-and-kitchen.html"
+      },
+      {
+        "name": "Kilkieran Cottage Restaurant",
+        "kind": "Restaurant",
+        "lat": 52.39827,
+        "lon": -7.378777,
+        "cuisine": null,
+        "website": "https://kilkierancottage.ie/"
+      },
+      {
+        "name": "King Kebabish",
+        "kind": "Fast food",
+        "lat": 52.524763,
+        "lon": -7.138342,
+        "cuisine": "indian, fish, burger, irish",
+        "website": "https://kingkebabish.com/"
+      },
+      {
+        "name": "La Rivista",
+        "kind": "Restaurant",
+        "lat": 52.654672,
+        "lon": -7.254903,
+        "cuisine": "italian",
+        "website": "https://www.larivista.ie"
+      },
+      {
+        "name": "Lark’s Bar",
+        "kind": "Bar",
+        "lat": 52.805818,
+        "lon": -7.206948,
+        "cuisine": null,
+        "website": "https://www.avalonhousehotel.ie/en/larks-bar/"
+      },
+      {
+        "name": "Left Bank",
+        "kind": "Pub",
+        "lat": 52.65047,
+        "lon": -7.251581,
+        "cuisine": null,
+        "website": "https://www.leftbank.ie/"
+      },
+      {
+        "name": "Lekker Food Collection",
+        "kind": "Restaurant",
+        "lat": 52.526129,
+        "lon": -7.138554,
+        "cuisine": "south african, french",
+        "website": "https://www.lekkerfoodco.ie/"
+      },
+      {
+        "name": "Lyla's",
+        "kind": "Restaurant",
+        "lat": 52.651626,
+        "lon": -7.253884,
+        "cuisine": "european",
+        "website": "https://www.trufflesrestaurant.ie/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Castle Lodge",
+        "kind": "Guesthouse",
+        "lat": 52.64438,
+        "lon": -7.238642,
+        "cuisine": null,
+        "website": "https://www.castlelodge.com/"
+      },
+      {
+        "name": "Abbey House B & B",
+        "kind": "Guesthouse",
+        "lat": 52.51179,
+        "lon": -7.15837,
+        "cuisine": null,
+        "website": "https://www.abbeyhousejerpoint.com/"
+      },
+      {
+        "name": "Carrickmourne House",
+        "kind": "Guesthouse",
+        "lat": 52.511108,
+        "lon": -7.107931,
+        "cuisine": null,
+        "website": "http://carrickmournehouse.com"
+      },
+      {
+        "name": "Chaplin's",
+        "kind": "Guesthouse",
+        "lat": 52.666551,
+        "lon": -7.251972,
+        "cuisine": null,
+        "website": "http://chaplinsbandb.com/"
+      },
+      {
+        "name": "Imperial",
+        "kind": "Guesthouse",
+        "lat": 52.651275,
+        "lon": -7.251364,
+        "cuisine": null,
+        "website": "https://housity.net/hotel/darcy-39-s-kilkenny/"
+      },
+      {
+        "name": "Lanigan's",
+        "kind": "Hostel",
+        "lat": 52.651656,
+        "lon": -7.251424,
+        "cuisine": null,
+        "website": "https://www.lanigansaccommodation.ie/"
+      },
+      {
+        "name": "Reades B&B",
+        "kind": "Guesthouse",
+        "lat": 52.395584,
+        "lon": -7.185494,
+        "cuisine": null,
+        "website": "https://www.foodandstayireland.com/hotelsandguesthouses/readebandb"
+      },
+      {
+        "name": "Rosewood Bed & Breakfast",
+        "kind": "Guesthouse",
+        "lat": 52.285246,
+        "lon": -7.065518,
+        "cuisine": null,
+        "website": "https://www.rosewood-waterford.com/"
+      },
+      {
+        "name": "The Garrandarragh",
+        "kind": "Guesthouse",
+        "lat": 52.370766,
+        "lon": -7.171992,
+        "cuisine": null,
+        "website": "https://www.therisingsun.ie/accommodation.html"
+      },
+      {
+        "name": "Waterside",
+        "kind": "Guesthouse",
+        "lat": 52.540397,
+        "lon": -6.95371,
+        "cuisine": null,
+        "website": "http://www.watersideguesthouse.com/"
+      },
+      {
+        "name": "Ard Alainn B&B",
+        "kind": "Guesthouse",
+        "lat": 52.692042,
+        "lon": -7.294005,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Breagagh View B&B",
+        "kind": "Guesthouse",
+        "lat": 52.639078,
+        "lon": -7.257648,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bregagh House",
+        "kind": "Guesthouse",
+        "lat": 52.655422,
+        "lon": -7.256713,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castle Inn",
+        "kind": "Guesthouse",
+        "lat": 52.651827,
+        "lon": -7.2508,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Daly's B&B",
+        "kind": "Guesthouse",
+        "lat": 52.65237,
+        "lon": -7.249186,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Egan's B&B",
+        "kind": "Guesthouse",
+        "lat": 52.654565,
+        "lon": -7.246776,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Glendine Inn",
+        "kind": "Hotel",
+        "lat": 52.667125,
+        "lon": -7.252839,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "John St. House",
+        "kind": "Guesthouse",
+        "lat": 52.654381,
+        "lon": -7.247045,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kate's Rest",
+        "kind": "Guesthouse",
+        "lat": 52.725511,
+        "lon": -7.47048,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kilbawn Country House",
+        "kind": "Guesthouse",
+        "lat": 52.579558,
+        "lon": -7.106429,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Butler Gallery",
+        "kind": "Gallery",
+        "lat": 52.653872,
+        "lon": -7.249153,
+        "cuisine": null,
+        "website": "https://www.butlergallery.ie/"
+      },
+      {
+        "name": "Dunmore Caves",
+        "kind": "Attraction",
+        "lat": 52.733846,
+        "lon": -7.246561,
+        "cuisine": null,
+        "website": "https://www.heritageireland.ie/en/south-east/dunmorecave/"
+      },
+      {
+        "name": "Smithwick's Brewery Experience",
+        "kind": "Attraction",
+        "lat": 52.65433,
+        "lon": -7.254275,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Edmund Rice Memorial",
+        "kind": "Memorial",
+        "lat": 52.542439,
+        "lon": -7.391403,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kenny's Well",
+        "kind": "Attraction",
+        "lat": 52.653245,
+        "lon": -7.262177,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lacken Castle (site of)",
+        "kind": "Archaeological site",
+        "lat": 52.668639,
+        "lon": -7.32875,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Monument to Kilkenny Hurling Team",
+        "kind": "Artwork",
+        "lat": 52.65163,
+        "lon": -7.250595,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Newmarket Portal tomb",
+        "kind": "Archaeological site",
+        "lat": 52.466668,
+        "lon": -7.258686,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Black Cat",
+        "kind": "Artwork",
+        "lat": 52.649803,
+        "lon": -7.249936,
+        "cuisine": null,
+        "website": "https://www.kilkennycatwalk.ie/"
+      },
+      {
+        "name": "Cushendale Woollen Mills",
+        "kind": "Attraction",
+        "lat": 52.541017,
+        "lon": -6.957424,
+        "cuisine": null,
+        "website": "https://cushendale.ie/"
+      },
+      {
+        "name": "Ionad Lachtain",
+        "kind": "Museum",
+        "lat": 52.732691,
+        "lon": -7.397916,
+        "cuisine": null,
+        "website": "https://ionadlachtain.com/"
+      },
+      {
+        "name": "The Age Friendly Cat",
+        "kind": "Artwork",
+        "lat": 52.655253,
+        "lon": -7.24291,
+        "cuisine": null,
+        "website": "https://www.kilkennycatwalk.ie/"
+      },
+      {
+        "name": "1798",
+        "kind": "Memorial",
+        "lat": 52.805723,
+        "lon": -7.205824,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "1894 HRC 2019",
+        "kind": "Memorial",
+        "lat": 52.652801,
+        "lon": -7.250123,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "A Hug for You",
+        "kind": "Artwork",
+        "lat": 52.647065,
+        "lon": -7.236603,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Angela Delaney",
+        "kind": "Memorial",
+        "lat": 52.657094,
+        "lon": -7.252373,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Assembly Rooms",
+        "kind": "Memorial",
+        "lat": 52.541376,
+        "lon": -6.955812,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ball",
+        "kind": "Artwork",
+        "lat": 52.549293,
+        "lon": -7.092154,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballyconra Hall (site of)",
+        "kind": "Archaeological site",
+        "lat": 52.800628,
+        "lon": -7.348314,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballyreddy Castle (site of)",
+        "kind": "Archaeological site",
+        "lat": 52.402181,
+        "lon": -7.019348,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

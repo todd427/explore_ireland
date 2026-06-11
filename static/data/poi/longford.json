@@ -1,0 +1,394 @@
+{
+  "slug": "longford",
+  "name": "Longford",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Bella Italia",
+        "kind": "Restaurant",
+        "lat": 53.558104,
+        "lon": -7.705968,
+        "cuisine": "italian",
+        "website": "https://www.centerparcs.ie/discover-center-parcs/things-to-do/restaurants/bella-italia.html"
+      },
+      {
+        "name": "Bia Deas Cafe",
+        "kind": "Café",
+        "lat": 53.696609,
+        "lon": -7.610807,
+        "cuisine": null,
+        "website": "https://biadeas.weebly.com"
+      },
+      {
+        "name": "Big Bites",
+        "kind": "Fast food",
+        "lat": 53.695311,
+        "lon": -7.60788,
+        "cuisine": null,
+        "website": "https://bigbitesedgeworthstown.com"
+      },
+      {
+        "name": "Cara's Kitchen and Bar",
+        "kind": "Restaurant",
+        "lat": 53.558399,
+        "lon": -7.706952,
+        "cuisine": "irish, burger, pizza",
+        "website": "https://www.centerparcs.ie/discover-center-parcs/things-to-do/restaurants/caras-kitchen-and-bar.html"
+      },
+      {
+        "name": "Dining In",
+        "kind": "Fast food",
+        "lat": 53.558055,
+        "lon": -7.70715,
+        "cuisine": null,
+        "website": "https://www.centerparcs.ie/discover-center-parcs/things-to-do/restaurants/dining-in-IR.html"
+      },
+      {
+        "name": "Douglas & kaldi",
+        "kind": "Restaurant",
+        "lat": 53.727771,
+        "lon": -7.801061,
+        "cuisine": "international",
+        "website": "http://www.douglaskaldi.com"
+      },
+      {
+        "name": "Huck's American Bar and Grill",
+        "kind": "Restaurant",
+        "lat": 53.558467,
+        "lon": -7.70639,
+        "cuisine": "american, burger, fries, fried food",
+        "website": "https://www.centerparcs.ie/discover-center-parcs/things-to-do/restaurants/hucks-american-bar-and-grill.html"
+      },
+      {
+        "name": "Jolly Boys Pizza",
+        "kind": "Restaurant",
+        "lat": 53.563981,
+        "lon": -7.764769,
+        "cuisine": "pizza",
+        "website": "https://www.jollyboys.ie"
+      },
+      {
+        "name": "Kearneys Bar",
+        "kind": "Pub",
+        "lat": 53.639047,
+        "lon": -7.781806,
+        "cuisine": null,
+        "website": "https://www.facebook.com/Drinkatkearneys"
+      },
+      {
+        "name": "Momoda",
+        "kind": "Restaurant",
+        "lat": 53.696714,
+        "lon": -7.610136,
+        "cuisine": "asian",
+        "website": "https://momoda.ie"
+      },
+      {
+        "name": "Rajinda Pradesh",
+        "kind": "Restaurant",
+        "lat": 53.557856,
+        "lon": -7.707038,
+        "cuisine": "indian, curry",
+        "website": "https://www.centerparcs.ie/discover-center-parcs/things-to-do/restaurants/rajinda-pradesh.html"
+      },
+      {
+        "name": "Skelly’s",
+        "kind": "Pub",
+        "lat": 53.563398,
+        "lon": -7.763734,
+        "cuisine": null,
+        "website": "https://skellys.ie"
+      },
+      {
+        "name": "Sports Café",
+        "kind": "Café",
+        "lat": 53.557772,
+        "lon": -7.706065,
+        "cuisine": "american",
+        "website": "https://www.centerparcs.ie/discover-center-parcs/restaurants/sports-cafe.html"
+      },
+      {
+        "name": "The Black Olive",
+        "kind": "Restaurant",
+        "lat": 53.726442,
+        "lon": -7.799367,
+        "cuisine": "regional",
+        "website": "http://www.blackolive.ie/index.html"
+      },
+      {
+        "name": "The Coffee House",
+        "kind": "Café",
+        "lat": 53.557148,
+        "lon": -7.706384,
+        "cuisine": "coffee shop",
+        "website": "https://www.centerparcs.ie/discover-center-parcs/restaurants/the-coffee-house.html"
+      },
+      {
+        "name": "The Pancake House",
+        "kind": "Restaurant",
+        "lat": 53.557785,
+        "lon": -7.703112,
+        "cuisine": "pancake",
+        "website": "https://www.centerparcs.ie/discover-center-parcs/things-to-do/restaurants/the-pancake-house.html"
+      },
+      {
+        "name": "WestHouse Cafe",
+        "kind": "Café",
+        "lat": 53.725043,
+        "lon": -7.839454,
+        "cuisine": null,
+        "website": "http://westhouselongford.ie/"
+      },
+      {
+        "name": "Aidie Farrell's Swan Tavern",
+        "kind": "Pub",
+        "lat": 53.672174,
+        "lon": -7.988344,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Amaras Take Away",
+        "kind": "Fast food",
+        "lat": 53.851179,
+        "lon": -7.603592,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 53.724946,
+        "lon": -7.802219,
+        "cuisine": "pizza",
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Cooney’s Hotel",
+        "kind": "Hotel",
+        "lat": 53.563175,
+        "lon": -7.763503,
+        "cuisine": null,
+        "website": "https://cooneyshotel.com"
+      },
+      {
+        "name": "Nanny Murphy's Cottage",
+        "kind": "Guesthouse",
+        "lat": 53.919872,
+        "lon": -7.643958,
+        "cuisine": null,
+        "website": "https://www.airbnb.ie/rooms/3635916"
+      },
+      {
+        "name": "Augherea House",
+        "kind": "Guesthouse",
+        "lat": 53.726668,
+        "lon": -7.833621,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Greville Arms Hotel",
+        "kind": "Hotel",
+        "lat": 53.777512,
+        "lon": -7.496334,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Longford Arms",
+        "kind": "Hotel",
+        "lat": 53.728785,
+        "lon": -7.801556,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Newcastle House",
+        "kind": "Guesthouse",
+        "lat": 53.562385,
+        "lon": -7.72176,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Richmond Inn",
+        "kind": "Hotel",
+        "lat": 53.731382,
+        "lon": -7.904673,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Aghaward fort",
+        "kind": "Archaeological site",
+        "lat": 53.792333,
+        "lon": -7.645067,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castleforbes",
+        "kind": "Castle",
+        "lat": 53.771183,
+        "lon": -7.850619,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Granard Moat",
+        "kind": "Archaeological site",
+        "lat": 53.77537,
+        "lon": -7.500606,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Sonnagh fort",
+        "kind": "Archaeological site",
+        "lat": 53.830719,
+        "lon": -7.600444,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Abbeyshrule Abbey",
+        "kind": "Ruins",
+        "lat": 53.579574,
+        "lon": -7.658372,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ardagh Clock Tower",
+        "kind": "Monument",
+        "lat": 53.667138,
+        "lon": -7.694643,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Church (ruins)",
+        "kind": "Ruins",
+        "lat": 53.668299,
+        "lon": -7.694886,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Church (ruins)",
+        "kind": "Ruins",
+        "lat": 53.628781,
+        "lon": -7.616229,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Corlea Trackway Interpretative Centre",
+        "kind": "Attraction",
+        "lat": 53.612501,
+        "lon": -7.845586,
+        "cuisine": null,
+        "website": "https://heritageireland.ie/places-to-visit/corlea-trackway-visitor-centre/"
+      },
+      {
+        "name": "Hidden Landscape",
+        "kind": "Artwork",
+        "lat": 53.729324,
+        "lon": -7.825447,
+        "cuisine": null,
+        "website": "http://alexpentek.com/studio/"
+      },
+      {
+        "name": "1798 Memorial",
+        "kind": "Monument",
+        "lat": 53.865272,
+        "lon": -7.717199,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "39th Lock Keeper's House",
+        "kind": "Ruins",
+        "lat": 53.5817,
+        "lon": -7.676839,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "45th Lock Keeper's House",
+        "kind": "Ruins",
+        "lat": 53.724516,
+        "lon": -7.906098,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Abbeyderg Monastery",
+        "kind": "Ruins",
+        "lat": 53.638173,
+        "lon": -7.787275,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Abbeyshrule Castle",
+        "kind": "Castle",
+        "lat": 53.579384,
+        "lon": -7.658155,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ardagh Demesne",
+        "kind": "Fort",
+        "lat": 53.670986,
+        "lon": -7.68321,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Barry Castle",
+        "kind": "Ruins",
+        "lat": 53.597149,
+        "lon": -7.759968,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cistercian Abbey",
+        "kind": "Ruins",
+        "lat": 53.764728,
+        "lon": -7.4463,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cloghan Mills (ruins)",
+        "kind": "Ruins",
+        "lat": 53.576784,
+        "lon": -7.677437,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cloghan Mills (ruins)",
+        "kind": "Ruins",
+        "lat": 53.576681,
+        "lon": -7.677395,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 7,
+    "see_do": 20
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "slug": "monaghan",
+  "name": "Monaghan",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Andy's",
+        "kind": "Restaurant",
+        "lat": 54.247722,
+        "lon": -6.972088,
+        "cuisine": null,
+        "website": "https://www.andysrestaurant.ie/"
+      },
+      {
+        "name": "Avenue Restaurant",
+        "kind": "Restaurant",
+        "lat": 54.25877,
+        "lon": -6.961176,
+        "cuisine": "regional",
+        "website": "https://www.4seasonshotel.ie/"
+      },
+      {
+        "name": "Cavallino's Italian Restaurant",
+        "kind": "Restaurant",
+        "lat": 53.974928,
+        "lon": -6.71669,
+        "cuisine": "italian",
+        "website": "https://www.cavallinos.ie/"
+      },
+      {
+        "name": "Eastern Balti",
+        "kind": "Restaurant",
+        "lat": 54.247346,
+        "lon": -6.972109,
+        "cuisine": "indian",
+        "website": "http://easternbalti.ie/"
+      },
+      {
+        "name": "Insomnia",
+        "kind": "Café",
+        "lat": 54.246634,
+        "lon": -6.969791,
+        "cuisine": "coffee shop",
+        "website": "https://www.insomnia.ie/"
+      },
+      {
+        "name": "MAG Chinese Restaurant & Take Away",
+        "kind": "Restaurant",
+        "lat": 54.248261,
+        "lon": -6.967739,
+        "cuisine": "chinese",
+        "website": "https://www.magmonaghan.ie/"
+      },
+      {
+        "name": "McDonald's",
+        "kind": "Fast food",
+        "lat": 54.246242,
+        "lon": -6.969486,
+        "cuisine": "burger",
+        "website": "https://www.mcdonalds.com/ie/en-ie.html"
+      },
+      {
+        "name": "Mexx Nitelife",
+        "kind": "Bar",
+        "lat": 54.258403,
+        "lon": -6.961342,
+        "cuisine": null,
+        "website": "https://www.4seasonshotel.ie/"
+      },
+      {
+        "name": "Pizza Max",
+        "kind": "Fast food",
+        "lat": 54.248319,
+        "lon": -6.968374,
+        "cuisine": "pizza",
+        "website": "https://www.pizzamax.ie"
+      },
+      {
+        "name": "Subway",
+        "kind": "Fast food",
+        "lat": 54.246244,
+        "lon": -6.969934,
+        "cuisine": "sandwich",
+        "website": "https://www.subway.com/en-ie"
+      },
+      {
+        "name": "The Batch Loaf",
+        "kind": "Restaurant",
+        "lat": 54.248545,
+        "lon": -6.970356,
+        "cuisine": null,
+        "website": "https://www.thebatchloaf.com/"
+      },
+      {
+        "name": "The Hive",
+        "kind": "Café",
+        "lat": 54.249567,
+        "lon": -6.968345,
+        "cuisine": "irish, pancake, coffee shop",
+        "website": "https://www.facebook.com/Thehivemonaghan/"
+      },
+      {
+        "name": "The Squealing Pig",
+        "kind": "Pub",
+        "lat": 54.24866,
+        "lon": -6.968487,
+        "cuisine": null,
+        "website": "https://www.thesquealingpig.ie/"
+      },
+      {
+        "name": "The View Restaurant Bar",
+        "kind": "Restaurant",
+        "lat": 54.109993,
+        "lon": -6.703786,
+        "cuisine": null,
+        "website": "https://www.theviewconcra.ie"
+      },
+      {
+        "name": "An Nead",
+        "kind": "Café",
+        "lat": 54.24661,
+        "lon": -6.973479,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Anthony Doherty",
+        "kind": "Pub",
+        "lat": 54.120157,
+        "lon": -6.73653,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 53.974027,
+        "lon": -6.718825,
+        "cuisine": "pizza",
+        "website": null
+      },
+      {
+        "name": "Apache Pizza & Noodles",
+        "kind": "Fast food",
+        "lat": 54.120238,
+        "lon": -6.737923,
+        "cuisine": "pizza, chinese",
+        "website": null
+      },
+      {
+        "name": "Atkinsons",
+        "kind": "Pub",
+        "lat": 54.159431,
+        "lon": -6.818018,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Awesome Coffee Beans",
+        "kind": "Café",
+        "lat": 53.975071,
+        "lon": -6.719041,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Castle Leslie",
+        "kind": "Hotel",
+        "lat": 54.320341,
+        "lon": -6.890163,
+        "cuisine": null,
+        "website": "https://www.castleleslie.com/"
+      },
+      {
+        "name": "The Glencarn Hotel",
+        "kind": "Hotel",
+        "lat": 54.121182,
+        "lon": -6.739896,
+        "cuisine": null,
+        "website": "https://www.theglencarnhotel.ie/"
+      },
+      {
+        "name": "Ashleigh House",
+        "kind": "Guesthouse",
+        "lat": 54.247535,
+        "lon": -6.966254,
+        "cuisine": null,
+        "website": "https://www.ashleighhousemonaghan.com/"
+      },
+      {
+        "name": "Creighton Hotel",
+        "kind": "Hotel",
+        "lat": 54.181237,
+        "lon": -7.234913,
+        "cuisine": null,
+        "website": "https://www.creightonhotel.ie"
+      },
+      {
+        "name": "Four Seasons Hotel & Leisure Club",
+        "kind": "Hotel",
+        "lat": 54.258925,
+        "lon": -6.961253,
+        "cuisine": null,
+        "website": "https://www.4seasonshotel.ie/"
+      },
+      {
+        "name": "Hillgrove Hotel",
+        "kind": "Hotel",
+        "lat": 54.246525,
+        "lon": -6.955133,
+        "cuisine": null,
+        "website": "https://www.hillgrovehotel.com/"
+      },
+      {
+        "name": "Nuremore Hotel & Country Club",
+        "kind": "Hotel",
+        "lat": 53.963091,
+        "lon": -6.695069,
+        "cuisine": null,
+        "website": "https://www.nuremore.com/"
+      },
+      {
+        "name": "Sliabh Beagh Hotel",
+        "kind": "Hotel",
+        "lat": 54.306364,
+        "lon": -7.129415,
+        "cuisine": null,
+        "website": "https://www.sliabhbeaghhotel.ie/"
+      },
+      {
+        "name": "The Shirley Arms Hotel",
+        "kind": "Hotel",
+        "lat": 53.977956,
+        "lon": -6.720129,
+        "cuisine": null,
+        "website": "https://www.shirleyarmshotel.ie/"
+      },
+      {
+        "name": "Westenra Arms Hotel",
+        "kind": "Hotel",
+        "lat": 54.24889,
+        "lon": -6.969075,
+        "cuisine": null,
+        "website": "https://www.westenrahotel.com/"
+      },
+      {
+        "name": "The Meadows B & B",
+        "kind": "Guesthouse",
+        "lat": 54.245322,
+        "lon": -6.960261,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Killyliss Country House",
+        "kind": "Guesthouse",
+        "lat": 54.085448,
+        "lon": -6.99752,
+        "cuisine": null,
+        "website": "http://killylisscountryhouse.com/"
+      },
+      {
+        "name": "Old Stable Mews",
+        "kind": "Hotel",
+        "lat": 54.320356,
+        "lon": -6.878626,
+        "cuisine": null,
+        "website": "https://www.castleleslie.com/accomodation/old-stable-mews-accommodation/"
+      },
+      {
+        "name": "Market Square B&B",
+        "kind": "Guesthouse",
+        "lat": 54.119942,
+        "lon": -6.733383,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Windmill House B&B",
+        "kind": "Guesthouse",
+        "lat": 54.267055,
+        "lon": -6.927377,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Abbey Ruins",
+        "kind": "Attraction",
+        "lat": 54.178039,
+        "lon": -7.231085,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Blaney Castle",
+        "kind": "Castle",
+        "lat": 54.118692,
+        "lon": -6.730227,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cairnbaine",
+        "kind": "Archaeological site",
+        "lat": 54.197313,
+        "lon": -7.074778,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mannan Castle",
+        "kind": "Archaeological site",
+        "lat": 54.009067,
+        "lon": -6.698518,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Church (ruins)",
+        "kind": "Ruins",
+        "lat": 54.172398,
+        "lon": -7.160215,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clones Round Tower",
+        "kind": "Attraction",
+        "lat": 54.177684,
+        "lon": -7.232972,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dawson Monument",
+        "kind": "Monument",
+        "lat": 54.105661,
+        "lon": -7.068664,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dawson Monument",
+        "kind": "Monument",
+        "lat": 54.247905,
+        "lon": -6.970725,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Drumass Round Tower",
+        "kind": "Attraction",
+        "lat": 54.003724,
+        "lon": -6.578626,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "MacMahon Memorial",
+        "kind": "Memorial",
+        "lat": 54.003124,
+        "lon": -6.579904,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rossmore Mausoleum",
+        "kind": "Attraction",
+        "lat": 54.218755,
+        "lon": -6.998925,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rossmore Monument",
+        "kind": "Memorial",
+        "lat": 54.248537,
+        "lon": -6.96873,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Court House",
+        "kind": "Ruins",
+        "lat": 54.120402,
+        "lon": -6.733903,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Wedge Tomb von Lisnadarragh",
+        "kind": "Archaeological site",
+        "lat": 54.01334,
+        "lon": -6.895646,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Monaghan County Museum",
+        "kind": "Museum",
+        "lat": 54.251702,
+        "lon": -6.966937,
+        "cuisine": null,
+        "website": "https://monaghan.ie/museum/"
+      },
+      {
+        "name": "The Cassandra Hand Centre",
+        "kind": "Museum",
+        "lat": 54.178151,
+        "lon": -7.232303,
+        "cuisine": null,
+        "website": "https://cassandrahandcentre.wordpress.com/"
+      },
+      {
+        "name": "Ulster Canal Stores Visitor Centre",
+        "kind": "Attraction",
+        "lat": 54.175849,
+        "lon": -7.2362,
+        "cuisine": null,
+        "website": "https://ulstercanalstoresvisitorcentre.ie/"
+      },
+      {
+        "name": "1",
+        "kind": "Archaeological site",
+        "lat": 54.210951,
+        "lon": -7.05958,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "14",
+        "kind": "Archaeological site",
+        "lat": 54.157792,
+        "lon": -7.016675,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "2",
+        "kind": "Archaeological site",
+        "lat": 54.215139,
+        "lon": -7.055446,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 15,
+    "see_do": 20
+  }
+}

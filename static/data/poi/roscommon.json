@@ -1,0 +1,498 @@
+{
+  "slug": "roscommon",
+  "name": "Roscommon",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Di Vino",
+        "kind": "Restaurant",
+        "lat": 53.944599,
+        "lon": -8.095109,
+        "cuisine": "italian",
+        "website": "https://divino.ie/"
+      },
+      {
+        "name": "District Speciality Coffee",
+        "kind": "Café",
+        "lat": 53.628994,
+        "lon": -8.192874,
+        "cuisine": null,
+        "website": "https://www.districtcoffee.ie/"
+      },
+      {
+        "name": "The Galway Roast",
+        "kind": "Café",
+        "lat": 53.90191,
+        "lon": -8.584271,
+        "cuisine": null,
+        "website": "https://thegalwayroast.com/"
+      },
+      {
+        "name": "The Silver Eel",
+        "kind": "Restaurant",
+        "lat": 53.82365,
+        "lon": -8.069314,
+        "cuisine": "regional, irish",
+        "website": "https://www.facebook.com/@silvereel"
+      },
+      {
+        "name": "The Stairs",
+        "kind": "Pub",
+        "lat": 53.970179,
+        "lon": -8.302508,
+        "cuisine": null,
+        "website": "https://www.thestairsboyle.com"
+      },
+      {
+        "name": "Yomari",
+        "kind": "Restaurant",
+        "lat": 53.970225,
+        "lon": -8.302505,
+        "cuisine": "indian, nepalese",
+        "website": "https://yomari.ie/"
+      },
+      {
+        "name": "Bang Bang Chicken",
+        "kind": "Restaurant",
+        "lat": 53.422685,
+        "lon": -7.997986,
+        "cuisine": "asian",
+        "website": null
+      },
+      {
+        "name": "Cafe Lounge",
+        "kind": "Café",
+        "lat": 53.943897,
+        "lon": -8.093558,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Charlie’s Bar",
+        "kind": "Pub",
+        "lat": 53.629257,
+        "lon": -8.191784,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Christy's Bar",
+        "kind": "Pub",
+        "lat": 53.777431,
+        "lon": -8.10391,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Chungs",
+        "kind": "Restaurant",
+        "lat": 53.942585,
+        "lon": -8.103054,
+        "cuisine": "chinese",
+        "website": null
+      },
+      {
+        "name": "Clancy's",
+        "kind": "Bar",
+        "lat": 54.011428,
+        "lon": -8.180945,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clarke’s",
+        "kind": "Pub",
+        "lat": 53.903464,
+        "lon": -8.575795,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Compton's Central Bar",
+        "kind": "Pub",
+        "lat": 53.776286,
+        "lon": -8.103759,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Coney Island Bar",
+        "kind": "Pub",
+        "lat": 53.803691,
+        "lon": -8.681745,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cosgroves",
+        "kind": "Pub",
+        "lat": 53.972746,
+        "lon": -8.305063,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Costa Express",
+        "kind": "Café",
+        "lat": 53.972675,
+        "lon": -8.310657,
+        "cuisine": "coffee shop",
+        "website": null
+      },
+      {
+        "name": "Crescent bar",
+        "kind": "Pub",
+        "lat": 53.97025,
+        "lon": -8.302467,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "D'Alton's Pub",
+        "kind": "Pub",
+        "lat": 53.610929,
+        "lon": -8.268215,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dalys Bar",
+        "kind": "Pub",
+        "lat": 53.971722,
+        "lon": -8.30326,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Abbey Hotel",
+        "kind": "Hotel",
+        "lat": 53.624805,
+        "lon": -8.193532,
+        "cuisine": null,
+        "website": "https://www.abbeyhotel.ie/"
+      },
+      {
+        "name": "Armcashel B&B",
+        "kind": "Guesthouse",
+        "lat": 53.768932,
+        "lon": -8.512409,
+        "cuisine": null,
+        "website": "http://www.armcashel.com/"
+      },
+      {
+        "name": "The Landmark Hotel",
+        "kind": "Hotel",
+        "lat": 53.94366,
+        "lon": -8.092742,
+        "cuisine": null,
+        "website": "https://www.thelandmarkhotel.com/"
+      },
+      {
+        "name": "Athlone Springs Hotel",
+        "kind": "Hotel",
+        "lat": 53.421832,
+        "lon": -7.996874,
+        "cuisine": null,
+        "website": "https://www.athlonespringshotel.com/"
+      },
+      {
+        "name": "Kilronan Castle",
+        "kind": "Hotel",
+        "lat": 54.063298,
+        "lon": -8.181606,
+        "cuisine": null,
+        "website": "https://www.kilronancastle.ie/"
+      },
+      {
+        "name": "Riverview House B&B",
+        "kind": "Guesthouse",
+        "lat": 53.412394,
+        "lon": -7.984084,
+        "cuisine": null,
+        "website": "http://riverviewhousebandb.com"
+      },
+      {
+        "name": "Arch House",
+        "kind": "Guesthouse",
+        "lat": 53.636748,
+        "lon": -8.1866,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cavepark B&B",
+        "kind": "Guesthouse",
+        "lat": 53.800693,
+        "lon": -8.314852,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cryan's Hotel",
+        "kind": "Hotel",
+        "lat": 53.943607,
+        "lon": -8.09392,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Doon Lodge farm",
+        "kind": "Hostel",
+        "lat": 53.974479,
+        "lon": -8.280052,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Forest Park House",
+        "kind": "Guesthouse",
+        "lat": 53.969999,
+        "lon": -8.245134,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Hannons Hotel",
+        "kind": "Hotel",
+        "lat": 53.623328,
+        "lon": -8.16812,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Hodson Bay Hotel",
+        "kind": "Hotel",
+        "lat": 53.468157,
+        "lon": -7.988645,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Keenans",
+        "kind": "Hotel",
+        "lat": 53.742152,
+        "lon": -7.918673,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lough Key House",
+        "kind": "Guesthouse",
+        "lat": 53.970833,
+        "lon": -8.247449,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Riverside House",
+        "kind": "Guesthouse",
+        "lat": 53.635295,
+        "lon": -8.18337,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rosdarrig",
+        "kind": "Guesthouse",
+        "lat": 53.971103,
+        "lon": -8.284909,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Shannonside",
+        "kind": "Guesthouse",
+        "lat": 53.742243,
+        "lon": -7.91959,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "THe Lodge",
+        "kind": "Guesthouse",
+        "lat": 53.742713,
+        "lon": -7.920603,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Four Seasons",
+        "kind": "Guesthouse",
+        "lat": 53.94577,
+        "lon": -8.09515,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Boyle Abbey",
+        "kind": "Attraction",
+        "lat": 53.973393,
+        "lon": -8.296793,
+        "cuisine": null,
+        "website": "https://www.heritageireland.ie/en/West/BoyleAbbey/"
+      },
+      {
+        "name": "Ardcarn Ringfort",
+        "kind": "Archaeological site",
+        "lat": 53.961622,
+        "lon": -8.209079,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castle Naghten",
+        "kind": "Ruins",
+        "lat": 53.453209,
+        "lon": -8.060296,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castlestrange La Tene Stone",
+        "kind": "Attraction",
+        "lat": 53.586954,
+        "lon": -8.271833,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dunamon Castle",
+        "kind": "Castle",
+        "lat": 53.632216,
+        "lon": -8.318603,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "McDermott's Castle",
+        "kind": "Attraction",
+        "lat": 53.989467,
+        "lon": -8.232637,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rathcrogan",
+        "kind": "Archaeological site",
+        "lat": 53.779135,
+        "lon": -8.252375,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Arigna Mining Experience",
+        "kind": "Attraction",
+        "lat": 54.077344,
+        "lon": -8.120809,
+        "cuisine": null,
+        "website": "https://www.arignaminingexperience.ie/"
+      },
+      {
+        "name": "Arigna Mining Experience",
+        "kind": "Museum",
+        "lat": 54.077452,
+        "lon": -8.120558,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "King House",
+        "kind": "Attraction",
+        "lat": 53.972969,
+        "lon": -8.301343,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rindoon",
+        "kind": "Archaeological site",
+        "lat": 53.539408,
+        "lon": -7.993122,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rinn Duin",
+        "kind": "Castle",
+        "lat": 53.538881,
+        "lon": -7.991222,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "War of Independence Commemorative Military Memorial",
+        "kind": "Memorial",
+        "lat": 53.839172,
+        "lon": -8.218455,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cruachan Aí Heritage Centre",
+        "kind": "Museum",
+        "lat": 53.778887,
+        "lon": -8.253689,
+        "cuisine": null,
+        "website": "https://heritageireland.ie/visit/places-to-visit/rathcroghan/"
+      },
+      {
+        "name": "Shannonbridge Fort",
+        "kind": "Attraction",
+        "lat": 53.279199,
+        "lon": -8.052476,
+        "cuisine": null,
+        "website": "https://shannonbridgefort.ie/"
+      },
+      {
+        "name": "Ardcarn",
+        "kind": "Archaeological site",
+        "lat": 53.96214,
+        "lon": -8.207078,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ardervin Fort",
+        "kind": "Archaeological site",
+        "lat": 53.748201,
+        "lon": -8.323637,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bottle Cap Mosaic",
+        "kind": "Artwork",
+        "lat": 53.943454,
+        "lon": -8.095859,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Brothers Sculpture",
+        "kind": "Monument",
+        "lat": 53.974083,
+        "lon": -8.29841,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cashel",
+        "kind": "Archaeological site",
+        "lat": 53.886178,
+        "lon": -8.442854,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

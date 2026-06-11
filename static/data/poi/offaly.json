@@ -1,0 +1,490 @@
+{
+  "slug": "offaly",
+  "name": "Offaly",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Chanapa Thai",
+        "kind": "Restaurant",
+        "lat": 53.275005,
+        "lon": -7.490824,
+        "cuisine": "thai",
+        "website": "https://www.chanapa.ie/"
+      },
+      {
+        "name": "Flynn's Bar & Restaurant",
+        "kind": "Pub",
+        "lat": 53.189956,
+        "lon": -7.987346,
+        "cuisine": "local",
+        "website": "https://www.flynnsofbanagher.com/"
+      },
+      {
+        "name": "JJ Killeen's",
+        "kind": "Pub",
+        "lat": 53.279719,
+        "lon": -8.044911,
+        "cuisine": "irish",
+        "website": "https://www.jjkilleens.ie/"
+      },
+      {
+        "name": "Old Warehouse",
+        "kind": "Pub",
+        "lat": 53.277651,
+        "lon": -7.492887,
+        "cuisine": null,
+        "website": "https://www.tullamoredew.com/en-gb/"
+      },
+      {
+        "name": "The Mill House Bar & Grill",
+        "kind": "Bar",
+        "lat": 53.342714,
+        "lon": -7.614552,
+        "cuisine": null,
+        "website": "https://www.facebook.com/themillclara11/"
+      },
+      {
+        "name": "Angelos",
+        "kind": "Fast food",
+        "lat": 53.272056,
+        "lon": -7.494242,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bee Hive",
+        "kind": "Pub",
+        "lat": 53.196179,
+        "lon": -7.628323,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bejing Garden",
+        "kind": "Fast food",
+        "lat": 53.271089,
+        "lon": -7.830081,
+        "cuisine": "chinese",
+        "website": null
+      },
+      {
+        "name": "Bridge House Char Bistro",
+        "kind": "Restaurant",
+        "lat": 53.274922,
+        "lon": -7.492906,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Browne's Bistro",
+        "kind": "Restaurant",
+        "lat": 53.276527,
+        "lon": -7.492109,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bunny's Bar",
+        "kind": "Pub",
+        "lat": 53.343104,
+        "lon": -7.613973,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cafe 4 U",
+        "kind": "Café",
+        "lat": 53.274489,
+        "lon": -7.493572,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cafe India",
+        "kind": "Restaurant",
+        "lat": 53.275839,
+        "lon": -7.489716,
+        "cuisine": "indian",
+        "website": null
+      },
+      {
+        "name": "Captain House",
+        "kind": "Restaurant",
+        "lat": 53.274968,
+        "lon": -7.496024,
+        "cuisine": "international",
+        "website": null
+      },
+      {
+        "name": "Carmine's",
+        "kind": "Fast food",
+        "lat": 53.273746,
+        "lon": -7.49801,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Chopped",
+        "kind": "Fast food",
+        "lat": 53.280982,
+        "lon": -7.491959,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Christy Cowen",
+        "kind": "Pub",
+        "lat": 53.342187,
+        "lon": -7.612626,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Coachhouse Lounge",
+        "kind": "Bar",
+        "lat": 53.095774,
+        "lon": -7.910558,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Conway & Co 2.0",
+        "kind": "Café",
+        "lat": 53.275553,
+        "lon": -7.492464,
+        "cuisine": "coffee shop",
+        "website": null
+      },
+      {
+        "name": "Costa",
+        "kind": "Café",
+        "lat": 53.27874,
+        "lon": -7.499257,
+        "cuisine": "coffee shop",
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Dooly's Hotel",
+        "kind": "Hotel",
+        "lat": 53.095786,
+        "lon": -7.910419,
+        "cuisine": null,
+        "website": "https://doolyshotel.com/"
+      },
+      {
+        "name": "The Ring Farmhouse",
+        "kind": "Guesthouse",
+        "lat": 53.078647,
+        "lon": -7.881832,
+        "cuisine": null,
+        "website": "http://irishfarmhouseholiday.com/"
+      },
+      {
+        "name": "Boglands Hideaway",
+        "kind": "Guesthouse",
+        "lat": 53.316553,
+        "lon": -7.257502,
+        "cuisine": null,
+        "website": "https://boglands.ie/"
+      },
+      {
+        "name": "Bridge House Hotel",
+        "kind": "Hotel",
+        "lat": 53.274921,
+        "lon": -7.493719,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Central Hotel",
+        "kind": "Hotel",
+        "lat": 53.273585,
+        "lon": -7.498265,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dún Cromáin Bed & Breakfast",
+        "kind": "Guesthouse",
+        "lat": 53.189948,
+        "lon": -7.997234,
+        "cuisine": null,
+        "website": "https://www.duncromain.com/"
+      },
+      {
+        "name": "Kinnitty Castle Hotel",
+        "kind": "Hotel",
+        "lat": 53.102391,
+        "lon": -7.697378,
+        "cuisine": null,
+        "website": "https://www.kinnittycastlehotel.com"
+      },
+      {
+        "name": "Laurel Lodge",
+        "kind": "Guesthouse",
+        "lat": 53.267825,
+        "lon": -8.010141,
+        "cuisine": null,
+        "website": "https://www.booking.com/hotel/ie/laurel-lodge.es.html"
+      },
+      {
+        "name": "Minnock's",
+        "kind": "Guesthouse",
+        "lat": 53.059712,
+        "lon": -7.906001,
+        "cuisine": null,
+        "website": "http://www.minnocks.com/"
+      },
+      {
+        "name": "The Harbour Master's House",
+        "kind": "Guesthouse",
+        "lat": 53.221368,
+        "lon": -7.952718,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ardmore Country House",
+        "kind": "Guesthouse",
+        "lat": 53.098074,
+        "lon": -7.71852,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clonmacnoise B&B",
+        "kind": "Guesthouse",
+        "lat": 53.32248,
+        "lon": -7.972534,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "County Arms Hotel",
+        "kind": "Hotel",
+        "lat": 53.090658,
+        "lon": -7.905683,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mahon House",
+        "kind": "Guesthouse",
+        "lat": 53.312349,
+        "lon": -8.001017,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ormond House",
+        "kind": "Guesthouse",
+        "lat": 53.096385,
+        "lon": -7.910476,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Sea Dew B&B",
+        "kind": "Guesthouse",
+        "lat": 53.268568,
+        "lon": -7.488601,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Old Forge B&B",
+        "kind": "Guesthouse",
+        "lat": 53.191353,
+        "lon": -7.988574,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Tudor Lodge B&B",
+        "kind": "Guesthouse",
+        "lat": 53.286884,
+        "lon": -7.493406,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Walcot",
+        "kind": "Guesthouse",
+        "lat": 53.097696,
+        "lon": -7.913436,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Charleville Castle",
+        "kind": "Castle",
+        "lat": 53.260638,
+        "lon": -7.52858,
+        "cuisine": null,
+        "website": "https://www.charlevillecastle.ie/"
+      },
+      {
+        "name": "Ballycowan Castle",
+        "kind": "Castle",
+        "lat": 53.276355,
+        "lon": -7.558775,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Birr Castle",
+        "kind": "Castle",
+        "lat": 53.095346,
+        "lon": -7.914758,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clonmacnoise Castle",
+        "kind": "Castle",
+        "lat": 53.325482,
+        "lon": -7.989394,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Durrow Abbey",
+        "kind": "Archaeological site",
+        "lat": 53.326558,
+        "lon": -7.52187,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Leap Castle",
+        "kind": "Castle",
+        "lat": 53.028131,
+        "lon": -7.808538,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Seir Kieran's Abbey",
+        "kind": "Archaeological site",
+        "lat": 53.070854,
+        "lon": -7.792204,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballyboy Church, site of",
+        "kind": "Ruins",
+        "lat": 53.173716,
+        "lon": -7.699629,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Birr Heritage Centre",
+        "kind": "Museum",
+        "lat": 53.095981,
+        "lon": -7.908152,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cloghan Castle",
+        "kind": "Castle",
+        "lat": 53.158279,
+        "lon": -8.041537,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Durrow High Cross",
+        "kind": "Attraction",
+        "lat": 53.325701,
+        "lon": -7.519393,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Eskir or Doon Castle",
+        "kind": "Ruins",
+        "lat": 53.335467,
+        "lon": -7.822045,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Father Burbage",
+        "kind": "Memorial",
+        "lat": 53.235625,
+        "lon": -7.3218,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "St. Manchans Shrine",
+        "kind": "Attraction",
+        "lat": 53.324676,
+        "lon": -7.728241,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Great Telescope 'Leviathan'",
+        "kind": "Attraction",
+        "lat": 53.096817,
+        "lon": -7.917393,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Fort Eliza",
+        "kind": "Ruins",
+        "lat": 53.190585,
+        "lon": -7.996135,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lough Boora Sculpture Park",
+        "kind": "Museum",
+        "lat": 53.21775,
+        "lon": -7.733278,
+        "cuisine": null,
+        "website": "https://www.loughboora.com/sculpture/"
+      },
+      {
+        "name": "The Gathering of Stones",
+        "kind": "Artwork",
+        "lat": 53.215351,
+        "lon": -7.731503,
+        "cuisine": null,
+        "website": "https://www.loughboora.com/sculpture/the-gathering-of-stones/"
+      },
+      {
+        "name": "60 Degrees",
+        "kind": "Artwork",
+        "lat": 53.2214,
+        "lon": -7.734127,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "A Tree in Sculpture",
+        "kind": "Artwork",
+        "lat": 53.218822,
+        "lon": -7.733311,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 19,
+    "see_do": 20
+  }
+}

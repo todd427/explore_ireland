@@ -1,0 +1,498 @@
+{
+  "slug": "leitrim",
+  "name": "Leitrim",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Bush Bar",
+        "kind": "Pub",
+        "lat": 53.946127,
+        "lon": -8.094058,
+        "cuisine": null,
+        "website": "https://www.bushhotel.com/dining-and-bar/bar-and-lounges"
+      },
+      {
+        "name": "Drumcoura City",
+        "kind": "Bar",
+        "lat": 54.027614,
+        "lon": -7.751936,
+        "cuisine": null,
+        "website": "https://www.drumcouracity.com/"
+      },
+      {
+        "name": "Laura's Cafe",
+        "kind": "Café",
+        "lat": 54.168762,
+        "lon": -8.144046,
+        "cuisine": null,
+        "website": "https://www.facebook.com/caffeelaura"
+      },
+      {
+        "name": "Prior's",
+        "kind": "Restaurant",
+        "lat": 54.053829,
+        "lon": -7.797723,
+        "cuisine": null,
+        "website": "http://www.priors.ie"
+      },
+      {
+        "name": "Sandstone",
+        "kind": "Restaurant",
+        "lat": 53.893698,
+        "lon": -7.847732,
+        "cuisine": null,
+        "website": "http://www.loughrynn.ie/sandstone-restaurant.html"
+      },
+      {
+        "name": "The Brandywell",
+        "kind": "Restaurant",
+        "lat": 53.859754,
+        "lon": -7.922667,
+        "cuisine": "irish",
+        "website": "https://www.brandywell.ie/"
+      },
+      {
+        "name": "The Leitrim Inn",
+        "kind": "Pub",
+        "lat": 53.991048,
+        "lon": -8.065604,
+        "cuisine": null,
+        "website": "https://www.theleitriminn.com/"
+      },
+      {
+        "name": "The Selkie",
+        "kind": "Restaurant",
+        "lat": 54.472418,
+        "lon": -8.321646,
+        "cuisine": null,
+        "website": "https://theselkie.ie/"
+      },
+      {
+        "name": "An Scolaire Bocht",
+        "kind": "Pub",
+        "lat": 54.052265,
+        "lon": -7.803286,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Barge",
+        "kind": "Pub",
+        "lat": 53.991288,
+        "lon": -8.065848,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clancys of Glenfarne",
+        "kind": "Restaurant",
+        "lat": 54.284413,
+        "lon": -7.983862,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Claudio's Cafe",
+        "kind": "Café",
+        "lat": 54.445632,
+        "lon": -8.285904,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Devour Kinlough",
+        "kind": "Café",
+        "lat": 54.446922,
+        "lon": -8.285467,
+        "cuisine": "coffee shop",
+        "website": null
+      },
+      {
+        "name": "Dolmen Cafe",
+        "kind": "Café",
+        "lat": 54.020662,
+        "lon": -7.838809,
+        "cuisine": "coffee shop",
+        "website": null
+      },
+      {
+        "name": "Esquires coffee",
+        "kind": "Café",
+        "lat": 53.945983,
+        "lon": -8.07778,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Fox's Bar",
+        "kind": "Pub",
+        "lat": 53.859794,
+        "lon": -7.838469,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Gertie's",
+        "kind": "Restaurant",
+        "lat": 54.018132,
+        "lon": -7.94565,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Giulio's Pizzaria",
+        "kind": "Fast food",
+        "lat": 53.989769,
+        "lon": -8.064956,
+        "cuisine": "pizza",
+        "website": null
+      },
+      {
+        "name": "Heraghty's",
+        "kind": "Pub",
+        "lat": 54.304443,
+        "lon": -8.176107,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Jon's Takeaway",
+        "kind": "Fast food",
+        "lat": 54.447471,
+        "lon": -8.285309,
+        "cuisine": "burger, fish and chips, kebab, pizza",
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Lough Rynn Castle Estate & Gardens",
+        "kind": "Hotel",
+        "lat": 53.893767,
+        "lon": -7.847219,
+        "cuisine": null,
+        "website": "https://www.loughrynn.ie/"
+      },
+      {
+        "name": "Clancys of Glenfarne",
+        "kind": "Guesthouse",
+        "lat": 54.284427,
+        "lon": -7.983718,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Leitrim Marina Hotel",
+        "kind": "Hotel",
+        "lat": 53.988941,
+        "lon": -8.06628,
+        "cuisine": null,
+        "website": "https://www.leitrimmarinahotel.com/"
+      },
+      {
+        "name": "Lough Allen Hotel",
+        "kind": "Hotel",
+        "lat": 54.053956,
+        "lon": -8.046119,
+        "cuisine": null,
+        "website": "https://www.loughallenhotel.com/"
+      },
+      {
+        "name": "Lough Rynn Country House",
+        "kind": "Guesthouse",
+        "lat": 53.900903,
+        "lon": -7.8459,
+        "cuisine": null,
+        "website": "http://www.loughrynnbandb.ie/contact.html"
+      },
+      {
+        "name": "Tawnylust Lodge",
+        "kind": "Chalet",
+        "lat": 54.306751,
+        "lon": -8.095828,
+        "cuisine": null,
+        "website": "https://www.irishecotourism.com"
+      },
+      {
+        "name": "Aisleigh",
+        "kind": "Guesthouse",
+        "lat": 53.942532,
+        "lon": -8.069779,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballinaboy Lodge",
+        "kind": "Guesthouse",
+        "lat": 54.001025,
+        "lon": -8.060422,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castle View B&B",
+        "kind": "Guesthouse",
+        "lat": 54.267347,
+        "lon": -8.338406,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clarkes",
+        "kind": "Hotel",
+        "lat": 53.921161,
+        "lon": -7.867078,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Commercial Hotel",
+        "kind": "Hotel",
+        "lat": 54.052898,
+        "lon": -7.800406,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Greenville House",
+        "kind": "Guesthouse",
+        "lat": 53.977148,
+        "lon": -7.6424,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kennedys Guesthouse",
+        "kind": "Guesthouse",
+        "lat": 54.027047,
+        "lon": -7.797609,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kennys B&B",
+        "kind": "Guesthouse",
+        "lat": 54.285801,
+        "lon": -8.004313,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Parkview Cottage",
+        "kind": "Guesthouse",
+        "lat": 53.961251,
+        "lon": -7.723649,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Riversdale Farm Guesthouse, Ballinamore",
+        "kind": "Guesthouse",
+        "lat": 54.029554,
+        "lon": -7.794843,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Speakeasy",
+        "kind": "Hotel",
+        "lat": 54.053433,
+        "lon": -7.798389,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Oak's B&B",
+        "kind": "Guesthouse",
+        "lat": 54.359311,
+        "lon": -8.059117,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Old Rectory",
+        "kind": "Guesthouse",
+        "lat": 54.015902,
+        "lon": -7.836461,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Travellers Rest",
+        "kind": "Guesthouse",
+        "lat": 53.922289,
+        "lon": -7.866033,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Cavan & Leitrim Railway",
+        "kind": "Museum",
+        "lat": 53.859532,
+        "lon": -7.916488,
+        "cuisine": null,
+        "website": "https://www.cavanandleitrim.com/"
+      },
+      {
+        "name": "Lough Rynn House",
+        "kind": "Castle",
+        "lat": 53.893767,
+        "lon": -7.847132,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Fawnlion Hillfort",
+        "kind": "Ruins",
+        "lat": 54.283149,
+        "lon": -8.31838,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Manorhamilton Castle",
+        "kind": "Castle",
+        "lat": 54.30657,
+        "lon": -8.179014,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Four Masters Bridge",
+        "kind": "Memorial",
+        "lat": 54.459145,
+        "lon": -8.260461,
+        "cuisine": null,
+        "website": "https://www.buildingsofireland.ie/buildings-search/building/40910902/the-four-masters-bridge-ardfarn-county-donegal"
+      },
+      {
+        "name": "The Ultachs",
+        "kind": "Memorial",
+        "lat": 54.120348,
+        "lon": -7.917912,
+        "cuisine": null,
+        "website": "https://talesandsceals.wordpress.com/2018/01/20/leitrim-sliabh-an-iarainn-ballinamore-1795-mass-migration-from-ulster/"
+      },
+      {
+        "name": "Cromlech",
+        "kind": "Archaeological site",
+        "lat": 54.418574,
+        "lon": -8.298501,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Danu",
+        "kind": "Artwork",
+        "lat": 54.047305,
+        "lon": -8.041681,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Declaration of Independence",
+        "kind": "Memorial",
+        "lat": 53.927929,
+        "lon": -8.006456,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dermot & Grainne's Bed",
+        "kind": "Archaeological site",
+        "lat": 53.908811,
+        "lon": -7.917798,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dermot & Grania's Bed",
+        "kind": "Archaeological site",
+        "lat": 53.935236,
+        "lon": -7.770016,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dooroy Castle",
+        "kind": "Ruins",
+        "lat": 54.261883,
+        "lon": -8.329753,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Druid's Altar",
+        "kind": "Archaeological site",
+        "lat": 53.891021,
+        "lon": -7.841651,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Druid's Altar",
+        "kind": "Archaeological site",
+        "lat": 54.05957,
+        "lon": -7.840389,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Giant's Grave",
+        "kind": "Archaeological site",
+        "lat": 54.39116,
+        "lon": -8.142248,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Giant's Grave",
+        "kind": "Archaeological site",
+        "lat": 53.930157,
+        "lon": -7.769651,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Glencar Lough Viewpoint",
+        "kind": "Viewpoint",
+        "lat": 54.345761,
+        "lon": -8.392703,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Heritage Centre",
+        "kind": "Museum",
+        "lat": 54.35629,
+        "lon": -8.038087,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "John Joe McGirl",
+        "kind": "Monument",
+        "lat": 54.051964,
+        "lon": -7.805083,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kiltybarden lough",
+        "kind": "Viewpoint",
+        "lat": 54.051478,
+        "lon": -7.877488,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

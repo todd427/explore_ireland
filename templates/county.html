@@ -59,6 +59,11 @@
     </section>
     {% endif %}
 
+    <div id="listings" class="listings"></div>
+    <p id="poi-note" class="empty-note" hidden>
+      Places data © OpenStreetMap contributors (ODbL). Pins also appear on the map above.
+    </p>
+
     {% if not county.key_places and not county.key_industries and not county.key_history %}
     <p class="empty-note">Detailed information for this region hasn't been added yet.</p>
     {% endif %}

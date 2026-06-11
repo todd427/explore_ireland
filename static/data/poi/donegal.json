@@ -1,0 +1,498 @@
+{
+  "slug": "donegal",
+  "name": "Donegal",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "The Cosy Cottage",
+        "kind": "Café",
+        "lat": 55.189346,
+        "lon": -7.039193,
+        "cuisine": "sandwich",
+        "website": null
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 55.251339,
+        "lon": -7.259948,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/"
+      },
+      {
+        "name": "Bank House & Bar",
+        "kind": "Bar",
+        "lat": 54.479933,
+        "lon": -8.276018,
+        "cuisine": null,
+        "website": "https://bankhousebundoran.com/"
+      },
+      {
+        "name": "Bella Forno",
+        "kind": "Restaurant",
+        "lat": 55.134936,
+        "lon": -7.454009,
+        "cuisine": null,
+        "website": "https://bellaforno.ie/"
+      },
+      {
+        "name": "Biddy's o'Barnes",
+        "kind": "Pub",
+        "lat": 54.709621,
+        "lon": -7.970989,
+        "cuisine": null,
+        "website": "https://www.biddysobarnes.com"
+      },
+      {
+        "name": "Blás Restaurant",
+        "kind": "Restaurant",
+        "lat": 54.65622,
+        "lon": -8.114109,
+        "cuisine": null,
+        "website": "https://www.thegatewaydonegal.ie/dining-in-donegal"
+      },
+      {
+        "name": "Bowling Bar",
+        "kind": "Bar",
+        "lat": 54.957197,
+        "lon": -7.705802,
+        "cuisine": null,
+        "website": "https://arena7.ie/bowling-bar"
+      },
+      {
+        "name": "Buttermilk Art Cafe",
+        "kind": "Café",
+        "lat": 55.178121,
+        "lon": -7.932309,
+        "cuisine": null,
+        "website": "http://buttermilk.ie"
+      },
+      {
+        "name": "Cove",
+        "kind": "Restaurant",
+        "lat": 55.177765,
+        "lon": -7.93261,
+        "cuisine": "regional",
+        "website": "http://www.coverestaurantdonegal.com"
+      },
+      {
+        "name": "Danny Minnie's",
+        "kind": "Restaurant",
+        "lat": 55.02137,
+        "lon": -8.31477,
+        "cuisine": null,
+        "website": "https://www.dannyminnies.ie/"
+      },
+      {
+        "name": "Dicey Reilly’s",
+        "kind": "Pub",
+        "lat": 54.502859,
+        "lon": -8.190088,
+        "cuisine": null,
+        "website": "https://diceys.com/"
+      },
+      {
+        "name": "Dock 84 Restaurant / O'Hehirs Bakery",
+        "kind": "Restaurant",
+        "lat": 54.653445,
+        "lon": -8.108592,
+        "cuisine": "irish",
+        "website": "https://www.facebook.com/p/Dock84-Donegal-61560259217085/"
+      },
+      {
+        "name": "Donegal Boardwalk Bar and Restaurant",
+        "kind": "Restaurant",
+        "lat": 55.149504,
+        "lon": -7.838534,
+        "cuisine": null,
+        "website": "https://www.donegalboardwalkresort.ie/restaurant/"
+      },
+      {
+        "name": "Harvey’s Bar",
+        "kind": "Bar",
+        "lat": 54.695774,
+        "lon": -8.053755,
+        "cuisine": null,
+        "website": "https://www.harveyspoint.com/bar-terrace.html"
+      },
+      {
+        "name": "Jack’s",
+        "kind": "Pub",
+        "lat": 55.02087,
+        "lon": -8.325243,
+        "cuisine": null,
+        "website": "https://www.donegalhotel.ie/bar-and-lounge/jacks"
+      },
+      {
+        "name": "La Sabbia",
+        "kind": "Restaurant",
+        "lat": 54.475546,
+        "lon": -8.282759,
+        "cuisine": "italian",
+        "website": "https://lasabbiabundoran.com/"
+      },
+      {
+        "name": "Lizzie's Diner",
+        "kind": "Restaurant",
+        "lat": 55.183254,
+        "lon": -7.970444,
+        "cuisine": null,
+        "website": "https://www.facebook.com/lizziesdiner789/"
+      },
+      {
+        "name": "Madden’s Bridge Bar & Restaurant",
+        "kind": "Pub",
+        "lat": 54.477467,
+        "lon": -8.280986,
+        "cuisine": null,
+        "website": "https://www.maddensbridgebar.ie"
+      },
+      {
+        "name": "McCafferty's at the Pier",
+        "kind": "Restaurant",
+        "lat": 54.652923,
+        "lon": -8.111413,
+        "cuisine": "breakfast, grill",
+        "website": "https://thepier.mccaffertysbars.com/"
+      },
+      {
+        "name": "Nirvana",
+        "kind": "Café",
+        "lat": 54.501633,
+        "lon": -8.1938,
+        "cuisine": null,
+        "website": "http://www.nirvanarestaurant.ie/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Rockhill House",
+        "kind": "Hotel",
+        "lat": 54.933051,
+        "lon": -7.774423,
+        "cuisine": null,
+        "website": "https://rockhillhouse.ie"
+      },
+      {
+        "name": "Radisson Blu Letterkenny",
+        "kind": "Hotel",
+        "lat": 54.947127,
+        "lon": -7.733418,
+        "cuisine": null,
+        "website": "http://www.radissonblu.ie/hotel-letterkenny"
+      },
+      {
+        "name": "Lough Eske Castle Hotel",
+        "kind": "Hotel",
+        "lat": 54.687987,
+        "lon": -8.066568,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Sandhouse Hotel",
+        "kind": "Hotel",
+        "lat": 54.553883,
+        "lon": -8.210099,
+        "cuisine": null,
+        "website": "https://sandhouse.ie/"
+      },
+      {
+        "name": "Abbey Hotel",
+        "kind": "Hotel",
+        "lat": 54.653761,
+        "lon": -8.110841,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Inishowen Gateway Hotel",
+        "kind": "Hotel",
+        "lat": 55.125945,
+        "lon": -7.457105,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Lake of Shadows Hotel",
+        "kind": "Hotel",
+        "lat": 55.133562,
+        "lon": -7.458714,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mill Park Hotel",
+        "kind": "Hotel",
+        "lat": 54.659285,
+        "lon": -8.117996,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mulroy Woods Hotel",
+        "kind": "Hotel",
+        "lat": 55.076444,
+        "lon": -7.680666,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Bridges B&B",
+        "kind": "Guesthouse",
+        "lat": 54.655678,
+        "lon": -8.111542,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Central Hotel",
+        "kind": "Hotel",
+        "lat": 54.653497,
+        "lon": -8.110888,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Tullyarvan Mill Hostel",
+        "kind": "Hostel",
+        "lat": 55.144308,
+        "lon": -7.45283,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Letterkenny Court Hotel",
+        "kind": "Hotel",
+        "lat": 54.950528,
+        "lon": -7.73645,
+        "cuisine": null,
+        "website": "http://www.letterkennycourthotel.com/"
+      },
+      {
+        "name": "Station House Hotel",
+        "kind": "Hotel",
+        "lat": 54.945787,
+        "lon": -7.740084,
+        "cuisine": null,
+        "website": "http://www.stationhouseletterkenny.com/"
+      },
+      {
+        "name": "An Caisleain Oir",
+        "kind": "Hotel",
+        "lat": 55.020826,
+        "lon": -8.325267,
+        "cuisine": null,
+        "website": "http://www.caisleainoir.ie"
+      },
+      {
+        "name": "Apple Hostel",
+        "kind": "Hostel",
+        "lat": 54.955255,
+        "lon": -7.730445,
+        "cuisine": null,
+        "website": "http://www.letterkennyhostel.com"
+      },
+      {
+        "name": "Arnold's Hotel",
+        "kind": "Hotel",
+        "lat": 55.183259,
+        "lon": -7.9696,
+        "cuisine": null,
+        "website": "https://www.arnoldshotel.com/"
+      },
+      {
+        "name": "Cavangarden House",
+        "kind": "Guesthouse",
+        "lat": 54.531026,
+        "lon": -8.155204,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Derrylahan Independent Hostel",
+        "kind": "Hostel",
+        "lat": 54.635321,
+        "lon": -8.625677,
+        "cuisine": null,
+        "website": "https://www.derrylahanhostel.ie/"
+      },
+      {
+        "name": "Dun Ulun House",
+        "kind": "Hotel",
+        "lat": 54.628301,
+        "lon": -8.608702,
+        "cuisine": null,
+        "website": "http://dunulunhouse.weebly.com"
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Donegal Railway Heritage Centre",
+        "kind": "Museum",
+        "lat": 54.657043,
+        "lon": -8.107791,
+        "cuisine": null,
+        "website": "https://www.donegalrailway.com/"
+      },
+      {
+        "name": "Fort Dunree Military Museum",
+        "kind": "Museum",
+        "lat": 55.196294,
+        "lon": -7.554094,
+        "cuisine": null,
+        "website": "https://www.fortdunree.com"
+      },
+      {
+        "name": "Glebe House and Gallery",
+        "kind": "Attraction",
+        "lat": 55.004079,
+        "lon": -7.902769,
+        "cuisine": null,
+        "website": "https://www.heritageireland.ie/en/North-West/GlebeHouseandGallery/"
+      },
+      {
+        "name": "Newmills Corn and Flax Mills",
+        "kind": "Attraction",
+        "lat": 54.929073,
+        "lon": -7.808443,
+        "cuisine": null,
+        "website": "https://heritageireland.ie/places-to-visit/newmills-corn-and-flax-mills/"
+      },
+      {
+        "name": "Beltany Stone Circle",
+        "kind": "Archaeological site",
+        "lat": 54.850385,
+        "lon": -7.60475,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carrickabraghy Castle",
+        "kind": "Castle",
+        "lat": 55.316332,
+        "lon": -7.372754,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cloghanmore",
+        "kind": "Archaeological site",
+        "lat": 54.689177,
+        "lon": -8.746671,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Donegal County Museum",
+        "kind": "Museum",
+        "lat": 54.95457,
+        "lon": -7.735069,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "O'Doherty's Castle",
+        "kind": "Ruins",
+        "lat": 55.019592,
+        "lon": -7.502299,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Pluck Standing Stone",
+        "kind": "Archaeological site",
+        "lat": 54.939632,
+        "lon": -7.636214,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballymacool House",
+        "kind": "Ruins",
+        "lat": 54.945798,
+        "lon": -7.758571,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castle McGrath",
+        "kind": "Castle",
+        "lat": 54.53575,
+        "lon": -7.852538,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Donagh Cross",
+        "kind": "Attraction",
+        "lat": 55.249934,
+        "lon": -7.272055,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Four Masters Memorial",
+        "kind": "Memorial",
+        "lat": 54.653808,
+        "lon": -8.110402,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Glencolumbkille Turas",
+        "kind": "Archaeological site",
+        "lat": 54.71084,
+        "lon": -8.72485,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Glenveagh Castle",
+        "kind": "Attraction",
+        "lat": 55.036196,
+        "lon": -7.968535,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Magherabeg Abbey",
+        "kind": "Ruins",
+        "lat": 54.641225,
+        "lon": -8.117829,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Malin Beg Watch Tower",
+        "kind": "Attraction",
+        "lat": 54.662778,
+        "lon": -8.791728,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Maritime memorial",
+        "kind": "Monument",
+        "lat": 55.202813,
+        "lon": -6.985552,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bundoran Adventure Park",
+        "kind": "Theme park",
+        "lat": 54.481267,
+        "lon": -8.276672,
+        "cuisine": null,
+        "website": "https://bundoranadventurepark.com/"
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

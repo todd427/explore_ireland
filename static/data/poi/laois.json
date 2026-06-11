@@ -1,0 +1,498 @@
+{
+  "slug": "laois",
+  "name": "Laois",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Charter Bar",
+        "kind": "Bar",
+        "lat": 53.034933,
+        "lon": -7.30301,
+        "cuisine": null,
+        "website": "https://www.midlandsparkhotel.com/charter-bar-eatery/"
+      },
+      {
+        "name": "Chocolate Brown",
+        "kind": "Café",
+        "lat": 53.034022,
+        "lon": -7.296959,
+        "cuisine": null,
+        "website": "https://chocolatebrown.ie/"
+      },
+      {
+        "name": "D.M. Shelly",
+        "kind": "Pub",
+        "lat": 53.034049,
+        "lon": -7.299651,
+        "cuisine": null,
+        "website": "https://www.bovine.ie"
+      },
+      {
+        "name": "Kavanagh’s",
+        "kind": "Pub",
+        "lat": 53.034227,
+        "lon": -7.297986,
+        "cuisine": "pizza, sandwich",
+        "website": "https://kavanaghsportlaoise.com"
+      },
+      {
+        "name": "Kelly’s Steakhouse",
+        "kind": "Restaurant",
+        "lat": 53.034707,
+        "lon": -7.302657,
+        "cuisine": "steak house",
+        "website": "https://www.midlandsparkhotel.com/kellys-steakhouse/"
+      },
+      {
+        "name": "Manor Bar & Restaurant",
+        "kind": "Bar",
+        "lat": 52.906387,
+        "lon": -7.352634,
+        "cuisine": null,
+        "website": "https://www.abbeyleixmanorhotel.com/manor-bar-restaurant/"
+      },
+      {
+        "name": "Mariana's Diner",
+        "kind": "Restaurant",
+        "lat": 53.003863,
+        "lon": -7.472335,
+        "cuisine": null,
+        "website": "https://marianasdiner.ie"
+      },
+      {
+        "name": "O’Dempsey’s GFC Bar",
+        "kind": "Pub",
+        "lat": 53.118928,
+        "lon": -7.152152,
+        "cuisine": null,
+        "website": "https://odempseysgfc.ie/"
+      },
+      {
+        "name": "The Mellick Inn",
+        "kind": "Pub",
+        "lat": 53.117637,
+        "lon": -7.327843,
+        "cuisine": null,
+        "website": "https://themellickinn.weebly.com/"
+      },
+      {
+        "name": "The Thatch",
+        "kind": "Pub",
+        "lat": 53.132721,
+        "lon": -7.14786,
+        "cuisine": null,
+        "website": "https://thethatchpub.ie"
+      },
+      {
+        "name": "Tynan's Fine Foods",
+        "kind": "Restaurant",
+        "lat": 53.030742,
+        "lon": -7.305938,
+        "cuisine": null,
+        "website": "https://www.tynans.ie/"
+      },
+      {
+        "name": "AJ's Bar",
+        "kind": "Pub",
+        "lat": 53.148615,
+        "lon": -7.52369,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "After Dark",
+        "kind": "Bar",
+        "lat": 53.161558,
+        "lon": -7.189904,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Akayu",
+        "kind": "Restaurant",
+        "lat": 53.034207,
+        "lon": -7.299065,
+        "cuisine": "sushi",
+        "website": null
+      },
+      {
+        "name": "Angelo's",
+        "kind": "Restaurant",
+        "lat": 53.148451,
+        "lon": -7.524369,
+        "cuisine": "italian, irish, turkish, pizza",
+        "website": null
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 53.03312,
+        "lon": -7.296325,
+        "cuisine": "pizza",
+        "website": null
+      },
+      {
+        "name": "Asian Wok Takeaway",
+        "kind": "Restaurant",
+        "lat": 53.161561,
+        "lon": -7.189837,
+        "cuisine": "asian",
+        "website": null
+      },
+      {
+        "name": "Behan’s",
+        "kind": "Pub",
+        "lat": 52.856891,
+        "lon": -7.070632,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bergin’s",
+        "kind": "Pub",
+        "lat": 53.034081,
+        "lon": -7.298167,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bloom",
+        "kind": "Restaurant",
+        "lat": 53.034035,
+        "lon": -7.299758,
+        "cuisine": "brasserie",
+        "website": null
+      }
+    ],
+    "stay": [
+      {
+        "name": "Midlands Park Hotel",
+        "kind": "Hotel",
+        "lat": 53.034977,
+        "lon": -7.302448,
+        "cuisine": null,
+        "website": "https://www.midlandsparkhotel.com"
+      },
+      {
+        "name": "Talbot Carlow",
+        "kind": "Hotel",
+        "lat": 52.846278,
+        "lon": -6.943524,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Town Hotel",
+        "kind": "Hotel",
+        "lat": 53.034565,
+        "lon": -7.298111,
+        "cuisine": null,
+        "website": "https://thetownhotel.ie"
+      },
+      {
+        "name": "Ballyfin Demesne",
+        "kind": "Hotel",
+        "lat": 53.057251,
+        "lon": -7.431723,
+        "cuisine": null,
+        "website": "https://www.ballyfin.com/"
+      },
+      {
+        "name": "Ivyleigh House",
+        "kind": "Guesthouse",
+        "lat": 53.035776,
+        "lon": -7.299911,
+        "cuisine": null,
+        "website": "https://www.ivyleigh.com/"
+      },
+      {
+        "name": "Maldron Hotel Portlaoise",
+        "kind": "Hotel",
+        "lat": 53.014071,
+        "lon": -7.299966,
+        "cuisine": null,
+        "website": "https://www.maldronhotelportlaoise.com/"
+      },
+      {
+        "name": "The Heritage",
+        "kind": "Hotel",
+        "lat": 53.133653,
+        "lon": -7.151215,
+        "cuisine": null,
+        "website": "https://www.theheritage.com"
+      },
+      {
+        "name": "Abbeyleix Manor Hotel",
+        "kind": "Hotel",
+        "lat": 52.906582,
+        "lon": -7.352613,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballaghmore Castle",
+        "kind": "Guesthouse",
+        "lat": 52.959619,
+        "lon": -7.706985,
+        "cuisine": null,
+        "website": "http://www.castleballaghmore.com/"
+      },
+      {
+        "name": "Ballaghmore Country House",
+        "kind": "Guesthouse",
+        "lat": 52.960436,
+        "lon": -7.724909,
+        "cuisine": null,
+        "website": "http://www.ballaghmorecountryhse.com/"
+      },
+      {
+        "name": "Castle Arms Hotel",
+        "kind": "Hotel",
+        "lat": 52.845278,
+        "lon": -7.396053,
+        "cuisine": null,
+        "website": "https://www.castlearmshotel.ie/"
+      },
+      {
+        "name": "Castle View",
+        "kind": "Guesthouse",
+        "lat": 52.845457,
+        "lon": -7.395491,
+        "cuisine": null,
+        "website": "https://www.airbnb.ie/rooms/25823779"
+      },
+      {
+        "name": "Coolanowle Country House and Organic Farm",
+        "kind": "Guesthouse",
+        "lat": 52.907851,
+        "lon": -7.030032,
+        "cuisine": null,
+        "website": "http://www.coolanowle.com/"
+      },
+      {
+        "name": "Hill View House",
+        "kind": "Guesthouse",
+        "lat": 52.913245,
+        "lon": -7.344815,
+        "cuisine": null,
+        "website": "https://hillviewhousebandbinlaois.wordpress.com/"
+      },
+      {
+        "name": "Laois County Lodge",
+        "kind": "Guesthouse",
+        "lat": 53.038525,
+        "lon": -7.278446,
+        "cuisine": null,
+        "website": "http://www.laoiscountylodge.com/"
+      },
+      {
+        "name": "Quarry Ridge Bed and Breakfast",
+        "kind": "Guesthouse",
+        "lat": 52.855788,
+        "lon": -7.020419,
+        "cuisine": null,
+        "website": "https://www.quarryridge.ie/"
+      },
+      {
+        "name": "The Foxrock Inn",
+        "kind": "Guesthouse",
+        "lat": 52.886688,
+        "lon": -7.511046,
+        "cuisine": null,
+        "website": "http://www.foxrockinn.com/"
+      },
+      {
+        "name": "East End Hotel",
+        "kind": "Hotel",
+        "lat": 53.156445,
+        "lon": -7.184259,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Fountain House B&B",
+        "kind": "Guesthouse",
+        "lat": 52.914662,
+        "lon": -7.348726,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Leix County Hotel",
+        "kind": "Hotel",
+        "lat": 52.939347,
+        "lon": -7.627993,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Emo Court",
+        "kind": "Attraction",
+        "lat": 53.107193,
+        "lon": -7.196835,
+        "cuisine": null,
+        "website": "https://emocourt.ie/"
+      },
+      {
+        "name": "Aghaboe Abbey",
+        "kind": "Attraction",
+        "lat": 52.922266,
+        "lon": -7.513866,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Aghnahily Ringfort",
+        "kind": "Archaeological site",
+        "lat": 53.025906,
+        "lon": -7.205802,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballyadams Castle",
+        "kind": "Castle",
+        "lat": 52.964838,
+        "lon": -7.064037,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Coorlaghan Ringfort",
+        "kind": "Archaeological site",
+        "lat": 52.83739,
+        "lon": -7.01087,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cullahill Castle",
+        "kind": "Castle",
+        "lat": 52.816133,
+        "lon": -7.472821,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Durrow Castle",
+        "kind": "Castle",
+        "lat": 52.846093,
+        "lon": -7.401329,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rock of Dunamase",
+        "kind": "Castle",
+        "lat": 53.031757,
+        "lon": -7.210424,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Heywood Gardens",
+        "kind": "Attraction",
+        "lat": 52.884424,
+        "lon": -7.30114,
+        "cuisine": null,
+        "website": "https://heritageireland.ie/visit/places-to-visit/heywood-gardens/"
+      },
+      {
+        "name": "1798 Monument",
+        "kind": "Memorial",
+        "lat": 52.874295,
+        "lon": -7.308595,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Abbeyleix Heritage Centre",
+        "kind": "Museum",
+        "lat": 52.917478,
+        "lon": -7.34618,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Aghaboe Motte",
+        "kind": "Archaeological site",
+        "lat": 52.923748,
+        "lon": -7.512859,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Boley Fort",
+        "kind": "Archaeological site",
+        "lat": 52.923862,
+        "lon": -7.086622,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cloncourse Castle (ruins)",
+        "kind": "Castle",
+        "lat": 52.963797,
+        "lon": -7.675767,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Oughaval Church",
+        "kind": "Ruins",
+        "lat": 53.00887,
+        "lon": -7.133536,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Orangery",
+        "kind": "Ruins",
+        "lat": 52.886204,
+        "lon": -7.302676,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Timahoe Round Tower",
+        "kind": "Attraction",
+        "lat": 52.960375,
+        "lon": -7.20358,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Tinnakill Castle (ruins)",
+        "kind": "Castle",
+        "lat": 53.128068,
+        "lon": -7.251239,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballaghmore Castle",
+        "kind": "Castle",
+        "lat": 52.959704,
+        "lon": -7.706233,
+        "cuisine": null,
+        "website": "http://www.castleballaghmore.com"
+      },
+      {
+        "name": "Ballykilcavan Brewing Company",
+        "kind": "Attraction",
+        "lat": 53.018003,
+        "lon": -7.115228,
+        "cuisine": null,
+        "website": "https://www.ballykilcavan.com"
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

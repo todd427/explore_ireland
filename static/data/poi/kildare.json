@@ -1,0 +1,498 @@
+{
+  "slug": "kildare",
+  "name": "Kildare",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "33 South Main",
+        "kind": "Restaurant",
+        "lat": 53.216182,
+        "lon": -6.664636,
+        "cuisine": null,
+        "website": "https://33southmain.com/"
+      },
+      {
+        "name": "Abrakebabra",
+        "kind": "Fast food",
+        "lat": 53.181758,
+        "lon": -6.795861,
+        "cuisine": null,
+        "website": "https://www.abrakebabra.com/"
+      },
+      {
+        "name": "Ady's Dream Cafe",
+        "kind": "Café",
+        "lat": 53.338467,
+        "lon": -6.539849,
+        "cuisine": "coffee shop",
+        "website": "https://www.adydreamcafe.ie/"
+      },
+      {
+        "name": "Alice's Restaurant",
+        "kind": "Restaurant",
+        "lat": 53.218766,
+        "lon": -6.663673,
+        "cuisine": "coffee shop",
+        "website": "http://alicesrestaurant.ie/"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 53.381223,
+        "lon": -6.592993,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 53.177548,
+        "lon": -6.800534,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie/"
+      },
+      {
+        "name": "Arkle Bar",
+        "kind": "Bar",
+        "lat": 53.380158,
+        "lon": -6.587744,
+        "cuisine": "coffee shop, diner, irish, burger, sandwich, fine dining",
+        "website": "https://www.glenroyal.ie/arkle-bar-restaurant"
+      },
+      {
+        "name": "Arthur's Coffee House",
+        "kind": "Café",
+        "lat": 53.297364,
+        "lon": -6.56801,
+        "cuisine": null,
+        "website": "https://ardcloughvillagecentre.com/cafe/"
+      },
+      {
+        "name": "BBs Coffee and Muffins",
+        "kind": "Café",
+        "lat": 53.234198,
+        "lon": -6.638478,
+        "cuisine": null,
+        "website": "http://www.bbscoffeeandmuffins.com/"
+      },
+      {
+        "name": "Backyard Diner",
+        "kind": "Fast food",
+        "lat": 53.371167,
+        "lon": -6.48746,
+        "cuisine": "burger",
+        "website": "https://www.backyarddiner.com/"
+      },
+      {
+        "name": "Bailey’s Bar & Bistro",
+        "kind": "Bar",
+        "lat": 52.998611,
+        "lon": -6.95976,
+        "cuisine": null,
+        "website": "https://www.clanardcourt.ie/baileys-bar-bistro.html"
+      },
+      {
+        "name": "Big Bites",
+        "kind": "Restaurant",
+        "lat": 53.400116,
+        "lon": -6.667999,
+        "cuisine": "american, indian, italian, pizza",
+        "website": "https://bigbiteskilcock.ie/"
+      },
+      {
+        "name": "Boyle’s",
+        "kind": "Pub",
+        "lat": 53.156715,
+        "lon": -6.910722,
+        "cuisine": null,
+        "website": "https://www.boyleskildare.ie"
+      },
+      {
+        "name": "Bradbury's",
+        "kind": "Café",
+        "lat": 52.992519,
+        "lon": -6.982696,
+        "cuisine": null,
+        "website": "https://www.bradburys.ie/"
+      },
+      {
+        "name": "Butt Mullins",
+        "kind": "Restaurant",
+        "lat": 53.21967,
+        "lon": -6.66065,
+        "cuisine": null,
+        "website": "https://buttmullins.ie/"
+      },
+      {
+        "name": "Canvas Restaurant",
+        "kind": "Restaurant",
+        "lat": 53.400412,
+        "lon": -6.667954,
+        "cuisine": "italian pizza",
+        "website": "https://canvasgroup.ie/index.php/canvas-restaurant/"
+      },
+      {
+        "name": "Chick King",
+        "kind": "Fast food",
+        "lat": 53.181792,
+        "lon": -6.795809,
+        "cuisine": "chicken",
+        "website": "http://www.chickking.ie/"
+      },
+      {
+        "name": "Clubhouse Café",
+        "kind": "Restaurant",
+        "lat": 53.289817,
+        "lon": -6.692532,
+        "cuisine": null,
+        "website": "https://clanegaa.ie/"
+      },
+      {
+        "name": "Da Vinci's Takeaway",
+        "kind": "Fast food",
+        "lat": 53.363401,
+        "lon": -6.491343,
+        "cuisine": null,
+        "website": "https://www.davincis.ie/"
+      },
+      {
+        "name": "Delhi Darbar",
+        "kind": "Restaurant",
+        "lat": 53.381357,
+        "lon": -6.593113,
+        "cuisine": "indian",
+        "website": "https://delhidarbarindian.ie/maynooth/"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Moyvalley Hotel",
+        "kind": "Hotel",
+        "lat": 53.419001,
+        "lon": -6.923037,
+        "cuisine": null,
+        "website": "https://www.moyvalley.com/moyvalley-hotel.html"
+      },
+      {
+        "name": "Aurora House B&B",
+        "kind": "Guesthouse",
+        "lat": 53.000411,
+        "lon": -6.96648,
+        "cuisine": null,
+        "website": "https://www.aurorahouse.net/"
+      },
+      {
+        "name": "Clanard Court Hotel",
+        "kind": "Hotel",
+        "lat": 52.998754,
+        "lon": -6.960034,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kilkea Castle",
+        "kind": "Hotel",
+        "lat": 52.943684,
+        "lon": -6.886441,
+        "cuisine": null,
+        "website": "https://www.kilkeacastle.ie/"
+      },
+      {
+        "name": "Osprey Hotel",
+        "kind": "Hotel",
+        "lat": 53.213399,
+        "lon": -6.670581,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Hamlet Court Hotel",
+        "kind": "Hotel",
+        "lat": 53.401026,
+        "lon": -6.854864,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Rooms at Bardons",
+        "kind": "Guesthouse",
+        "lat": 53.13136,
+        "lon": -6.744437,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Silken Thomas",
+        "kind": "Hotel",
+        "lat": 53.156703,
+        "lon": -6.909651,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ardscull Farm B&B",
+        "kind": "Guesthouse",
+        "lat": 53.027164,
+        "lon": -6.911782,
+        "cuisine": null,
+        "website": "http://www.ardscullfarm.com/"
+      },
+      {
+        "name": "Barberstown Castle",
+        "kind": "Hotel",
+        "lat": 53.322454,
+        "lon": -6.609159,
+        "cuisine": null,
+        "website": "https://www.barberstowncastle.ie"
+      },
+      {
+        "name": "Cliff At Lyons",
+        "kind": "Hotel",
+        "lat": 53.300381,
+        "lon": -6.555586,
+        "cuisine": null,
+        "website": "https://cliffatlyons.ie/"
+      },
+      {
+        "name": "Fairhill B&B",
+        "kind": "Guesthouse",
+        "lat": 53.172689,
+        "lon": -6.550671,
+        "cuisine": null,
+        "website": "http://fairhillbb.com/"
+      },
+      {
+        "name": "Firecastle",
+        "kind": "Guesthouse",
+        "lat": 53.157472,
+        "lon": -6.911037,
+        "cuisine": null,
+        "website": "https://firecastle.ie/"
+      },
+      {
+        "name": "Glenroyal Hotel",
+        "kind": "Hotel",
+        "lat": 53.37983,
+        "lon": -6.587827,
+        "cuisine": null,
+        "website": "http://www.glenroyalhotelkildare.ie/"
+      },
+      {
+        "name": "Hawthorn Bed and Breakfast",
+        "kind": "Guesthouse",
+        "lat": 52.999054,
+        "lon": -6.956513,
+        "cuisine": null,
+        "website": "https://www.athyaccommodation.com/"
+      },
+      {
+        "name": "Kilashee House Hotel",
+        "kind": "Hotel",
+        "lat": 53.19099,
+        "lon": -6.674985,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Norcenni B&B",
+        "kind": "Guesthouse",
+        "lat": 53.225266,
+        "lon": -6.659409,
+        "cuisine": null,
+        "website": "http://www.naasbedandbreakfast.ie"
+      },
+      {
+        "name": "River Forest Hotel",
+        "kind": "Hotel",
+        "lat": 53.371092,
+        "lon": -6.486968,
+        "cuisine": null,
+        "website": "http://www.riverforesthotel.com"
+      },
+      {
+        "name": "Ryeview",
+        "kind": "Guesthouse",
+        "lat": 53.368146,
+        "lon": -6.488011,
+        "cuisine": null,
+        "website": "https://www.ryeview.ie/"
+      },
+      {
+        "name": "Teach Baile Máirtín",
+        "kind": "Guesthouse",
+        "lat": 53.107425,
+        "lon": -6.821995,
+        "cuisine": null,
+        "website": "http://martinstownhouse.com/"
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Irish National Stud and Japanese Gardens",
+        "kind": "Attraction",
+        "lat": 53.144773,
+        "lon": -6.901818,
+        "cuisine": null,
+        "website": "https://irishnationalstud.ie/"
+      },
+      {
+        "name": "The Steam Musem",
+        "kind": "Museum",
+        "lat": 53.311949,
+        "lon": -6.600006,
+        "cuisine": null,
+        "website": "http://www.steam-museum.com/"
+      },
+      {
+        "name": "Castledermot Round Tower",
+        "kind": "Attraction",
+        "lat": 52.910437,
+        "lon": -6.834948,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clane Motte",
+        "kind": "Archaeological site",
+        "lat": 53.287071,
+        "lon": -6.684242,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Conolly's Folly",
+        "kind": "Attraction",
+        "lat": 53.36943,
+        "lon": -6.559919,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dún Ailinne",
+        "kind": "Archaeological site",
+        "lat": 53.115417,
+        "lon": -6.775544,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Grange Castle",
+        "kind": "Castle",
+        "lat": 53.37504,
+        "lon": -7.068001,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Kildare Round Tower",
+        "kind": "Attraction",
+        "lat": 53.158173,
+        "lon": -6.912249,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Maynooth Castle",
+        "kind": "Attraction",
+        "lat": 53.381155,
+        "lon": -6.594068,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mullaghreelan Rath",
+        "kind": "Archaeological site",
+        "lat": 52.935972,
+        "lon": -6.873528,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "National Science Museum",
+        "kind": "Museum",
+        "lat": 53.378576,
+        "lon": -6.598165,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Punchestown Longstone",
+        "kind": "Archaeological site",
+        "lat": 53.191832,
+        "lon": -6.628377,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Stephen Cullinane (Macra na Feirme)",
+        "kind": "Memorial",
+        "lat": 52.991648,
+        "lon": -6.983452,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Wonderful Barn",
+        "kind": "Attraction",
+        "lat": 53.359679,
+        "lon": -6.509888,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Woodstock Castle",
+        "kind": "Ruins",
+        "lat": 52.996973,
+        "lon": -6.989434,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Barberstown Castle",
+        "kind": "Castle",
+        "lat": 53.322415,
+        "lon": -6.608901,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carbury Castle",
+        "kind": "Castle",
+        "lat": 53.361647,
+        "lon": -6.969077,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carrick Castle",
+        "kind": "Castle",
+        "lat": 53.378067,
+        "lon": -7.038365,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clane Friary",
+        "kind": "Ruins",
+        "lat": 53.28927,
+        "lon": -6.68298,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ernest Shackleton",
+        "kind": "Memorial",
+        "lat": 52.991627,
+        "lon": -6.983367,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

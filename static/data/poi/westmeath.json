@@ -1,0 +1,498 @@
+{
+  "slug": "westmeath",
+  "name": "Westmeath",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Sean's Bar",
+        "kind": "Pub",
+        "lat": 53.422671,
+        "lon": -7.942265,
+        "cuisine": null,
+        "website": "https://www.seansbar.ie"
+      },
+      {
+        "name": "1810 Steakhouse",
+        "kind": "Restaurant",
+        "lat": 53.422993,
+        "lon": -7.944577,
+        "cuisine": "steak house",
+        "website": "https://www.1810steakhouse.ie/"
+      },
+      {
+        "name": "Apache Pizza",
+        "kind": "Fast food",
+        "lat": 53.421303,
+        "lon": -7.930701,
+        "cuisine": "pizza",
+        "website": "https://www.apache.ie"
+      },
+      {
+        "name": "Barrel & Bean Cafe",
+        "kind": "Café",
+        "lat": 53.686209,
+        "lon": -7.247989,
+        "cuisine": "sandwich, coffee shop",
+        "website": "https://www.foredistillery.ie/barrel-bean-cafe/"
+      },
+      {
+        "name": "Bethlehem Pizza",
+        "kind": "Fast food",
+        "lat": 53.417093,
+        "lon": -7.905468,
+        "cuisine": "pizza",
+        "website": "https://www.bethlehemtakeaway.ie/"
+      },
+      {
+        "name": "Cafe No. 9",
+        "kind": "Café",
+        "lat": 53.525321,
+        "lon": -7.342371,
+        "cuisine": "coffee shop",
+        "website": "https://mullingarbandb.ie/"
+      },
+      {
+        "name": "Chicken Cloud",
+        "kind": "Fast food",
+        "lat": 53.417593,
+        "lon": -7.908404,
+        "cuisine": "fast food",
+        "website": "http://www.chickencloudathlone.ie"
+      },
+      {
+        "name": "Dead Centre Taproom",
+        "kind": "Pub",
+        "lat": 53.423581,
+        "lon": -7.940649,
+        "cuisine": null,
+        "website": "https://deadcentrebrewing.com"
+      },
+      {
+        "name": "Di Bella",
+        "kind": "Restaurant",
+        "lat": 53.422474,
+        "lon": -7.943014,
+        "cuisine": "italian",
+        "website": "https://www.dibella.ie/"
+      },
+      {
+        "name": "Domino's",
+        "kind": "Fast food",
+        "lat": 53.526788,
+        "lon": -7.34037,
+        "cuisine": "pizza",
+        "website": "https://www.dominos.ie/"
+      },
+      {
+        "name": "Eddie Rocket's",
+        "kind": "Fast food",
+        "lat": 53.422533,
+        "lon": -7.934659,
+        "cuisine": "american",
+        "website": "https://www.eddierockets.ie/"
+      },
+      {
+        "name": "FINE",
+        "kind": "Café",
+        "lat": 53.423372,
+        "lon": -7.939652,
+        "cuisine": "coffee shop",
+        "website": "https://www.fineathlone.ie"
+      },
+      {
+        "name": "IL Colosseo",
+        "kind": "Restaurant",
+        "lat": 53.42593,
+        "lon": -7.940512,
+        "cuisine": "italian",
+        "website": "https://ilcolosseo-athlone.com/"
+      },
+      {
+        "name": "Kafe U",
+        "kind": "Café",
+        "lat": 53.416972,
+        "lon": -7.904887,
+        "cuisine": null,
+        "website": "https://www.kafeu.ie/"
+      },
+      {
+        "name": "La Provence Brasserie",
+        "kind": "Restaurant",
+        "lat": 53.424272,
+        "lon": -7.934727,
+        "cuisine": null,
+        "website": "https://www.marriott.com/en-us/hotels/gwysi-sheraton-athlone-hotel/dining/"
+      },
+      {
+        "name": "Loaves & Fishes",
+        "kind": "Restaurant",
+        "lat": 53.422297,
+        "lon": -7.944509,
+        "cuisine": null,
+        "website": "https://www.facebook.com/loavesandfishesathlone/"
+      },
+      {
+        "name": "Lotus Chinese Take-Away",
+        "kind": "Fast food",
+        "lat": 53.423071,
+        "lon": -7.944558,
+        "cuisine": "chinese",
+        "website": "https://lotuschinesetakeaway.ie/"
+      },
+      {
+        "name": "Mangal Grill",
+        "kind": "Fast food",
+        "lat": 53.416995,
+        "lon": -7.904986,
+        "cuisine": "turkish",
+        "website": "https://mangalgrill.ie/welcome"
+      },
+      {
+        "name": "Mister Pizza",
+        "kind": "Fast food",
+        "lat": 53.42184,
+        "lon": -7.946862,
+        "cuisine": "pasta, pizza",
+        "website": "https://mister-pizza.ie/"
+      },
+      {
+        "name": "Mizzoni's Pizza",
+        "kind": "Fast food",
+        "lat": 53.431279,
+        "lon": -7.945423,
+        "cuisine": "pizza",
+        "website": "https://www.mizzoni.ie"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Annebrook House Hotel",
+        "kind": "Hotel",
+        "lat": 53.524828,
+        "lon": -7.338616,
+        "cuisine": null,
+        "website": "https://www.annebrook.ie/"
+      },
+      {
+        "name": "The Newbury Hotel",
+        "kind": "Hotel",
+        "lat": 53.524198,
+        "lon": -7.347127,
+        "cuisine": null,
+        "website": "http://www.newburyhotel.ie/"
+      },
+      {
+        "name": "Bloomfield House Hotel",
+        "kind": "Hotel",
+        "lat": 53.487727,
+        "lon": -7.362192,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Creggan Court Hotel",
+        "kind": "Hotel",
+        "lat": 53.410407,
+        "lon": -7.893986,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Greville Arms Hotel",
+        "kind": "Hotel",
+        "lat": 53.525541,
+        "lon": -7.340847,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Inny River Lodge",
+        "kind": "Guesthouse",
+        "lat": 53.618232,
+        "lon": -7.524745,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mullingar Park Hotel",
+        "kind": "Hotel",
+        "lat": 53.522969,
+        "lon": -7.30397,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Prince Of Wales",
+        "kind": "Hotel",
+        "lat": 53.423962,
+        "lon": -7.938479,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Shelmalier House",
+        "kind": "Guesthouse",
+        "lat": 53.422658,
+        "lon": -7.904894,
+        "cuisine": null,
+        "website": "http://shelmalierhouse.com/"
+      },
+      {
+        "name": "Bastion B&B",
+        "kind": "Guesthouse",
+        "lat": 53.422396,
+        "lon": -7.943587,
+        "cuisine": null,
+        "website": "https://www.thebastion.net"
+      },
+      {
+        "name": "Caraiosa Centre",
+        "kind": "Guesthouse",
+        "lat": 53.455394,
+        "lon": -7.630912,
+        "cuisine": null,
+        "website": "https://caraiosacentre.com/"
+      },
+      {
+        "name": "Dunromin Lodge",
+        "kind": "Guesthouse",
+        "lat": 53.533734,
+        "lon": -7.605283,
+        "cuisine": null,
+        "website": "http://www.dunrominlodge.com/"
+      },
+      {
+        "name": "Shines Guest Accommodation",
+        "kind": "Guesthouse",
+        "lat": 53.423331,
+        "lon": -7.970491,
+        "cuisine": null,
+        "website": "www.shinesguesthouse.com"
+      },
+      {
+        "name": "Village B&B",
+        "kind": "Guesthouse",
+        "lat": 53.423713,
+        "lon": -7.76628,
+        "cuisine": null,
+        "website": "https://www.thevillagebnb.com/"
+      },
+      {
+        "name": "Arch House B&B",
+        "kind": "Guesthouse",
+        "lat": 53.422444,
+        "lon": -7.934335,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Austin Friar Hotel",
+        "kind": "Hotel",
+        "lat": 53.526288,
+        "lon": -7.337241,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Benown House B&B",
+        "kind": "Guesthouse",
+        "lat": 53.475109,
+        "lon": -7.865345,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Castledaly Manor",
+        "kind": "Guesthouse",
+        "lat": 53.378303,
+        "lon": -7.801644,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Glenmore House B&B",
+        "kind": "Guesthouse",
+        "lat": 53.52485,
+        "lon": -7.321409,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Harry's",
+        "kind": "Hotel",
+        "lat": 53.454834,
+        "lon": -7.099907,
+        "cuisine": null,
+        "website": null
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Athlone Castle",
+        "kind": "Museum",
+        "lat": 53.423151,
+        "lon": -7.942697,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballynegall House",
+        "kind": "Ruins",
+        "lat": 53.577574,
+        "lon": -7.333687,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clonyn Castle",
+        "kind": "Castle",
+        "lat": 53.613875,
+        "lon": -7.100802,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dunnamona Motte",
+        "kind": "Archaeological site",
+        "lat": 53.499512,
+        "lon": -7.783632,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Luan Gallery",
+        "kind": "Gallery",
+        "lat": 53.423876,
+        "lon": -7.942897,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Mortimer's Castle",
+        "kind": "Archaeological site",
+        "lat": 53.648575,
+        "lon": -7.34138,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Portlick Motte",
+        "kind": "Archaeological site",
+        "lat": 53.491111,
+        "lon": -7.910544,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Raharney Ringfort",
+        "kind": "Archaeological site",
+        "lat": 53.52171,
+        "lon": -7.10426,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Augustinian Monks Memorial Statue",
+        "kind": "Memorial",
+        "lat": 53.526026,
+        "lon": -7.33727,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Ballinlough Castle",
+        "kind": "Castle",
+        "lat": 53.636646,
+        "lon": -7.025661,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Delvin Castle",
+        "kind": "Attraction",
+        "lat": 53.611207,
+        "lon": -7.093621,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Knockdrin Castle",
+        "kind": "Castle",
+        "lat": 53.573913,
+        "lon": -7.314458,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Moydrum Castle",
+        "kind": "Castle",
+        "lat": 53.427923,
+        "lon": -7.863198,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Myles O'Reilly Monument",
+        "kind": "Memorial",
+        "lat": 53.779957,
+        "lon": -7.388949,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Cat Stone",
+        "kind": "Archaeological site",
+        "lat": 53.48691,
+        "lon": -7.565472,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Tudenham Park House",
+        "kind": "Ruins",
+        "lat": 53.472339,
+        "lon": -7.371155,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Chimera Gallery",
+        "kind": "Gallery",
+        "lat": 53.525125,
+        "lon": -7.343562,
+        "cuisine": null,
+        "website": "https://chimera-gallery.com/"
+      },
+      {
+        "name": "'The Bargain'",
+        "kind": "Artwork",
+        "lat": 53.395813,
+        "lon": -7.724694,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "1916 Centenery Commemoration",
+        "kind": "Memorial",
+        "lat": 53.424164,
+        "lon": -7.938015,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "27th Lock Keep's House",
+        "kind": "Ruins",
+        "lat": 53.53714,
+        "lon": -7.473006,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}

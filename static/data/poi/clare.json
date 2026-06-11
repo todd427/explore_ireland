@@ -1,0 +1,498 @@
+{
+  "slug": "clare",
+  "name": "Clare",
+  "source": "OpenStreetMap contributors (ODbL)",
+  "categories": {
+    "eat_drink": [
+      {
+        "name": "Wild Honey Inn",
+        "kind": "Restaurant",
+        "lat": 53.028675,
+        "lon": -9.295803,
+        "cuisine": "regional",
+        "website": null
+      },
+      {
+        "name": "Aberdeen Bar",
+        "kind": "Bar",
+        "lat": 52.931982,
+        "lon": -9.34474,
+        "cuisine": null,
+        "website": "https://www.lahinchcoasthotel.ie/dining/"
+      },
+      {
+        "name": "Brogan’s",
+        "kind": "Restaurant",
+        "lat": 52.843509,
+        "lon": -8.98267,
+        "cuisine": "regional",
+        "website": "https://www.brogansbarandrestaurant.com/"
+      },
+      {
+        "name": "Cassidy’s Pub and Restaurant",
+        "kind": "Pub",
+        "lat": 53.035376,
+        "lon": -9.076392,
+        "cuisine": null,
+        "website": "https://www.cassidyspub.com/"
+      },
+      {
+        "name": "Coffee Shop",
+        "kind": "Café",
+        "lat": 53.103753,
+        "lon": -9.169426,
+        "cuisine": null,
+        "website": "http://www.burrencollege.ie/facilities/cafe.html"
+      },
+      {
+        "name": "Dromoland Castle Cocktail Bar",
+        "kind": "Bar",
+        "lat": 52.783477,
+        "lon": -8.90589,
+        "cuisine": null,
+        "website": "https://www.dromoland.ie/cocktail-bar/"
+      },
+      {
+        "name": "Durty Nelly’s",
+        "kind": "Pub",
+        "lat": 52.696412,
+        "lon": -8.811694,
+        "cuisine": null,
+        "website": "https://www.durtynellys.ie/"
+      },
+      {
+        "name": "Fitzpatrick’s Bar",
+        "kind": "Pub",
+        "lat": 53.016051,
+        "lon": -9.377114,
+        "cuisine": null,
+        "website": "https://www.hoteldoolin.ie/fitzs-pub-and-eatery.html"
+      },
+      {
+        "name": "Flanagan’s",
+        "kind": "Pub",
+        "lat": 52.932866,
+        "lon": -9.346128,
+        "cuisine": null,
+        "website": "https://www.westernherd.com/our-bar"
+      },
+      {
+        "name": "Glas Restaurant",
+        "kind": "Restaurant",
+        "lat": 53.01615,
+        "lon": -9.376937,
+        "cuisine": "regional",
+        "website": "https://www.hoteldoolin.ie/glas-restaurant.html"
+      },
+      {
+        "name": "Johnny Burke’s",
+        "kind": "Pub",
+        "lat": 52.845287,
+        "lon": -9.437022,
+        "cuisine": "seafood, burger, curry",
+        "website": "https://www.armadahotel.com/johnny-burkes-bar-the-armada-hotel.html"
+      },
+      {
+        "name": "Joseph McHugh's",
+        "kind": "Restaurant",
+        "lat": 52.938691,
+        "lon": -9.391546,
+        "cuisine": "irish",
+        "website": "https://josephmchughspub.ie/"
+      },
+      {
+        "name": "Linnane’s Lobster Bar",
+        "kind": "Restaurant",
+        "lat": 53.155918,
+        "lon": -9.075781,
+        "cuisine": "seafood",
+        "website": "https://www.linnanesbar.com/"
+      },
+      {
+        "name": "Moroney’s",
+        "kind": "Bar",
+        "lat": 52.843215,
+        "lon": -8.983956,
+        "cuisine": null,
+        "website": "https://moroneysbar.com"
+      },
+      {
+        "name": "New Dynasty",
+        "kind": "Fast food",
+        "lat": 52.814603,
+        "lon": -8.964199,
+        "cuisine": "chinese",
+        "website": "https://www.newdynastychinese.ie/"
+      },
+      {
+        "name": "Nuala's Bar & Restaurant",
+        "kind": "Bar",
+        "lat": 52.898722,
+        "lon": -8.540422,
+        "cuisine": null,
+        "website": "https://nualas.ie/"
+      },
+      {
+        "name": "Stone Wall Cafe, Pizzeria & Off Licence",
+        "kind": "Café",
+        "lat": 53.016253,
+        "lon": -9.376763,
+        "cuisine": "italian pizza, cake, pastry, sandwich",
+        "website": "https://www.hoteldoolin.ie/stone-wall-cafe-and-pizzeria.html"
+      },
+      {
+        "name": "Storehouse Restaurant",
+        "kind": "Restaurant",
+        "lat": 52.845061,
+        "lon": -8.982623,
+        "cuisine": null,
+        "website": "https://knoxs.ie/storehouse-restaurant/"
+      },
+      {
+        "name": "The Boathouse",
+        "kind": "Restaurant",
+        "lat": 52.848908,
+        "lon": -8.475262,
+        "cuisine": null,
+        "website": "http://annacarriga.com/theboathouse/"
+      },
+      {
+        "name": "The Pipers Inn",
+        "kind": "Pub",
+        "lat": 52.8524,
+        "lon": -8.4794,
+        "cuisine": null,
+        "website": "www.thepipersinn.ie"
+      }
+    ],
+    "stay": [
+      {
+        "name": "Dromoland Castle",
+        "kind": "Hotel",
+        "lat": 52.783577,
+        "lon": -8.905699,
+        "cuisine": null,
+        "website": "https://www.dromoland.ie/"
+      },
+      {
+        "name": "Trump International Golf Links & Hotel",
+        "kind": "Hotel",
+        "lat": 52.746461,
+        "lon": -9.503291,
+        "cuisine": null,
+        "website": "https://www.trumphotels.com/ireland"
+      },
+      {
+        "name": "Moy House",
+        "kind": "Guesthouse",
+        "lat": 52.917938,
+        "lon": -9.348792,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Park Inn",
+        "kind": "Hotel",
+        "lat": 52.690828,
+        "lon": -8.919702,
+        "cuisine": null,
+        "website": "http://parkinn.ie/aiporthotel-shannon"
+      },
+      {
+        "name": "Wild Atlantic Lodge",
+        "kind": "Hotel",
+        "lat": 53.115822,
+        "lon": -9.148335,
+        "cuisine": null,
+        "website": "https://www.thewildatlanticlodge.com/"
+      },
+      {
+        "name": "Atlantic Hotel",
+        "kind": "Hotel",
+        "lat": 52.932374,
+        "lon": -9.345901,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Blackberry Lodge Accomodation",
+        "kind": "Guesthouse",
+        "lat": 53.020586,
+        "lon": -9.366493,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bunratty Manor Hotel",
+        "kind": "Hotel",
+        "lat": 52.698609,
+        "lon": -8.818006,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clare's Rock Hostel",
+        "kind": "Hostel",
+        "lat": 53.034015,
+        "lon": -9.077014,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Clareville House Bed & Breakfast",
+        "kind": "Guesthouse",
+        "lat": 52.8999,
+        "lon": -8.540743,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Glasha Meadows B&B",
+        "kind": "Guesthouse",
+        "lat": 53.033779,
+        "lon": -9.361712,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Old Ground Hotel",
+        "kind": "Hotel",
+        "lat": 52.84238,
+        "lon": -8.982518,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Shamrock Inn Hotel",
+        "kind": "Hotel",
+        "lat": 52.932236,
+        "lon": -9.345849,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "The Townhouse",
+        "kind": "Guesthouse",
+        "lat": 52.85586,
+        "lon": -9.401035,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Vaughan's Anchor Inn",
+        "kind": "Guesthouse",
+        "lat": 52.93876,
+        "lon": -9.391117,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Blue Horizons B&B",
+        "kind": "Guesthouse",
+        "lat": 52.884718,
+        "lon": -9.382758,
+        "cuisine": null,
+        "website": "http://www.bluehorizons.ie"
+      },
+      {
+        "name": "Bridgeview Bed & Breakfast",
+        "kind": "Guesthouse",
+        "lat": 52.885211,
+        "lon": -8.941676,
+        "cuisine": null,
+        "website": "https://bridgeview.tripcombined.com/"
+      },
+      {
+        "name": "Coach House Lodge B&B",
+        "kind": "Guesthouse",
+        "lat": 52.922787,
+        "lon": -9.346751,
+        "cuisine": null,
+        "website": "https://coachhouse.clareireland.net/"
+      },
+      {
+        "name": "Cois Na Sionna B&B",
+        "kind": "Guesthouse",
+        "lat": 52.617594,
+        "lon": -9.381875,
+        "cuisine": null,
+        "website": "http://www.coisnasionna.com"
+      },
+      {
+        "name": "DOOLIN COURT S/C Cottages",
+        "kind": "Guesthouse",
+        "lat": 53.017193,
+        "lon": -9.381258,
+        "cuisine": null,
+        "website": "https://rentacottage.ie/holiday-homes/cottages/clare/doolin.htm"
+      }
+    ],
+    "see_do": [
+      {
+        "name": "Slievenaglasha Wedge Tomb",
+        "kind": "Archaeological site",
+        "lat": 53.017341,
+        "lon": -9.051782,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Aillwee Cave",
+        "kind": "Attraction",
+        "lat": 53.088998,
+        "lon": -9.143708,
+        "cuisine": null,
+        "website": "https://www.aillweecave.ie/"
+      },
+      {
+        "name": "Bridget's Well;St Bridget's Well",
+        "kind": "Attraction",
+        "lat": 52.952132,
+        "lon": -9.422446,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cromlech",
+        "kind": "Archaeological site",
+        "lat": 52.988139,
+        "lon": -9.095543,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Doorty's Cross",
+        "kind": "Attraction",
+        "lat": 52.990735,
+        "lon": -9.216795,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "High Cross",
+        "kind": "Attraction",
+        "lat": 52.990456,
+        "lon": -9.219023,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "O'Connell Column",
+        "kind": "Monument",
+        "lat": 52.844378,
+        "lon": -8.982551,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "O’Briens Monument",
+        "kind": "Monument",
+        "lat": 52.951836,
+        "lon": -9.42283,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Sheela na Gig",
+        "kind": "Artwork",
+        "lat": 52.970309,
+        "lon": -9.085602,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Dolphin Watch Carrigaholt",
+        "kind": "Attraction",
+        "lat": 52.603956,
+        "lon": -9.708789,
+        "cuisine": null,
+        "website": "https://www.dolphinwatch.ie/"
+      },
+      {
+        "name": "Vandeleur Walled Garden",
+        "kind": "Attraction",
+        "lat": 52.636514,
+        "lon": -9.47288,
+        "cuisine": null,
+        "website": "https://www.vandeleurwalledgarden.ie/"
+      },
+      {
+        "name": "Alice and Gwendoline Cave",
+        "kind": "Museum",
+        "lat": 52.817744,
+        "lon": -9.007565,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Atlantic Air Venture",
+        "kind": "Museum",
+        "lat": 52.713854,
+        "lon": -8.870178,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bohernamias",
+        "kind": "Ruins",
+        "lat": 53.085901,
+        "lon": -8.998924,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bridge of Ross",
+        "kind": "Viewpoint",
+        "lat": 52.59094,
+        "lon": -9.874512,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Bunratty Castle and Folk Park",
+        "kind": "Attraction",
+        "lat": 52.697834,
+        "lon": -8.812141,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Caiseal Óir",
+        "kind": "Artwork",
+        "lat": 52.696364,
+        "lon": -8.812737,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carrigaholt Fort ( 19th Century)",
+        "kind": "Castle",
+        "lat": 52.583769,
+        "lon": -9.696936,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Carrigoran House",
+        "kind": "Ruins",
+        "lat": 52.751231,
+        "lon": -8.909929,
+        "cuisine": null,
+        "website": null
+      },
+      {
+        "name": "Cast Iron Bridge",
+        "kind": "Attraction",
+        "lat": 52.75749,
+        "lon": -8.485112,
+        "cuisine": null,
+        "website": null
+      }
+    ]
+  },
+  "counts": {
+    "eat_drink": 20,
+    "stay": 20,
+    "see_do": 20
+  }
+}
