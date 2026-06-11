@@ -21,4 +21,9 @@ async def home(request: Request):
 async def county_page(request: Request, slug: str):
     from routers.counties import COUNTY_DATA
     county = COUNTY_DATA.get(slug)
-    return templates.TemplateResponse("county.html", {"request": request, "county": county})
+    status_code = 200 if county else 404
+    return templates.TemplateResponse(
+        "county.html",
+        {"request": request, "county": county},
+        status_code=status_code,
+    )

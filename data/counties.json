@@ -4,19 +4,32 @@
     "name": "Carlow",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Dolmen County",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Carlow Town",
+      "Tullow",
+      "Bagenalstown",
+      "Borris"
+    ],
+    "key_industries": [
+      "Tillage & agriculture",
+      "Food processing",
+      "Brewing"
+    ],
+    "key_history": [
+      "Brownshill Dolmen — reputedly the heaviest capstone in Europe",
+      "Norman Carlow Castle guarded the River Barrow",
+      "Site of an early clash in the 1798 Rebellion"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.72918,
+      "lng": -6.82286
     }
   },
   {
@@ -24,19 +37,32 @@
     "name": "Cavan",
     "region": "Ulster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Breffni County",
     "colours": [
       "#ffcc00",
       "#cc0000"
     ],
     "primary_colour": "#ffcc00",
     "secondary_colour": "#cc0000",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Cavan Town",
+      "Belturbet",
+      "Virginia",
+      "Ballyjamesduff"
+    ],
+    "key_industries": [
+      "Dairy & agriculture",
+      "Manufacturing",
+      "Tourism (lakelands)"
+    ],
+    "key_history": [
+      "Drumlin-and-lake landscape with the Shannon Pot, source of the River Shannon",
+      "Heartland of the O'Reilly clan of East Breffni",
+      "One of the three Ulster counties in the Republic"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.99523,
+      "lng": -7.35246
     }
   },
   {
@@ -44,19 +70,32 @@
     "name": "Clare",
     "region": "Munster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Banner County",
     "colours": [
       "#990000",
       "#ffffff"
     ],
     "primary_colour": "#990000",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Ennis",
+      "Kilrush",
+      "Doolin",
+      "Lahinch"
+    ],
+    "key_industries": [
+      "Tourism",
+      "Aviation (Shannon)",
+      "Agriculture"
+    ],
+    "key_history": [
+      "The Cliffs of Moher and the limestone Burren draw visitors worldwide",
+      "Daniel O'Connell's 1828 by-election win here forced Catholic Emancipation",
+      "A stronghold of traditional Irish music"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.83974,
+      "lng": -9.0434
     }
   },
   {
@@ -64,19 +103,33 @@
     "name": "Cork",
     "region": "Munster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Rebel County",
     "colours": [
       "#990000",
       "#ffffff"
     ],
     "primary_colour": "#990000",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Cork City",
+      "Cobh",
+      "Kinsale",
+      "Midleton",
+      "Youghal"
+    ],
+    "key_industries": [
+      "Pharmaceuticals & tech",
+      "Food & whiskey",
+      "Maritime & port"
+    ],
+    "key_history": [
+      "Cobh was the Titanic's final port of call in 1912",
+      "The Lusitania was sunk off the Old Head of Kinsale in 1915",
+      "Home county of Michael Collins, killed at Béal na Bláth in 1922"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.91743,
+      "lng": -8.83396
     }
   },
   {
@@ -84,19 +137,32 @@
     "name": "CorkCity",
     "region": "Ireland",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Real Capital",
     "colours": [
       "#339966",
       "#ffffff"
     ],
     "primary_colour": "#339966",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "English Market",
+      "St Fin Barre's Cathedral",
+      "Shandon",
+      "UCC"
+    ],
+    "key_industries": [
+      "Technology",
+      "Pharmaceuticals",
+      "Education & port"
+    ],
+    "key_history": [
+      "Grew from a 7th-century monastery founded by St Finbarr",
+      "Built on islands in the River Lee — its main streets are culverted channels",
+      "Much of the centre was burned by Crown forces in 1920"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.89999,
+      "lng": -8.49164
     }
   },
   {
@@ -104,19 +170,32 @@
     "name": "Donegal",
     "region": "Ulster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "Tír Chonaill",
     "colours": [
       "#ffcc00",
       "#cc0000"
     ],
     "primary_colour": "#ffcc00",
     "secondary_colour": "#cc0000",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Letterkenny",
+      "Donegal Town",
+      "Bundoran",
+      "Glenveagh"
+    ],
+    "key_industries": [
+      "Tourism",
+      "Fishing (Killybegs)",
+      "Donegal tweed"
+    ],
+    "key_history": [
+      "Land of the O'Donnell chieftains until the 1607 Flight of the Earls",
+      "Slieve League boasts some of Europe's highest sea cliffs",
+      "Holds Ireland's largest Gaeltacht (Irish-speaking region)"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.92305,
+      "lng": -7.90409
     }
   },
   {
@@ -124,19 +203,32 @@
     "name": "Dublin",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Pale",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Dublin City",
+      "Dún Laoghaire",
+      "Howth",
+      "Swords"
+    ],
+    "key_industries": [
+      "Technology (Silicon Docks)",
+      "Finance (IFSC)",
+      "Tourism & government"
+    ],
+    "key_history": [
+      "Founded as a Viking settlement at the 'black pool' (Dubh Linn)",
+      "The 1916 Easter Rising centred on the GPO on O'Connell Street",
+      "Trinity College holds the medieval Book of Kells"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.39323,
+      "lng": -6.28366
     }
   },
   {
@@ -144,19 +236,32 @@
     "name": "Galway",
     "region": "Connacht",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The City of the Tribes",
     "colours": [
       "#003399",
       "#ffffff"
     ],
     "primary_colour": "#003399",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Galway City",
+      "Clifden",
+      "Connemara",
+      "Aran Islands"
+    ],
+    "key_industries": [
+      "Medical technology",
+      "Tourism",
+      "Irish language & arts"
+    ],
+    "key_history": [
+      "Ruled for centuries by fourteen merchant 'tribes'",
+      "Connemara and the Aran Islands form a major Gaeltacht",
+      "The Spanish Arch recalls old trade links with Iberia"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.36284,
+      "lng": -8.94926
     }
   },
   {
@@ -164,19 +269,32 @@
     "name": "Kerry",
     "region": "Munster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Kingdom",
     "colours": [
       "#990000",
       "#ffffff"
     ],
     "primary_colour": "#990000",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Killarney",
+      "Tralee",
+      "Dingle",
+      "Kenmare"
+    ],
+    "key_industries": [
+      "Tourism",
+      "Dairy (Kerry Group)",
+      "Film & food"
+    ],
+    "key_history": [
+      "Carrauntoohil in the MacGillycuddy's Reeks is Ireland's highest peak",
+      "The monastic island of Skellig Michael is a UNESCO World Heritage Site",
+      "Home of Daniel O'Connell, 'The Liberator', at Derrynane"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.11923,
+      "lng": -9.72186
     }
   },
   {
@@ -184,19 +302,32 @@
     "name": "Kildare",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Thoroughbred County",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "The Curragh"
+    ],
+    "key_industries": [
+      "Bloodstock & racing",
+      "Pharmaceuticals",
+      "Commuter belt"
+    ],
+    "key_history": [
+      "The Curragh plain is the heart of Irish horse racing and the Irish National Stud",
+      "St Brigid founded her great monastery at Kildare ('church of the oak')",
+      "Maynooth is home to Ireland's national seminary and a university"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.19003,
+      "lng": -6.81856
     }
   },
   {
@@ -204,19 +335,32 @@
     "name": "Kilkenny",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Marble City",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Kilkenny City",
+      "Thomastown",
+      "Graiguenamanagh",
+      "Callan"
+    ],
+    "key_industries": [
+      "Tourism",
+      "Craft & design",
+      "Brewing (Smithwick's)"
+    ],
+    "key_history": [
+      "Kilkenny Castle was the seat of the powerful Butler/Ormonde dynasty",
+      "The 1366 Statutes of Kilkenny tried to curb Gaelic culture among settlers",
+      "Capital of Confederate Ireland in the 1640s; a hurling powerhouse"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.57433,
+      "lng": -7.23293
     }
   },
   {
@@ -224,19 +368,32 @@
     "name": "Laois",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The O'Moore County",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Portlaoise",
+      "Portarlington",
+      "Mountmellick",
+      "Abbeyleix"
+    ],
+    "key_industries": [
+      "Agriculture",
+      "Logistics & distribution",
+      "Tourism"
+    ],
+    "key_history": [
+      "The Rock of Dunamase is a dramatic ruined hilltop fortress",
+      "Formerly 'Queen's County', planted under Mary I in the 1550s",
+      "The Slieve Bloom Mountains rise along its western edge"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.98399,
+      "lng": -7.35698
     }
   },
   {
@@ -244,19 +401,31 @@
     "name": "Leitrim",
     "region": "Connacht",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Wild Rose County",
     "colours": [
       "#003399",
       "#ffffff"
     ],
     "primary_colour": "#003399",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Carrick-on-Shannon",
+      "Manorhamilton",
+      "Drumshanbo"
+    ],
+    "key_industries": [
+      "Tourism (waterways)",
+      "Agriculture",
+      "Craft distilling"
+    ],
+    "key_history": [
+      "Has the shortest coastline and smallest population of any Irish county",
+      "The Shannon–Erne Waterway threads through its drumlins and lakes",
+      "Birthplace of 1916 signatory Seán Mac Diarmada"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.14005,
+      "lng": -8.02289
     }
   },
   {
@@ -264,19 +433,32 @@
     "name": "Limerick",
     "region": "Munster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Treaty County",
     "colours": [
       "#990000",
       "#ffffff"
     ],
     "primary_colour": "#990000",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Limerick City",
+      "Adare",
+      "Newcastle West",
+      "Foynes"
+    ],
+    "key_industries": [
+      "Technology & manufacturing",
+      "Education (UL)",
+      "Agriculture"
+    ],
+    "key_history": [
+      "The 1691 Treaty of Limerick ended the Williamite War in Ireland",
+      "King John's Castle has guarded the Shannon since the 13th century",
+      "Foynes flying-boat base is the birthplace of Irish coffee"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.49553,
+      "lng": -8.75006
     }
   },
   {
@@ -284,19 +466,32 @@
     "name": "Longford",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Slashers",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Longford Town",
+      "Granard",
+      "Ballymahon",
+      "Edgeworthstown"
+    ],
+    "key_industries": [
+      "Agriculture",
+      "Manufacturing",
+      "Tourism"
+    ],
+    "key_history": [
+      "The Iron-Age Corlea Trackway, a preserved bog road, dates to 148 BC",
+      "Associated with writers Oliver Goldsmith and Maria Edgeworth",
+      "Royal Canal and Camlin river country in the Irish midlands"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.71301,
+      "lng": -7.72508
     }
   },
   {
@@ -304,19 +499,32 @@
     "name": "Louth",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Wee County",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Dundalk",
+      "Drogheda",
+      "Carlingford",
+      "Ardee"
+    ],
+    "key_industries": [
+      "Manufacturing & food",
+      "Brewing",
+      "Ports & logistics"
+    ],
+    "key_history": [
+      "Ireland's smallest county, on the Cooley Peninsula of the Táin Bó Cúailnge epic",
+      "Mellifont was Ireland's first Cistercian abbey (1142)",
+      "Monasterboice's high crosses are among the finest in Ireland"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.90927,
+      "lng": -6.4133
     }
   },
   {
@@ -324,19 +532,32 @@
     "name": "Mayo",
     "region": "Connacht",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Maritime County",
     "colours": [
       "#003399",
       "#ffffff"
     ],
     "primary_colour": "#003399",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Castlebar",
+      "Westport",
+      "Ballina",
+      "Achill Island"
+    ],
+    "key_industries": [
+      "Tourism",
+      "Agriculture",
+      "Medical devices"
+    ],
+    "key_history": [
+      "Knock Shrine marks a reported 1879 Marian apparition",
+      "The 1798 'Year of the French' saw the Races of Castlebar",
+      "Pirate queen Grace O'Malley (Granuaile) ruled its coast in the 1500s"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.92408,
+      "lng": -9.38414
     }
   },
   {
@@ -344,19 +565,32 @@
     "name": "Meath",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Royal County",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Navan",
+      "Trim",
+      "Kells",
+      "Hill of Tara"
+    ],
+    "key_industries": [
+      "Agriculture",
+      "Commuter belt",
+      "Heritage tourism"
+    ],
+    "key_history": [
+      "The Hill of Tara was the seat of the High Kings of Ireland",
+      "Newgrange in the Boyne Valley predates the pyramids and Stonehenge",
+      "Trim Castle is the largest Anglo-Norman castle in Ireland"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.63172,
+      "lng": -6.73184
     }
   },
   {
@@ -364,19 +598,32 @@
     "name": "Monaghan",
     "region": "Ulster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Farney County",
     "colours": [
       "#ffcc00",
       "#cc0000"
     ],
     "primary_colour": "#ffcc00",
     "secondary_colour": "#cc0000",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Monaghan Town",
+      "Carrickmacross",
+      "Clones",
+      "Castleblayney"
+    ],
+    "key_industries": [
+      "Poultry & mushrooms",
+      "Food processing",
+      "Carrickmacross lace"
+    ],
+    "key_history": [
+      "A county of drumlins and small lakes in the historic province of Ulster",
+      "Birthplace of poet Patrick Kavanagh at Inniskeen",
+      "Carrickmacross has been famous for fine lace since the 1820s"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.15544,
+      "lng": -6.92354
     }
   },
   {
@@ -384,19 +631,32 @@
     "name": "Offaly",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Faithful County",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Tullamore",
+      "Birr",
+      "Banagher",
+      "Clonmacnoise"
+    ],
+    "key_industries": [
+      "Whiskey (Tullamore D.E.W.)",
+      "Agriculture",
+      "Peatlands & energy"
+    ],
+    "key_history": [
+      "Clonmacnoise was one of medieval Europe's great monastic centres",
+      "Birr Castle's 1845 'Leviathan' was the world's largest telescope for decades",
+      "Formerly 'King's County', renamed at independence"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.20802,
+      "lng": -7.6004
     }
   },
   {
@@ -404,19 +664,32 @@
     "name": "Roscommon",
     "region": "Connacht",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Rossies",
     "colours": [
       "#003399",
       "#ffffff"
     ],
     "primary_colour": "#003399",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Roscommon Town",
+      "Boyle",
+      "Castlerea",
+      "Strokestown"
+    ],
+    "key_industries": [
+      "Livestock & agriculture",
+      "Tourism",
+      "Peat"
+    ],
+    "key_history": [
+      "Rathcroghan was the legendary capital of Connacht and seat of Queen Medb",
+      "Strokestown Park houses the National Famine Museum",
+      "Birthplace of Douglas Hyde, Ireland's first President"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.72356,
+      "lng": -8.2464
     }
   },
   {
@@ -424,19 +697,32 @@
     "name": "Sligo",
     "region": "Connacht",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Yeats County",
     "colours": [
       "#003399",
       "#ffffff"
     ],
     "primary_colour": "#003399",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Sligo Town",
+      "Strandhill",
+      "Enniscrone",
+      "Tobercurry"
+    ],
+    "key_industries": [
+      "Tourism & surfing",
+      "Agriculture",
+      "Services"
+    ],
+    "key_history": [
+      "W. B. Yeats is buried at Drumcliffe 'under bare Ben Bulben's head'",
+      "Carrowmore is one of Europe's largest megalithic cemeteries",
+      "Knocknarea is crowned by the cairn said to hold Queen Maeve"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.15798,
+      "lng": -8.62412
     }
   },
   {
@@ -444,19 +730,32 @@
     "name": "Tipperary",
     "region": "Munster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Premier County",
     "colours": [
       "#990000",
       "#ffffff"
     ],
     "primary_colour": "#990000",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Clonmel",
+      "Thurles",
+      "Cashel",
+      "Nenagh"
+    ],
+    "key_industries": [
+      "Dairy (Golden Vale)",
+      "Agri-food",
+      "Tourism"
+    ],
+    "key_history": [
+      "The Rock of Cashel was the seat of the kings of Munster",
+      "The GAA was founded in Thurles in 1884",
+      "Inspired the WWI marching song 'It's a Long Way to Tipperary'"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.64321,
+      "lng": -7.95824
     }
   },
   {
@@ -464,19 +763,32 @@
     "name": "Waterford",
     "region": "Munster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Déise",
     "colours": [
       "#990000",
       "#ffffff"
     ],
     "primary_colour": "#990000",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Waterford City",
+      "Dungarvan",
+      "Tramore",
+      "Ardmore"
+    ],
+    "key_industries": [
+      "Waterford Crystal",
+      "Pharmaceuticals",
+      "Agri-food (the blaa)"
+    ],
+    "key_history": [
+      "Founded by Vikings in 914, it is Ireland's oldest city",
+      "Reginald's Tower has stood over the quays for a millennium",
+      "The 1170 marriage of Strongbow and Aoife sealed the Norman conquest"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.17366,
+      "lng": -7.59656
     }
   },
   {
@@ -484,19 +796,32 @@
     "name": "Westmeath",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Lake County",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Mullingar",
+      "Athlone",
+      "Belvedere",
+      "Lough Ennell"
+    ],
+    "key_industries": [
+      "Beef & agriculture",
+      "Manufacturing",
+      "Tourism"
+    ],
+    "key_history": [
+      "Athlone sits at Ireland's geographic centre on the River Shannon",
+      "Sean's Bar in Athlone claims to be Ireland's oldest pub",
+      "Belvedere House is famed for its Georgian gardens and follies"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.52913,
+      "lng": -7.44278
     }
   },
   {
@@ -504,19 +829,32 @@
     "name": "Wexford",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Model County",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Wexford Town",
+      "Enniscorthy",
+      "Gorey",
+      "New Ross"
+    ],
+    "key_industries": [
+      "Agriculture & soft fruit",
+      "Tourism",
+      "Opera Festival"
+    ],
+    "key_history": [
+      "The 1798 Rebellion's fiercest fighting was at Vinegar Hill, Enniscorthy",
+      "The Normans first landed nearby at Bannow Bay in 1169",
+      "The Kennedy ancestral homestead stands at Dunganstown near New Ross"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.45957,
+      "lng": -6.57036
     }
   },
   {
@@ -524,19 +862,32 @@
     "name": "Wicklow",
     "region": "Leinster",
     "country_group": "Ireland",
-    "motto": "",
+    "motto": "The Garden of Ireland",
     "colours": [
       "#006633",
       "#ffffff"
     ],
     "primary_colour": "#006633",
     "secondary_colour": "#ffffff",
-    "key_places": [],
-    "key_industries": [],
-    "key_history": [],
+    "key_places": [
+      "Wicklow Town",
+      "Bray",
+      "Greystones",
+      "Glendalough"
+    ],
+    "key_industries": [
+      "Tourism",
+      "Film",
+      "Agriculture"
+    ],
+    "key_history": [
+      "Glendalough was a monastic city founded by St Kevin in the 6th century",
+      "The Military Road was cut through the mountains to flush out 1798 rebels",
+      "Powerscourt's gardens and waterfall are among Ireland's finest"
+    ],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.97866,
+      "lng": -6.37212
     }
   },
   {
@@ -555,8 +906,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.35593,
+      "lng": -2.47523
     }
   },
   {
@@ -575,8 +926,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.19543,
+      "lng": -0.47774
     }
   },
   {
@@ -595,8 +946,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.69253,
+      "lng": -2.46763
     }
   },
   {
@@ -615,8 +966,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.81937,
+      "lng": -3.03052
     }
   },
   {
@@ -635,8 +986,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 50.7429,
+      "lng": -1.85611
     }
   },
   {
@@ -655,8 +1006,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 50.7429,
+      "lng": -1.85611
     }
   },
   {
@@ -675,8 +1026,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.4081,
+      "lng": -0.73973
     }
   },
   {
@@ -695,8 +1046,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.84476,
+      "lng": -1.85445
     }
   },
   {
@@ -715,8 +1066,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 50.84533,
+      "lng": -0.14129
     }
   },
   {
@@ -735,8 +1086,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.72129,
+      "lng": -1.97335
     }
   },
   {
@@ -755,8 +1106,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.68933,
+      "lng": -1.84039
     }
   },
   {
@@ -775,8 +1126,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.59043,
+      "lng": -2.89958
     }
   },
   {
@@ -795,8 +1146,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.54865,
+      "lng": -1.55276
     }
   },
   {
@@ -815,8 +1166,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.91398,
+      "lng": -1.4716
     }
   },
   {
@@ -835,8 +1186,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.93415,
+      "lng": -1.68598
     }
   },
   {
@@ -855,8 +1206,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.34461,
+      "lng": -2.7156
     }
   },
   {
@@ -875,8 +1226,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.66941,
+      "lng": -1.25863
     }
   },
   {
@@ -895,8 +1246,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.10791,
+      "lng": -2.73765
     }
   },
   {
@@ -915,8 +1266,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 50.67514,
+      "lng": -1.29789
     }
   },
   {
@@ -935,8 +1286,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 49.93591,
+      "lng": -6.31678
     }
   },
   {
@@ -955,8 +1306,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.22024,
+      "lng": 0.73175
     }
   },
   {
@@ -975,8 +1326,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.76382,
+      "lng": -0.33507
     }
   },
   {
@@ -995,8 +1346,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.62738,
+      "lng": -1.76324
     }
   },
   {
@@ -1015,8 +1366,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.82577,
+      "lng": -1.50596
     }
   },
   {
@@ -1035,8 +1386,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.89429,
+      "lng": -0.42564
     }
   },
   {
@@ -1055,8 +1406,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.41517,
+      "lng": 0.55519
     }
   },
   {
@@ -1075,8 +1426,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.08381,
+      "lng": -0.73353
     }
   },
   {
@@ -1095,8 +1446,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.18794,
+      "lng": -1.4166
     }
   },
   {
@@ -1115,8 +1466,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.55186,
+      "lng": -2.04777
     }
   },
   {
@@ -1135,8 +1486,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.61051,
+      "lng": -0.25188
     }
   },
   {
@@ -1155,8 +1506,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 50.39441,
+      "lng": -4.12442
     }
   },
   {
@@ -1175,8 +1526,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.40444,
+      "lng": -1.5506
     }
   },
   {
@@ -1195,8 +1546,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.09886,
+      "lng": -2.93905
     }
   },
   {
@@ -1215,8 +1566,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.54217,
+      "lng": -2.45673
     }
   },
   {
@@ -1235,8 +1586,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.54702,
+      "lng": 0.70758
     }
   },
   {
@@ -1255,8 +1606,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.45954,
+      "lng": -2.72364
     }
   },
   {
@@ -1275,8 +1626,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.56257,
+      "lng": -1.33129
     }
   },
   {
@@ -1295,8 +1646,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.21977,
+      "lng": 1.0604
     }
   },
   {
@@ -1315,8 +1666,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.24709,
+      "lng": -0.41889
     }
   },
   {
@@ -1335,8 +1686,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.57145,
+      "lng": -1.73951
     }
   },
   {
@@ -1355,8 +1706,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.7302,
+      "lng": -2.48871
     }
   },
   {
@@ -1375,8 +1726,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.50718,
+      "lng": 0.36569
     }
   },
   {
@@ -1395,8 +1746,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 50.44168,
+      "lng": -3.55309
     }
   },
   {
@@ -1415,8 +1766,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.66069,
+      "lng": -1.41168
     }
   },
   {
@@ -1435,8 +1786,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.44998,
+      "lng": -1.31847
     }
   },
   {
@@ -1455,8 +1806,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 50.95682,
+      "lng": -0.49249
     }
   },
   {
@@ -1475,8 +1826,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.36601,
+      "lng": -3.0745
     }
   },
   {
@@ -1495,8 +1846,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.58633,
+      "lng": -2.12632
     }
   },
   {
@@ -1515,8 +1866,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.95875,
+      "lng": -1.06138
     }
   },
   {
@@ -1535,8 +1886,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.70173,
+      "lng": -6.19765
     }
   },
   {
@@ -1555,8 +1906,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.54288,
+      "lng": -5.63356
     }
   },
   {
@@ -1575,8 +1926,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.36926,
+      "lng": -6.45645
     }
   },
   {
@@ -1595,8 +1946,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.60406,
+      "lng": -5.94188
     }
   },
   {
@@ -1615,8 +1966,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.81787,
+      "lng": -7.36181
     }
   },
   {
@@ -1635,8 +1986,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.44257,
+      "lng": -7.50293
     }
   },
   {
@@ -1655,8 +2006,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.87486,
+      "lng": -6.10472
     }
   },
   {
@@ -1675,8 +2026,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.62195,
+      "lng": -6.79093
     }
   },
   {
@@ -1695,8 +2046,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 54.23239,
+      "lng": -6.07661
     }
   },
   {
@@ -1715,8 +2066,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 57.15697,
+      "lng": -2.18558
     }
   },
   {
@@ -1735,8 +2086,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 57.24172,
+      "lng": -2.62993
     }
   },
   {
@@ -1755,8 +2106,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 56.72458,
+      "lng": -2.91987
     }
   },
   {
@@ -1775,8 +2126,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 56.12891,
+      "lng": -5.50506
     }
   },
   {
@@ -1795,8 +2146,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.9245,
+      "lng": -3.2885
     }
   },
   {
@@ -1815,8 +2166,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 56.15059,
+      "lng": -3.74219
     }
   },
   {
@@ -1835,8 +2186,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.07608,
+      "lng": -3.96187
     }
   },
   {
@@ -1855,8 +2206,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 56.47785,
+      "lng": -2.97012
     }
   },
   {
@@ -1875,8 +2226,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.48541,
+      "lng": -4.31436
     }
   },
   {
@@ -1895,8 +2246,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.95603,
+      "lng": -4.22555
     }
   },
   {
@@ -1915,8 +2266,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.9409,
+      "lng": -2.71984
     }
   },
   {
@@ -1935,8 +2286,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.75322,
+      "lng": -4.35964
     }
   },
   {
@@ -1955,8 +2306,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.99592,
+      "lng": -3.79688
     }
   },
   {
@@ -1975,8 +2326,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 56.22847,
+      "lng": -3.12523
     }
   },
   {
@@ -1995,8 +2346,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.85791,
+      "lng": -4.25315
     }
   },
   {
@@ -2015,8 +2366,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 57.57852,
+      "lng": -4.76195
     }
   },
   {
@@ -2035,8 +2386,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.90157,
+      "lng": -4.74406
     }
   },
   {
@@ -2055,8 +2406,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.83225,
+      "lng": -3.11044
     }
   },
   {
@@ -2075,8 +2426,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 57.47473,
+      "lng": -3.26511
     }
   },
   {
@@ -2095,8 +2446,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 57.91985,
+      "lng": -6.8577
     }
   },
   {
@@ -2115,8 +2466,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.87484,
+      "lng": -3.94846
     }
   },
   {
@@ -2135,8 +2486,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 59.02764,
+      "lng": -3.03735
     }
   },
   {
@@ -2155,8 +2506,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 56.56651,
+      "lng": -3.82309
     }
   },
   {
@@ -2175,8 +2526,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.84643,
+      "lng": -4.54237
     }
   },
   {
@@ -2195,8 +2546,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.57646,
+      "lng": -2.78775
     }
   },
   {
@@ -2215,8 +2566,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 60.38325,
+      "lng": -1.25496
     }
   },
   {
@@ -2235,8 +2586,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.26789,
+      "lng": -4.68848
     }
   },
   {
@@ -2255,8 +2606,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.6128,
+      "lng": -3.81105
     }
   },
   {
@@ -2275,8 +2626,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 56.24431,
+      "lng": -4.34094
     }
   },
   {
@@ -2295,8 +2646,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.98583,
+      "lng": -4.51657
     }
   },
   {
@@ -2315,8 +2666,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 55.88432,
+      "lng": -3.57434
     }
   },
   {
@@ -2335,8 +2686,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.64758,
+      "lng": -3.20422
     }
   },
   {
@@ -2355,8 +2706,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.51219,
+      "lng": -3.20417
     }
   },
   {
@@ -2375,8 +2726,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.90506,
+      "lng": -4.15808
     }
   },
   {
@@ -2395,8 +2746,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.25463,
+      "lng": -4.07204
     }
   },
   {
@@ -2415,8 +2766,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.13514,
+      "lng": -3.75662
     }
   },
   {
@@ -2435,8 +2786,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.21092,
+      "lng": -3.16461
     }
   },
   {
@@ -2455,8 +2806,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 53.28751,
+      "lng": -4.36108
     }
   },
   {
@@ -2475,8 +2826,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.76601,
+      "lng": -2.87235
     }
   },
   {
@@ -2495,8 +2846,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.57881,
+      "lng": -2.96477
     }
   },
   {
@@ -2515,8 +2866,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.85476,
+      "lng": -4.88656
     }
   },
   {
@@ -2535,8 +2886,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 52.32573,
+      "lng": -3.40971
     }
   },
   {
@@ -2555,8 +2906,8 @@
     "key_industries": [],
     "key_history": [],
     "centroid": {
-      "lat": 0,
-      "lng": 0
+      "lat": 51.64773,
+      "lng": -3.43758
     }
   }
 ]

@@ -1,18 +1,85 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>{{ county.name if county else "Region not found" }}</title>
+  <title>{{ county.name if county else "Region not found" }} · Explore Islands</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+  <link rel="stylesheet" href="/static/css/county.css">
 </head>
 <body>
-  {% if county %}
-    <h1>{{ county.name }}</h1>
-    <p><strong>Region:</strong> {{ county.region or "Unknown" }}</p>
-    <p><strong>Country group:</strong> {{ county.country_group or "Unknown" }}</p>
-    <p><strong>Colours:</strong> {{ county.colours }}</p>
-  {% else %}
-    <h1>Region not found</h1>
-  {% endif %}
+  <div class="page">
+    <a class="back-link" href="/">&#8592; Back to map</a>
+
+    {% if county %}
+    <header class="hero" style="--c-primary: {{ county.primary_colour or '#222' }};">
+      <h1>{{ county.name }}</h1>
+      {% if county.motto %}<p class="motto">{{ county.motto }}</p>{% endif %}
+      <p class="meta">
+        {{ county.region or "Unknown" }}
+        {% if county.country_group %} &middot; {{ county.country_group }}{% endif %}
+      </p>
+      {% if county.colours %}
+      <div class="swatches" title="County colours">
+        {% for colour in county.colours %}
+        <span class="swatch" style="background: {{ colour }};"></span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </header>
+
+    <div class="layout">
+      <div id="county-map"></div>
+      <div class="facts">
+        {% if county.key_places %}
+        <section class="card">
+          <h2>Key places</h2>
+          <div class="tags">
+            {% for place in county.key_places %}<span class="tag">{{ place }}</span>{% endfor %}
+          </div>
+        </section>
+        {% endif %}
+        {% if county.key_industries %}
+        <section class="card">
+          <h2>Industries</h2>
+          <div class="tags">
+            {% for ind in county.key_industries %}<span class="tag">{{ ind }}</span>{% endfor %}
+          </div>
+        </section>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if county.key_history %}
+    <section class="card history">
+      <h2>History &amp; heritage</h2>
+      <ul>
+        {% for item in county.key_history %}<li>{{ item }}</li>{% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+    {% if not county.key_places and not county.key_industries and not county.key_history %}
+    <p class="empty-note">Detailed information for this region hasn't been added yet.</p>
+    {% endif %}
+
+    <script>
+      window.COUNTY = {
+        slug: {{ county.slug | tojson }},
+        primary: {{ (county.primary_colour or "#ffcc00") | tojson }},
+        secondary: {{ (county.secondary_colour or "#ffffff") | tojson }},
+        centroid: {{ (county.centroid or {"lat": 0, "lng": 0}) | tojson }}
+      };
+    </script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="/static/js/county.js"></script>
+
+    {% else %}
+    <div class="notfound">
+      <h1>Region not found</h1>
+      <p>We don't have a region matching that link.</p>
+    </div>
+    {% endif %}
+  </div>
 </body>
 </html>
